@@ -2,6 +2,7 @@
 title: Glossary For Card Naming
 enableToc: 
 tags:
+  - gdoc
 ---
 The Archmages
 Figure they might be useful for naming spell’s. “Lutekai’s Fireball” and the like idk.
