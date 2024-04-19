@@ -1,5 +1,5 @@
 ---
-title: Atnia
+title: Atnia TTRPG
 tags:
   - navigation
 enableToc: "true"
