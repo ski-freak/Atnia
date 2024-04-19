@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Atnia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://github.com/ski-freak/atnia",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -33,19 +33,21 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#284b63", // 284b63
+          tertiary: "#84a59d", // 84a59d
           highlight: "rgba(143, 159, 169, 0.15)",
+//          currentgraph: "#f28482",
         },
         darkMode: {
-          light: "#161618",
+          light: "#161618", // 161618
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#96a9c2", // 7b97aa
+          tertiary: "#606984", // 84a59d
           highlight: "rgba(143, 159, 169, 0.15)",
+//          currentgraph: "#f58382",
         },
       },
     },
@@ -80,6 +82,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        includeEmptyFiles: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
