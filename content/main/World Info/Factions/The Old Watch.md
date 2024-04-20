@@ -5,6 +5,10 @@ tags:
 ---
 The Old Watch is a peasant democracy operating out of an ancient keep in the southern mountains of Atnia. When the world
 
+>[!infobox]
+>This is a box
+>
+>it has info
 
 
 ---
