@@ -24,8 +24,8 @@ The game takes place in Atnia, the setting of birdsandbees' Tabletop RPG. A very
 ### Shared Round
 During each round players will take turns playing cards and taking actions. These actions include:
 - Pass - When both players pass, if cards are being played, all cards resolve, and if no cards are being played, move onto the next step/phase of the round. Everything basically revolves around this double pass system, both players pass, then everything resolves and/or you move to the next step/phase.
-- Play a card or ability (see "playing cards").
-- Attack - During the main phase while you have priority and there are no unresolved effects, you may start an attack. You may only attack twice per round.
+- Play a Card or Ability - See "Playing Cards".
+- Attack / Enter Combat - See "Combat".
 
 ### Round Phases:
 1 - Round Start (unflip, beginning step)
@@ -38,9 +38,11 @@ During each round players will take turns playing cards and taking actions. Thes
 - Do end of turn things, then discard down to max hand size and start the next round.
 
 ### Combat:
+During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
+
 Combat phase outline:
-- Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved.
-- Step 2 - Defending player declares up to one blocking unit for each attacking unit. 
+- Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
+- Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
 - Step 3 - The attacking player is given priority. After a double pass occurs, the stack/dream is resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
 - End of combat.
 Notes:
