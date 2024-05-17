@@ -46,6 +46,7 @@ Combat phase outline:
 Notes:
 - Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
 - After combat, the game returns to the main phase and the player who was defending is given priority.
+- By attacking, the attacking player becomes the first player for the remainder of the round / until the other player attacks.
 
 ### Zones:
 - Deck - Your deck of cards.
@@ -92,10 +93,11 @@ Notes on timing and dream/the stack:
 - Note: Channeling cards is done at `<speed%>` (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
 ### Starting the game:
-To start the game, randomly determine the first player. Each player then shuffles their deck, (reveals their starting claim if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game, Priority starting with the first player as randomly determined. At each round start, the player with the highest total offense of their units becomes the first player. If it is tied, priority begins with the player who played second in the previous round.
+To start the game, randomly determine the first player. Each player then shuffles their deck, (reveals their starting claim if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game, Priority starting with the first player as randomly determined. At each round start (before any steps or phases happen), the player with the highest total/combined offense of their units becomes the first player. If it is tied, the player who began as the second player in the previous round becomes the first player.
 
 ## Extra Notes:
 - Cards can take damage when in dream or in play. When a card receives damage greater than it's defense stat, it is put into memory.
+- 
 
 ## Card Semantics:
 Eh see the spreadsheet for this (when I add it). But for now, here's *some* info: 
