@@ -18,5 +18,5 @@ Welcome to the Atnia wiki / work in progress worldbuilding thing.
 ---
 ### See also:
 - [[Editing Setup]]
-- [[Factions]]
-- 
+- [[Atnia One-Pager]]
+- [[Card Game Info Dump Doc]]
