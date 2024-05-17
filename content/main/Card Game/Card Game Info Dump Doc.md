@@ -73,10 +73,12 @@ There are multiple card types:
 All cards have a numerical Resource cost, Source requirement(s), and Speed value, as well as a Defense stat.
 
 ### Playing Cards:
-To play a card, you must meet it's source requirement (for each source (number) you are missing, the card costs `<resource1>` more to play), and pay it's resource cost. The card is then put onto the stack/dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream/the stack are put on top of other cards already there. Once both players pass, all cards in dream/the stack (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, priority is given to the player who did not begin the stack. 
+To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto the stack/dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream/the stack are put on top of other cards already there. Once both players pass, all cards in dream/the stack (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, priority is given to the player who did not begin the stack. 
 
 Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream/the stack. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Note: if there are no cards currently being played / in dream/the stack, cards with negative speed values may be played without needing to be accelerated.
+
+Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled and allied claims of that source in play. For each source (number) you are missing, the card costs `<resource1>` more to play.
 
 Notes on timing and dream/the stack:
 - All `<speed%>` (infinite speed) speed effects are resolved before any others, cannot be responded to by any player, and do not affect who has priority.
@@ -101,7 +103,7 @@ To start the game, randomly determine the first player. Each player then shuffle
 
 ## Extra Notes:
 - Cards can take damage when in dream or in play. When a card receives damage greater than it's defense stat, it is put into memory.
-- 
+- Some cards may have activated abilities, indicated by `<$>` symbol. These abilities can be activated and played similar to cards. Unless otherwise noted, you may only activate abilities of cards in play.
 
 ## Card Semantics:
 Eh see the spreadsheet for this (when I add it). But for now, here's *some* info: 
