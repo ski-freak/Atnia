@@ -20,3 +20,4 @@ Welcome to the Atnia wiki / work in progress worldbuilding thing.
 - [[Editing Setup]]
 - [[Atnia One-Pager]]
 - [[Card Game Info Dump Doc]]
+- [[Card & TTRPG Outline & Plans]]
