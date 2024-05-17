@@ -87,12 +87,14 @@ Notes on timing and dream/the stack:
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
 
 ### Resource & main card draw system:
-- All cards in hand can be channeled into the channel zone to produce 1 resource.
+All cards in hand can be channeled into the channel zone to produce 1 resource. There is a single (numerical) resource pool for each player, there is no maximum/cap to how many resources you can have at any given time.
+- Note: Channeling cards is done at `<speed%>` (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
+
 - At the end of the round the following steps are carried out:
 	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand and channel zone + 2, (up to 10) becomes that players' maximum hand size for the round round.
 	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination
 	- Players draw up to their maximum hand size.
-- Note: Channeling cards is done at `<speed%>` (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
+
 
 ### Starting the game:
 To start the game, randomly determine the first player. Each player then shuffles their deck, (reveals their starting claim if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game, Priority starting with the first player as randomly determined. At each round start (before any steps or phases happen), the player with the highest total/combined offense of their units becomes the first player. If it is tied, the player who began as the second player in the previous round becomes the first player.
