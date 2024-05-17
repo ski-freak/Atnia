@@ -17,13 +17,14 @@ Currently we have enough card designs to test with, the cards in the main google
 
 That will be done with *all* of the current cards. Currently cards are basically being made as one huge pile (Ski has like 600ish now). This big pile will then be pulled from to create actual card sets as you would normally expect from a card game. It seems to simply be easier to design this way, as trying to create a set of cards with roughly equal numbers of card types, sources/colors, costs, etc, while also creating the cards at the same time is extremely difficult. It seems it is much easier to just make a bunch of cards, and pull from them while adding a few new ones to create a final card set. Cards unused in the initial set(s) will simply be pushed off to be used later.
 
+- You can find rules for the card game here: [[Card Game Info Dump Doc]], and the card design spreadsheet [here](https://docs.google.com/spreadsheets/d/1RDuqokq3RVDQv1vOBgSlnQbRpQ1KFyX1tBaPVvDhRUk/edit#gid=1256812815)
+- Check
 # Atnia / Nightmares from the New World / The Old Watch (The TTRPG)
 
-A table top rpg project (think D&D) by Birds/7teenwriters, Fionn, (can't remember her name), and Ski is helping a little bit maybe. This consists of game rules for the ttrpg as well as the setting for it, which goes by a bunch of names right now, but the primary geographic area is called Atnia. You can find more information about it [on this website](https://ski-freak.github.io/Atnia/main/World-Info/Google-Docs/Misc/Bits/Atnia-One-Pager) which is currently storing the work in progress documents for the game and setting.
+A table top rpg project (think D&D) by Birds/7teenwriters, Fionn, (can't remember her name), and Ski is helping a little bit maybe. This consists of game rules for the ttrpg as well as the setting for it, which goes by a bunch of names right now, but the primary geographic area is called Atnia. You can find more information about it here [[Atnia One-Pager]]. This site is currently storing the work in progress documents for the game and setting.
 
 As it shares a setting, it is fairly interconnected with the card game. Soon we will be creating a bit more of a public web presence for the it / the setting, which may include a main page, discord server for people to contribute to lore, and/or youtube channel with series that contribute to worldbuilding.
 
 I (Ski) do not have extensive knowledge of the short/long term plans for the TTRPG project, so cannot add them at this time.
-
 
 ---
