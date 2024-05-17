@@ -28,22 +28,22 @@ During each round players will take turns playing cards and taking actions. Thes
 - Attack / Enter Combat - See "Combat".
 
 ### Round Phases:
-1 - Round Start (unflip, beginning step)
-- Unflip all your cards in play.
-- If an effect refers to the start of the round, it happens here.
-2 - Main phase
-- Players take turns taking actions.
-3 - Round End
-- If an effect refers to the end of the round, it happens here.
-- Do end of turn things, then discard down to max hand size and start the next round.
+1. - Round Start (unflip, beginning step)
+	- Unflip all your cards in play.
+	- If an effect refers to the start of the round, it happens here.
+2. - Main phase
+	- Players take turns taking actions.
+3. - Round End
+	- If an effect refers to the end of the round, it happens here.
+	- Do end of turn things, then discard down to max hand size and start the next round.
 
 ### Combat:
 During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
 
 Combat phase outline:
-- Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
-- Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
-- Step 3 - The attacking player is given priority. After a double pass occurs, the stack/dream is resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
+1. Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
+2. Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
+3. Step 3 - The attacking player is given priority. After a double pass occurs, the stack/dream is resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
 - End of combat.
 Notes:
 - Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
