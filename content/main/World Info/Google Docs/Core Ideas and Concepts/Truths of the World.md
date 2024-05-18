@@ -1,7 +1,8 @@
 ---
-title: ""
+title: Truths of the World
 enableToc: 
 tags:
+  - gdoc
 ---
 - All is dirt and all will return to dirt
 - Consciousness is a mirror and a fractal, reflecting but distorting the same ideas across time
