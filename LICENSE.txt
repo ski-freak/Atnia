@@ -1,8 +1,4 @@
-
-
-Contents of this git repo, except that in the "content" folder, are under an 
-MIT License. Files within the "content" folder are not free to use. Files outside 
-the "content" folder are:
+This license applies only to files within this repostitory which are outside of the "content" folder.
 
 MIT License
 
