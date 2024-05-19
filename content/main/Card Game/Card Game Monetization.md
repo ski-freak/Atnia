@@ -11,7 +11,11 @@ All cards / gameplay would be available from this, you would not have to buy pac
 
 Card cosmetics would come in the form of styles for a given card, so if you have a style (or multiple different ones) for a card you can choose to enable it for that card in your collection/deck. (You would only ever get or need one of a given style for a given card, even if you use three of that card in your deck for example.)
 
-
+Potential cosmetics:
+- Parallax versions
+- Full Art versions
+- Alternate art for named characters / things
+- Card "frame" styles if we have some equivalent to that depending on how the visuals of cards are made
 
 # Paper
 
