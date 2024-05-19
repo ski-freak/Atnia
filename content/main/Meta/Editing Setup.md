@@ -1,5 +1,5 @@
 ---
-title: Editing Tools
+title: Editing Setup
 enableToc: 
 tags:
 ---
