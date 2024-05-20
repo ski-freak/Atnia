@@ -104,6 +104,7 @@ To start the game, randomly determine the first player. Each player then shuffle
 ## Extra Notes:
 - Cards can take damage when in dream or in play. When a card receives damage greater than it's defense stat, it is put into memory.
 - Some cards may have activated abilities, indicated by `<$>` symbol. These abilities can be activated and played similar to cards. Unless otherwise noted, you may only activate abilities of cards in play.
+- Each deck will also have an additional card, a Starting Location claim, which begins the game in void and can be played at any time throughout the game with the additional cost of putting a card from your hand on the bottom of your deck. These will be very basic, generally serve to smooth out draws, and are not at all meant to be a commander type card. Think basic lands from mtg, but just a little bit more variety. 
 
 ## Card Semantics:
 Eh see the spreadsheet for this (when I add it). But for now, here's *some* info: 

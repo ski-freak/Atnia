@@ -13,11 +13,14 @@ Card cosmetics would come in the form of styles for a given card, so if you have
 
 You could also get cosmetics that are multiple cosmetics as a higher rarity thing, such as both full art and parallax for example.
 
-Potential cosmetics:
+Potential card cosmetics:
 - Parallax versions
 - Full Art versions
 - Alternate art for named characters / things
 - Card "frame" styles if we have some equivalent to that depending on how the visuals of cards are made
+
+Other potential cosmetics:
+- Alternate boards
 
 # Paper
 
