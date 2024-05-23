@@ -10,9 +10,7 @@ If you would like to contribute to the card game, first make sure you have read 
 - Feel free to just go in and name any cards with a highlighted name cell starting with `\`. There is conditional formatting to highlight any cell starting with a backslash. When you name a card, remove the backslash. Names should attempt to be usable in the final game.
 
 **Gather temporary card "art" images for cards**
-- Column k of the sheet indicates whether a card has a temporary card art image yet.
-- Card art images will be stored in the git repo for the software version of the game with the naming format `{cardname}.png`. (Will be adding more details on this soon).
-- You can find in the Project Gamma discord onboarding channel a photoshop template for taking random images and saving them in a way that works for the game. Feel free to use whatever images you want, from stock images, to h3llomarc twitch emotes. All will be temporary, and serve the primary purpose of making cards easy to distinguish at a glance. Because of this, try to make the card image at least somewhat related to the card name.
+See [[Card Game Imaging]]
 
 **Create new card designs**
 - If you understand all the wording and formatting of cards (more organized info on that at some point), feel free to add new cards of your own creation to the sheet. You are encouraged to share your new card designs in the Card Creation discord channel within the Project Gamma category.
