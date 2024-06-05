@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "main/attachments",
+  "newLinkFormat": "shortest",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "main/Unsorted",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

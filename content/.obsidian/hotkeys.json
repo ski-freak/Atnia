@@ -1,0 +1,24 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [],
+      "key": "F16"
+    }
+  ],
+  "templater-obsidian:templates/Card Game Info Template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
+}
