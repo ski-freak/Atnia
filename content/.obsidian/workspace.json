@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Infobox Template NoCards.md",
+                "file": "templates/Default Template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Infobox Template NoCards.md",
+                "file": "templates/Default Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Infobox Template NoCards.md",
+                "file": "templates/Default Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Infobox Template NoCards.md"
+                "file": "templates/Default Template.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "0d56cc80a3854416",
   "lastOpenFiles": [
-    "templates/References Template.md",
     "templates/Infobox Template NoCards.md",
+    "templates/References Template.md",
     "templates/Default Template Backup.md",
     "templates/Default Template.md",
     "templates/date template.md",
