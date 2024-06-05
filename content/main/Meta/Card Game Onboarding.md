@@ -10,6 +10,7 @@ If you would like to contribute to the card game, first make sure you have read 
 - Feel free to just go in and name any cards with a highlighted name cell starting with `\`. There is conditional formatting to highlight any cell starting with a backslash. When you name a card, remove the backslash. Names should attempt to be usable in the final game.
 
 **Gather temporary card "art" images for cards**
+
 See [[Card Game Imaging]]
 
 **Create new card designs**
