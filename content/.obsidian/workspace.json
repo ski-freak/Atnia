@@ -12,14 +12,12 @@
             "id": "0d56cc80a3854416",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -11.20001220703125,
-                  "zoom": 0
-                }
+                "file": "templates/Infobox Template NoCards.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "templates/Infobox Template NoCards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "templates/Infobox Template NoCards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "templates/Infobox Template NoCards.md"
               }
             }
           }
@@ -199,15 +197,15 @@
   },
   "active": "0d56cc80a3854416",
   "lastOpenFiles": [
-    "main/Lore/Atnia.md",
-    "2024-06-05.md",
-    "Untitled.canvas",
-    "templates/Default Template Backup.md",
+    "templates/References Template.md",
     "templates/Infobox Template NoCards.md",
+    "templates/Default Template Backup.md",
     "templates/Default Template.md",
     "templates/date template.md",
     "templates/Card Game Info Template.md",
-    "templates/References Template.md",
+    "main/Lore/Atnia.md",
+    "2024-06-05.md",
+    "Untitled.canvas",
     "main/Unsorted/Untitled.md",
     "main/Meta/Card Game Onboarding.md",
     "main/Card Game/Card Game Imaging.md",
@@ -232,7 +230,6 @@
     "main/Meta/Editing Tips.md",
     "templates/Untitled.md",
     "main/World Info/Factions/Test page.md",
-    "main/World Info/Factions/The Old Watch.md",
     "main/attachments/Pasted image 20240420011846.png",
     "main/attachments/Pasted image 20240420011642.png",
     "main/attachments/Pasted image 20240420011518.png",
