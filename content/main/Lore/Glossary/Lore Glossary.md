@@ -430,7 +430,7 @@ The Twilight Isle
 
 ---
 
-The University of Adva
+[[The University of Adva]]
 
 ---
 
