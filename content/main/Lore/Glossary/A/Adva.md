@@ -1,0 +1,1 @@
+Isle in Hellas near the coast of Lekvia and Jespark, home to [[The University of Adva]] where five of the seven archmages studied. 
