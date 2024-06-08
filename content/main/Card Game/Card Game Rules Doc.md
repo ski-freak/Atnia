@@ -78,7 +78,7 @@ To play a card, you must meet it's source requirement and pay it's costs. The ca
 Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream/the stack. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Note: if there are no cards currently being played / in dream/the stack, cards with negative speed values may be played without needing to be accelerated.
 
-Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled and allied claims of that source in play. For each source (number) you are missing, the card costs 1 energy more to play.
+Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined face up among your channeled and allied claims of that source in play. For each source (number) you are missing, the card costs 1 energy more to play.
 
 Notes on timing and dream/the stack:
 - All `<speed%>` (infinite speed) speed effects are resolved before any others, cannot be responded to by any player, and do not affect who has priority.
@@ -89,7 +89,7 @@ Notes on timing and dream/the stack:
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
 
 ### Channel and main card draw system:
-All cards in hand can be channeled into the channel zone to produce 1 energy. There is a single (numerical) energy pool for each player, there is no maximum/cap to how much energy you can have at any given time.
+All cards in hand can be channeled into the channel zone to produce 1 energy (cards can be channeled face up or face down). There is a single (numerical) energy pool for each player, there is no maximum/cap to how much energy you can have at any given time. At round end, players retain up to 3 energy and any excess is discarded.
 - Note: Channeling cards is done at `<speed%>` (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
 - At the end of the round the following steps are carried out:
