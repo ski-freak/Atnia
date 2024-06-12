@@ -60,19 +60,19 @@
 # **C**
 
 ---
-Chancellor of Works
+[[Chancellor of Works]]
 
-Chefs of The Old Watch
+[[Chefs of The Old Watch]]
 
-Clang Blades
+[[Clang Blades]]
 
-The College of Dreams
+[[The College of Dreams]]
 
-Concept
+[[Concept]]
 
-Cornagt
+[[Cornagt]]
 
-Cyrvo
+[[Cyrvo]]
 
 ---
 
@@ -80,48 +80,48 @@ Cyrvo
 
 ---
 
-The Dandies
+[[The Dandies]]
 
-The Defense Council
+[[The Defense Council]]
 
-Demons
+[[Demons]]
 
-Discourses on the Scattering of Peoples
+[[Discourses on the Scattering of Peoples]]
 
-Divination Magic
+[[Divination Magic]]
 
-Divine Magic
+[[Divine Magic]]
 
-Dragons
+[[Dragons]]
 
-Dream
+[[main/Lore/Glossary/D/Dream|Dream]]
 
-Dream Magic
+[[Dream Magic]]
 
-Dream Totems
+[[Dream Totems]]
 
 ---
 
 # **E**
 
 ---
-The East
+[[The East]]
 
-Eda and Abon
+[[Eda and Abon]]
 
-Elves
+[[Elves]]
 
-Emotion Magic
+[[Emotion Magic]]
 
-The Endless Isles
+[[The Endless Isles]]
 
-Eudoxia Esmondeus
+[[Eudoxia Esmondeus]]
 
-The Esmondian Dynasty
+[[The Esmondean Dynasty]]
 
-Esmond Pater
+[[Esmond Pater]]
 
-Ethleka
+[[Ethleka]]
 
 ---
 
@@ -129,34 +129,34 @@ Ethleka
 
 ---
 
-The Fifth Legion
+[[The Fifth Legion]]
 
-The First Archmage
+[[The First Archmage]]
 
-The First Legion
+[[The First Legion]]
 
-The Forsaken
+[[The Forsaken]]
 
-The Four Winds
+[[The Four Winds]]
 
-Fost Féac
+[[Fost Féac]]
 
 ---
 
 # **G**
 
 ---
-Gaius Tetlok
+[[Gaius Tetlok]]
 
-Gakt
+[[Gakt]]
 
-Goblins
+[[Goblins]]
 
-The God of the Shattered Mirror
+[[The God of the Shattered Mirror]]
 
-The Gods
+[[The Gods]]
 
-The Guilds of The Old Watch
+[[The Guilds of The Old Watch]]
 
 ---
 
@@ -164,39 +164,39 @@ The Guilds of The Old Watch
 
 ---
 
-Heirne
+[[Hierne]]
 
-The Hellas Isles
+[[The Hellas Isles]]
 
-The Hells
+[[The Hells]]
 
-High Atonian
+[[High Atonian]]
 
-The Horned Legion
+[[The Horned Legion]]
 
-Humans
+[[Humans]]
 
-Hwain
+[[Hwain]]
 
 ___
 # **I**
 
 ---
 
-Immortals
+[[Immortals]]
 
-Indiginous Atnian Culture
+[[Indigenous Atnian Culture]]
 
-The Inkbloods
+[[The Inkbloods]]
 
-Invention Magic
+[[Invention Magic]]
 
 ---
 # **J**
 
 ---
 
-Jespark
+[[Jespark]]
 
 ---
 
@@ -204,11 +204,11 @@ Jespark
 
 ---
 
-Kluatra
+[[Kluatra]]
 
-The Knights of Redemption
+[[main/Lore/Glossary/K/The Knights of Redemption|The Knights of Redemption]]
 
-The Knights on the Wall
+[[The Knights on the Wall]]
 
 ---
 
@@ -216,35 +216,33 @@ The Knights on the Wall
 
 ---
 
-Language
+[[Language]]
 
-Law Magic
+[[Law Magic]]
 
-Laws in Atnia
+[[Laws in The Old Watch]]
 
-Laws in The Old Watch
+[[The Legend of Hands and Winds]]
 
-The Legend of Hands and Winds
+[[The Legend of How Insects Grew so Small]]
 
-The Legend of How Insects Grew so Small
+[[The Legend of How Insects Took Hair and Scale]]
 
-The Legend of How Insects Took Hair and Scale
+[[Lekvia]]
 
-Lekvia
+[[Lentholm]]
 
-Lentholm
+[[Liev]]
 
-Liev
+[[Lord Inkblood]]
 
-Lord Inkblood
+[[The Loyalist Bloc]]
 
-The Loyalist Block
+[[Lug]]
 
-Lug
+[[Lutekai]]
 
-Lutekai
-
-Lyekvyek
+[[Lyekvyek]]
 
 ---
 
@@ -252,21 +250,21 @@ Lyekvyek
 
 ---
 
-Major Alchemy
+[[Alchemy#^1e2fdc|Major Alchemy]]
 
-Mnem (city)
+[[Mnem (city)]]
 
-Mnem (country)
+[[Mnem (nation)]]
 
-Middle Atonian
+[[Middle Atonian]]
 
-Minor Alchemy
+[[Alchemy#^ec9f80|Minor Alchemy]]
 
-Mvos
+[[Mvos]]
 
-Mykeldor
+[[Mykeldor]]
 
-Myrkur
+[[Myrkur]]
 
 ---
 
@@ -274,11 +272,11 @@ Myrkur
 
 ---
 
-The Nameless City
+[[The Nameless City]]
 
-The North
+[[The North]]
 
-Nyka
+[[Nyka]]
 
 ---
 
@@ -286,51 +284,51 @@ Nyka
 
 ---
 
-Oana
+[[main/Lore/Glossary/O/Oana|Oana]]
 
-Ogres
+[[Ogers]]
 
-The Ogres of Mnem
+[[The Ogers of Mnem]]
 
-The Old Gods
+[[main/Lore/Glossary/O/The Old Gods|The Old Gods]]
 
-The Old Watch
+[[main/Lore/Glossary/O/The Old Watch|The Old Watch]]
 
-The Old Watch Militia
+[[The Old Watch Militia]]
 
-The Old World
+[[The Old World]]
 
-The Old World Isles
+[[The Old World Isles]]
 
-Oln
+[[Oln]]
 
-Orcs
+[[Orcs]]
 
-The Order of the Book
+[[The Order of the Book]]
 
-The Order of the Coin
+[[The Order of the Coin]]
 
-The Order of the Lake
+[[The Order of the Lake]]
 
-The Order of the Mirror
+[[The Order of the Mirror]]
 
-The Order of the Moon
+[[The Order of the Moon]]
 
-The Order of the Poppy
+[[The Order of the Poppy]]
 
-The Order of the Ring
+[[The Order of the Ring]]
 
-The Order of the Second
+[[The Order of the Second]]
 
-The Order of the Sun
+[[The Order of the Sun]]
 
-The Order of the Torch
+[[The Order of the Torch]]
 
-The Order of Wheat
+[[The Order of Wheat]]
 
-Oruva
+[[Oruva]]
 
-Ozen
+[[Ozen]]
 
 ---
 
@@ -338,21 +336,21 @@ Ozen
 
 ---
 
-The Pale Sun
+[[The Pale Sun]]
 
-Pax
+[[Pax]]
 
-Pax Nova
+[[Pax Nova]]
 
-Pirates
+[[Pirates]]
 
-Planar Magic
+[[Planar Magic]]
 
-The Planes
+[[The Planes]]
 
-Pontiffs of The Veriglas
+[[Pontiffs of The Veriglas]]
 
-Pyrus
+[[Pyrus]]
 
 ---
 
@@ -364,9 +362,9 @@ Pyrus
 
 ---
 
-The Rift
+[[The Rift]]
 
-The Royalist Block
+[[The Royalist Bloc]]
 
 ---
 
@@ -374,29 +372,29 @@ The Royalist Block
 
 ---
 
-The Salt Alliance
+[[The Salt Alliance]]
 
-The Scorched Plain
+[[The Scorched Plain]]
 
-The Scouts
+[[The Scouts]]
 
-The Scribes
+[[The Scribes]]
 
-Sharp Blades
+[[Sharp Blades]]
 
-The Sleeping Monks
+[[The Sleeping Monks]]
 
-Soul Henrickson 
+[[Soul Henrickson]]
 
-Skyhaven
+[[Skyhaven]]
 
-Sorvald
+[[Sorvald]]
 
-Stizit of Heirne
+[[Stizit of Hierne]]
 
-Summer Wars
+[[Summer Wars]]
 
-Svet
+[[Svet]]
 
 ---
 
@@ -404,25 +402,25 @@ Svet
 
 ---
 
-The Thirteenth Crossroad
+[[The Thirteenth Crossroad]]
 
-Thulia Aestrom
+[[Thulia Aestrom]]
 
-Time Magic
+[[Time Magic]]
 
-True
+[[True]]
 
-True Dragons
+[[True Dragons]]
 
-Tta
+[[Tta]]
 
-The Twelve Crossroads
+[[The Twelve Crossroads]]
 
-The Twenty-Six Grimoires
+[[The Twenty-Six Grimoires]]
 
-The Twilight Greatbridge
+[[The Twilight Greatbridge]]
 
-The Twilight Isle
+[[The Twilight Isle]]
 
 ---
 
@@ -438,15 +436,15 @@ The Twilight Isle
 
 ---
 
-The Vanished City
+[[The Nameless City|The Vanished City]]
 
-The Veriglas
+[[The Veriglas]]
 
-The Void
+[[The Void]]
 
-Vosderon
+[[Vosderon]]
 
-Vulgar Atonian
+[[Vulgar Atonian]]
 
 ---
 
@@ -454,11 +452,11 @@ Vulgar Atonian
 
 ---
 
-Waking Dream
+[[Waking Dreams]]
 
-Warlocks
+[[Warlocks]]
 
-Wizardry
+[[Wizardry]]
 
 ---
 
@@ -466,9 +464,9 @@ Wizardry
 
 ---
 
-Xwageen
+[[Xwageen]]
 
-Xwauda
+[[Xwauda]]
 
 ---
 
@@ -476,7 +474,7 @@ Xwauda
 
 ---
 
-Ystosk
+[[Ystosk]]
 
 ---
 
@@ -484,4 +482,4 @@ Ystosk
 
 ---
 
-Zoggir
+[[Zoggir]]

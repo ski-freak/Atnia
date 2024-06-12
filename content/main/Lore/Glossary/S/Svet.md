@@ -1,0 +1,5 @@
+---
+title: Svet
+tags: 
+aliases:
+---

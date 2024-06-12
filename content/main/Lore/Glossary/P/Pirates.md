@@ -1,0 +1,5 @@
+---
+title: Pirates
+tags: 
+aliases:
+---

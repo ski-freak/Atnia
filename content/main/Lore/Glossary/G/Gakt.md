@@ -1,0 +1,5 @@
+---
+title: Gakt
+tags: 
+aliases:
+---

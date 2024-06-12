@@ -1,0 +1,5 @@
+---
+title: Wizardry
+tags: 
+aliases:
+---

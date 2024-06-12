@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Lore/Glossary/A/The Ages of the World.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Lore/Glossary/A/The Ages of the World.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Lore/Glossary/A/The Ages of the World.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Lore/Glossary/A/The Ages of the World.md"
+                "file": "main/Lore/Glossary/Lore Glossary.md"
               }
             }
           }
@@ -162,32 +162,33 @@
   },
   "active": "c6ebe1124ceaea5b",
   "lastOpenFiles": [
-    "main/Lore/Glossary/C/Cyrvo.md",
-    "main/Lore/Glossary/C/Cornagt.md",
-    "main/Lore/Glossary/C/Concept.md",
-    "main/Lore/Glossary/C/The College of Dreams.md",
-    "main/Lore/Glossary/C/Clang Blades.md",
+    "main/Lore/Glossary/O/The Ogers of Mnem.md",
     "main/Lore/Glossary/Lore Glossary.md",
-    "main/Lore/Glossary/C/Chefs of The Old Watch.md",
-    "main/Lore/Glossary/C/Chancellor of Works.md",
-    "main/Lore/Glossary/B/Bug Hunts.md",
-    "main/Lore/Glossary/B/Bug Eaters.md",
-    "main/Lore/Glossary/B/Braeg.md",
-    "main/Lore/Glossary/B/Blood Magic.md",
-    "main/Lore/Atnia.md",
-    "main/Lore/Glossary/A/Archmages.md",
-    "main/Lore/Glossary/A/Aulvan Ruins.md",
-    "main/Lore/Glossary/A/The Aulva.md",
-    "main/Lore/Glossary/A/The Assembly.md",
-    "main/Lore/Glossary/A/Aulvan Magic.md",
-    "main/Lore/Glossary/A/Augusta.md",
-    "main/Lore/Glossary/A/Atnian Law.md",
-    "main/Lore/Glossary/A/Achtha.md",
-    "main/Lore/Glossary/A/Atnia.md",
-    "main/Lore/Glossary/A/Auga.md",
-    "main/Lore/Glossary/A/The Aulvalín.md",
-    "main/Lore/Glossary/A/Aulvan Language.md",
-    "main/Lore/Glossary/A/Aulvalia.md",
+    "main/Lore/Glossary/A/Alchemy.md",
+    "main/Lore/Glossary/L/The Legend of How Insects Grew so Small.md",
+    "main/Lore/Glossary/L/The Legend of How Insects Took Hair and Scale.md",
+    "main/Lore/Glossary/L/The Legend of Hands and Winds.md",
+    "main/Lore/Glossary/H/Hierne.md",
+    "main/Lore/Glossary/G/The God of the Shattered Mirror.md",
+    "Heirne.md",
+    "main/Lore/Glossary/Z/Zoggir.md",
+    "main/Lore/Glossary/Y/Ystosk.md",
+    "main/Lore/Glossary/X/Xwauda.md",
+    "main/Lore/Glossary/X/Xwageen.md",
+    "main/Lore/Glossary/W/Wizardry.md",
+    "main/Lore/Glossary/W/Warlocks.md",
+    "main/Lore/Glossary/W/Waking Dreams.md",
+    "main/Lore/Glossary/V/Vulgar Atonian.md",
+    "main/Lore/Glossary/V/Vosderon.md",
+    "main/Lore/Glossary/V/The Veriglas.md",
+    "main/Lore/Glossary/V/The Void.md",
+    "main/Lore/Glossary/V/The Vanished City.md",
+    "main/Lore/Glossary/T/The Twilight Isle.md",
+    "main/Lore/Glossary/T/The Twilight Greatbridge.md",
+    "main/Lore/Glossary/T/The Twenty-Six Grimoires.md",
+    "main/Lore/Glossary/T/The Twelve Crossroads.md",
+    "main/Lore/Glossary/T/Tta.md",
+    "main/Lore/Glossary/K/Untitled",
     "Untitled.canvas",
     "main/Card Game/Card Game Patchnotes",
     "main/Lore/World Info/Named Stuff/Named Spells",
@@ -204,7 +205,6 @@
     "main/attachments/Pasted image 20240420011422.png",
     "main/World Info/Google Docs/Misc/Card Game Stuff",
     "main/World Info/Google Docs/Science and Magic",
-    "main/World Info/Google Docs/Game Mechanics/Character Creation and Progression",
     "notes/attachments/Pasted image 20240328164449.png",
     "notes/attachments/Pasted image 20240328162126.png",
     "notes/attachments/Pasted image 20240328162106.png",
