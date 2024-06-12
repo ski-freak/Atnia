@@ -6,15 +6,14 @@
       {
         "id": "962520e34dd2ad18",
         "type": "tabs",
-        "dimension": 49.256342957130364,
         "children": [
           {
-            "id": "0d56cc80a3854416",
+            "id": "c6ebe1124ceaea5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Lore/Glossary/A/Adva.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -22,40 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6dd3ebd348f5bf6a",
-        "type": "tabs",
-        "dimension": 50.743657042869636,
-        "children": [
-          {
-            "id": "4da966d1dceb1dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd10886d9b41114d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main/Card Game/Card Game Patchnotes/Card Game Patch Notes 5-21-2024.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Lore/Glossary/A/Adva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Lore/Glossary/A/Adva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "main/Lore/Glossary/A/Adva.md"
               }
             }
           }
@@ -195,41 +160,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d56cc80a3854416",
+  "active": "c6ebe1124ceaea5b",
   "lastOpenFiles": [
+    "main/Lore/Glossary/A/The Ages of the World.md",
+    "main/Lore/Glossary/Lore Glossary.md",
+    "main/Lore/Glossary/A/Adva.md",
+    "main/Lore/Glossary/A/Achtha.md",
+    "tags/gdoc.md",
+    "tags/navigation.md",
+    "tags/outdated.md",
+    "templates/Lore Template.md",
     "templates/Default Template.md",
-    "main/Unsorted/Untitled.md",
-    "templates/Infobox Template NoCards.md",
-    "templates/References Template.md",
-    "templates/Default Template Backup.md",
     "templates/date template.md",
     "templates/Card Game Info Template.md",
+    "main/World Info (From Docs)/Google Docs/Misc/Bits/Oana.md",
+    "tags/cultures.md",
+    "tags.md",
+    "tags 1.md",
+    "tags 2.md",
+    "tags/gods.md",
     "main/Lore/Atnia.md",
-    "2024-06-05.md",
+    "templates/Infobox Template NoCards.md",
+    "templates/Default Template Backup.md",
+    "templates/References Template.md",
+    "index.md",
+    "main/World Info (From Docs)/Google Docs/Misc/Bits/The Dead Man's Speech.md",
+    "main/World Info (From Docs)/Google Docs/Misc/Bits/The Origin of the Nightmare.md",
+    "main/World Info (From Docs)/Google Docs/Misc/Bits/Pre-Modern map.md",
+    "main/World Info (From Docs)/Google Docs/Misc/Bits/On the Self-Given Name for the Ancient Elves.md",
     "Untitled.canvas",
-    "main/Meta/Card Game Onboarding.md",
-    "main/Card Game/Card Game Imaging.md",
-    "main/Meta/Card Game Software Onboarding.md",
-    "main/Card Game/Card Game Monetization.md",
-    "main/Card Game/Card Game Rules Doc.md",
-    "main/Card Game/Card Game Patchnotes/Card Game Patch Notes 5-21-2024.md",
-    "main/World Info/Google Docs/Core Ideas and Concepts/Truths of the World.md",
-    "main/Meta/Card & TTRPG Outline & Plans.md",
-    "main/Meta/Atnia Onboarding.md",
     "main/Card Game/Card Game Patchnotes",
-    "main/World Info/Named Stuff/Named Living Things/Scribe Smth.md",
     "main/Lore/World Info/Named Stuff/Named Spells",
     "main/Lore/World Info/Named Stuff/Named Objects",
     "main/Lore/World Info/Named Stuff/Named Living Things",
     "main/Lore/World Info/Named Stuff/Named Locations",
     "main/Lore/World Info/Named Stuff",
-    "main/Meta/Editing Setup.md",
-    "index.md",
-    "main/World Info/Google Docs/Misc/Bits/Atnia One-Pager.md",
     "main/Card Game",
-    "main/Meta/Editing Tips.md",
-    "templates/Untitled.md",
-    "main/World Info/Factions/Test page.md",
     "main/attachments/Pasted image 20240420011846.png",
     "main/attachments/Pasted image 20240420011642.png",
     "main/attachments/Pasted image 20240420011518.png",
