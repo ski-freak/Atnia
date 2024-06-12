@@ -1,0 +1,5 @@
+---
+title: Concept
+tags: 
+aliases:
+---

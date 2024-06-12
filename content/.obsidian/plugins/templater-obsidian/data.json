@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "main",
-      "template": "templates/Default Template.md"
+      "template": "templates/Lore Template.md"
     }
   ],
   "syntax_highlighting": true,

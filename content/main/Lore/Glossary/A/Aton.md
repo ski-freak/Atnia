@@ -1,0 +1,5 @@
+---
+title: Aton
+tags: 
+aliases:
+---

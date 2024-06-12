@@ -6,54 +6,54 @@
 
 [[Adva]]
 
-The Ages of the World
+[[The Ages of the World]]
 
-Alchemy
+[[Alchemy]]
 
-Archmages
+[[Archmages]]
 
-Atnia
+[[main/Lore/Glossary/A/Atnia|Atnia]]
 
-Atnian Law
+[[Atnian Law]]
 
-Aton
+[[Aton]]
 
-Atonian
+[[Atonian]]
 
-The Arbiters
+[[The Arbiters]]
 
-Arcane Magic
+[[Arcane Magic]]
 
-The Assembly
+[[The Assembly]]
 
-Auga
+[[Auga]]
 
-Augusta
+[[Augusta]]
 
-The Aulva
+[[The Aulva]]
 
-Aulvalia
+[[Aulvalia]]
 
-Aulvan Language
+[[Aulvan Language]]
 
-Aulvan Magic
+[[Aulvan Magic]]
 
-Aulvan Ruins
+[[Aulvan Ruins]]
 
-The Aulvalín
+[[The Aulvalín]]
 
 ---
 
 # **B**
 
 ---
-Blood Magic
+[[Blood Magic]]
 
-Braeg
+[[Braeg]]
 
-Bug Eaters
+[[Bug Eaters]]
 
-Bug Hunts
+[[Bug Hunts]]
 
 ---
 

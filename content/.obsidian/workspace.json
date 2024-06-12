@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Lore/Glossary/A/Adva.md",
+                "file": "main/Lore/Glossary/A/The Ages of the World.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Lore/Glossary/A/Adva.md",
+                "file": "main/Lore/Glossary/A/The Ages of the World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Lore/Glossary/A/Adva.md",
+                "file": "main/Lore/Glossary/A/The Ages of the World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Lore/Glossary/A/Adva.md"
+                "file": "main/Lore/Glossary/A/The Ages of the World.md"
               }
             }
           }
@@ -162,32 +162,32 @@
   },
   "active": "c6ebe1124ceaea5b",
   "lastOpenFiles": [
-    "main/Lore/Glossary/A/The Ages of the World.md",
+    "main/Lore/Glossary/C/Cyrvo.md",
+    "main/Lore/Glossary/C/Cornagt.md",
+    "main/Lore/Glossary/C/Concept.md",
+    "main/Lore/Glossary/C/The College of Dreams.md",
+    "main/Lore/Glossary/C/Clang Blades.md",
     "main/Lore/Glossary/Lore Glossary.md",
-    "main/Lore/Glossary/A/Adva.md",
-    "main/Lore/Glossary/A/Achtha.md",
-    "tags/gdoc.md",
-    "tags/navigation.md",
-    "tags/outdated.md",
-    "templates/Lore Template.md",
-    "templates/Default Template.md",
-    "templates/date template.md",
-    "templates/Card Game Info Template.md",
-    "main/World Info (From Docs)/Google Docs/Misc/Bits/Oana.md",
-    "tags/cultures.md",
-    "tags.md",
-    "tags 1.md",
-    "tags 2.md",
-    "tags/gods.md",
+    "main/Lore/Glossary/C/Chefs of The Old Watch.md",
+    "main/Lore/Glossary/C/Chancellor of Works.md",
+    "main/Lore/Glossary/B/Bug Hunts.md",
+    "main/Lore/Glossary/B/Bug Eaters.md",
+    "main/Lore/Glossary/B/Braeg.md",
+    "main/Lore/Glossary/B/Blood Magic.md",
     "main/Lore/Atnia.md",
-    "templates/Infobox Template NoCards.md",
-    "templates/Default Template Backup.md",
-    "templates/References Template.md",
-    "index.md",
-    "main/World Info (From Docs)/Google Docs/Misc/Bits/The Dead Man's Speech.md",
-    "main/World Info (From Docs)/Google Docs/Misc/Bits/The Origin of the Nightmare.md",
-    "main/World Info (From Docs)/Google Docs/Misc/Bits/Pre-Modern map.md",
-    "main/World Info (From Docs)/Google Docs/Misc/Bits/On the Self-Given Name for the Ancient Elves.md",
+    "main/Lore/Glossary/A/Archmages.md",
+    "main/Lore/Glossary/A/Aulvan Ruins.md",
+    "main/Lore/Glossary/A/The Aulva.md",
+    "main/Lore/Glossary/A/The Assembly.md",
+    "main/Lore/Glossary/A/Aulvan Magic.md",
+    "main/Lore/Glossary/A/Augusta.md",
+    "main/Lore/Glossary/A/Atnian Law.md",
+    "main/Lore/Glossary/A/Achtha.md",
+    "main/Lore/Glossary/A/Atnia.md",
+    "main/Lore/Glossary/A/Auga.md",
+    "main/Lore/Glossary/A/The Aulvalín.md",
+    "main/Lore/Glossary/A/Aulvan Language.md",
+    "main/Lore/Glossary/A/Aulvalia.md",
     "Untitled.canvas",
     "main/Card Game/Card Game Patchnotes",
     "main/Lore/World Info/Named Stuff/Named Spells",
