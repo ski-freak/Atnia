@@ -36,6 +36,8 @@ After what seemed like an eternity of paradise, the Aulva began to disappear fro
 Towards the end of the fourth age, Xwageen and Cornagt splintered too into smaller warring bands. This vanity and division is often seen as the harbinger of the calamities to come. 
 ## The Fifth Age
 
+^26e554
+
 *The Age of Calamity - The Dark Age*
 
 The Age of Calamity is said to begin with the collapse of Cornagt, as the gates of the royal palace fall at the hands of starving peasants. Truly, Cornagt had long ceased to be a unified nation. The empire was one in name only, with its territories divided by the children of its last great king. For many years crops across the whole of [[The Old World]] had begun to wither. A mass starvation began and the great empires that spanned the continent collapsed in a matter of years. Some nobles still clung to the last vestiges of their kingdoms, praying for salvation, but only more calamities would come. The mysterious [[The Horned Legion|Horned Legion]], so named for the great antlers their leaders wore on their helms, swept from Aton across the land laying siege to the palaces of any cities that yet remained and driving all to the woods and seas. The Horned Legion is said to have been led primarily by [[Ogers|ogers]], who to this day bear the stereotype as ill omens and destroyers of civilization.  Given where they started, it is believed that The Horned Legion slew the Aulva, and those who believe in the legends of the elves mostly believe this was their final end. 

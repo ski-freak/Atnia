@@ -1,6 +1,6 @@
 ---
 title: The Aulva
 tags: 
-aliases:
-  - Elves
+aliases: []
 ---
+The Aulva are a mysterious people who spread from the region around [[Aton]] across [[The Old World]]. They are said to have possessed [[Aulvan Magic|powerful magic]] that could shape the very landscape over hundreds of years, which was said to be within their vast lifespans. They were believed to rule benevolently for hundreds of thousands of years before mysteriously retreating to their caves and groves and leaving lesser mortals to their affairs. Most believe they were wiped out during [[The Ages of the World#^26e554|The Age of Calamity]] by [[The Horned Legion]], though others cite their powerful magic and long lifespans as evidence they have simply left for a time and will return, expecting the world to be just as they left it as for them only a small time has passed. [[The Veriglas]] among many others believes the Aulva to be an ancient race of tall, fair, human-like creatures commonly called "[[Elves]]". All that is left of them now are their [[Aulvan Ruins|ruins]] buried deep beneath the earth across the old world.

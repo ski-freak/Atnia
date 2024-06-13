@@ -26,6 +26,8 @@
 
 [[The Arbiters]]
 
+[[Arbiter's Tome]]
+
 [[Arcane Magic]]
 
 [[The Assembly]]
@@ -363,6 +365,8 @@ ___
 
 [[The Planes]]
 
+[[main/Lore/Glossary/P/Political Status in The Old Watch|Political Status in The Old Watch]]
+
 [[Pontiffs of The Veriglas]]
 
 [[Profane Magic]]
@@ -410,6 +414,8 @@ ___
 [[Sorvald]]
 
 [[Stizit of Hierne]]
+
+[[The Stronghold of The Arbiters]]
 
 [[Summer Wars]]
 
@@ -476,6 +482,8 @@ ___
 [[Warlocks]]
 
 [[Wizardry]]
+
+[[The Worker's Council]]
 
 ---
 
