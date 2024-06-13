@@ -250,6 +250,8 @@ ___
 
 ---
 
+[[Magic]]
+
 [[Alchemy#^1e2fdc|Major Alchemy]]
 
 [[Mnem (city)]]
@@ -349,6 +351,8 @@ ___
 [[The Planes]]
 
 [[Pontiffs of The Veriglas]]
+
+[[Profane Magic]]
 
 [[Pyrus]]
 
