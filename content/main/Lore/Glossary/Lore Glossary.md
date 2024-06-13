@@ -18,6 +18,8 @@
 
 [[Atnian Nobility]]
 
+[[Atnian Peasants]]
+
 [[Aton]]
 
 [[Atonian]]
@@ -145,6 +147,8 @@
 [[The Four Winds]]
 
 [[Fost Féac]]
+
+[[Freiko]]
 
 ---
 
@@ -376,6 +380,8 @@ ___
 ---
 
 [[The Rift]]
+
+[[Rosula]]
 
 [[The Royalist Bloc]]
 

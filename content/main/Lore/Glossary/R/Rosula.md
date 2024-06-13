@@ -1,6 +1,5 @@
 ---
-title: Ogers
+title: Rosula
 tags: 
 aliases:
-  - ogers
 ---

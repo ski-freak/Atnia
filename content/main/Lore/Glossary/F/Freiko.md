@@ -1,6 +1,5 @@
 ---
-title: Ogers
+title: Freiko
 tags: 
 aliases:
-  - ogers
 ---
