@@ -8,7 +8,9 @@ Alchemy is [[Magic|magic]] which focuses on the manipulation of chemical and phy
 
 ## Minor Alchemy
 
-The original form of alchemy invented by the [[Archmages|archmage]] [[Sorvald]], a type of magic combined with the fields of medicine and chemistry to allow the creation of magical tinctures and [[Invention Magic|inventions]], often rooted in the manipulation of substances on the molecular level. 
+^8c2c0a
+
+The original form of alchemy invented by the [[Archmages|archmage]] [[Sorvald]], a type of magic combined with the fields of medicine and chemistry to allow the creation of magical tinctures and [[Invention Magic|inventions]], often rooted in the manipulation of substances on the molecular level.  ^434027
 ## Major Alchemy
 
 ^7bb4e8

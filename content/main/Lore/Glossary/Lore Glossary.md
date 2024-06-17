@@ -73,6 +73,8 @@
 
 [[Chefs of The Old Watch]]
 
+[[The Church of The Forge]]
+
 [[Clang Blades]]
 
 [[The College of Dreams]]
@@ -249,6 +251,8 @@ ___
 
 [[Liev]]
 
+[[Loravin]]
+
 [[Lord Inkblood]]
 
 [[The Loyalist Bloc]]
@@ -267,7 +271,7 @@ ___
 
 [[Magic]]
 
-[[Alchemy#^1e2fdc|Major Alchemy]]
+[[Alchemy#^434027|Major Alchemy]]
 
 [[Mnem (city)]]
 
@@ -382,6 +386,8 @@ ___
 # **R**
 
 ---
+
+[[Riftblood]]
 
 [[The Rift]]
 

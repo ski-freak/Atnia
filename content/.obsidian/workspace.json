@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Lore/Glossary/A/The Aulvalín.md",
+                "file": "main/Lore/Glossary/B/The Bevan Dynasty.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Lore/Glossary/A/The Aulvalín.md",
+                "file": "main/Lore/Glossary/B/The Bevan Dynasty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Lore/Glossary/A/The Aulvalín.md",
+                "file": "main/Lore/Glossary/B/The Bevan Dynasty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Lore/Glossary/A/The Aulvalín.md"
+                "file": "main/Lore/Glossary/B/The Bevan Dynasty.md"
               }
             }
           }
@@ -162,32 +162,33 @@
   },
   "active": "c6ebe1124ceaea5b",
   "lastOpenFiles": [
-    "main/Lore/Glossary/A/The Aulva.md",
-    "main/Lore/Glossary/A/Atonian.md",
-    "main/Lore/Glossary/A/Aulvan Language.md",
-    "main/Lore/Glossary/A/The Assembly.md",
+    "main/Lore/Glossary/B/Bug Hunts.md",
+    "main/Lore/Glossary/B/The Bevan Dynasty.md",
+    "main/Lore/Glossary/G/Goblins.md",
+    "main/Lore/Glossary/B/Bug Eaters.md",
+    "main/Lore/Glossary/B/Braeg.md",
     "main/Lore/Glossary/Lore Glossary.md",
-    "main/Lore/Glossary/W/The Worker's Council.md",
-    "main/Lore/Atnia.md",
-    "main/Lore/Glossary/P/The People's Council.md",
-    "main/Lore/Glossary/A/The Arbiters.md",
-    "main/Lore/Glossary/P/Political Status in The Old Watch.md",
-    "main/Lore/Glossary/O/The Old Watch Citizens.md",
-    "main/Lore/Glossary/A/Arbiter's Tome.md",
-    "main/Lore/Glossary/A/The Ages of the World.md",
-    "main/Lore/Glossary/S/The Stronghold of The Arbiters.md",
+    "main/Lore/Glossary/C/The Church of The Forge.md",
+    "main/Lore/Glossary/L/Loravin.md",
+    "main/Lore/Glossary/B/Blood Magic.md",
+    "main/Lore/Glossary/A/Atonian.md",
+    "main/Lore/Glossary/A/Aton.md",
+    "main/Lore/Glossary/A/Augusta.md",
+    "main/Lore/Glossary/A/Aulvan Language.md",
     "main/Lore/Glossary/A/Aulvan Magic.md",
+    "main/Lore/Glossary/A/The Ages of the World.md",
+    "main/Lore/Glossary/A/The Arbiters.md",
+    "main/Lore/Glossary/A/The Aulva.md",
+    "main/Lore/Glossary/A/The Aulvalín.md",
+    "main/Lore/Glossary/A/Alchemy.md",
+    "main/Lore/Glossary/A/Adva.md",
+    "main/Lore/Glossary/A/Achtha.md",
+    "main/Lore/Glossary/R/Riftblood.md",
+    "main/Lore/Stories",
+    "main/Lore/Glossary/A/The Assembly.md",
     "main/Lore/Glossary/A/Aulvan Ruins.md",
     "main/Lore/Glossary/A/Aulvalia.md",
-    "main/Lore/Glossary/A/Augusta.md",
     "main/Lore/Glossary/A/Auga.md",
-    "main/Lore/Glossary/A/Aton.md",
-    "main/Lore/Glossary/A/Atnian Peasants.md",
-    "main/Lore/Glossary/A/Atnian Nobility.md",
-    "main/Lore/Glossary/A/Atnian Law.md",
-    "main/Lore/Glossary/A/Atnia.md",
-    "main/Lore/Glossary/A/Archmages.md",
-    "main/Lore/Glossary/A/Arcane Magic.md",
     "main/Lore/Glossary/K/Untitled",
     "Untitled.canvas",
     "main/Card Game/Card Game Patchnotes",
@@ -204,7 +205,6 @@
     "main/attachments/Pasted image 20240420011419.png",
     "main/attachments/Pasted image 20240420011422.png",
     "main/World Info/Google Docs/Misc/Card Game Stuff",
-    "main/World Info/Google Docs/Science and Magic",
     "notes/attachments/Pasted image 20240328164449.png",
     "notes/attachments/Pasted image 20240328162126.png",
     "notes/attachments/Pasted image 20240328162106.png",
