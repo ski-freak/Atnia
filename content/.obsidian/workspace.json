@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Lore/Glossary/V/The Veriglas.md",
+                "file": "main/Lore/Glossary/A/The Aulvalín.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Lore/Glossary/V/The Veriglas.md",
+                "file": "main/Lore/Glossary/A/The Aulvalín.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Lore/Glossary/V/The Veriglas.md",
+                "file": "main/Lore/Glossary/A/The Aulvalín.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Lore/Glossary/V/The Veriglas.md"
+                "file": "main/Lore/Glossary/A/The Aulvalín.md"
               }
             }
           }
@@ -160,35 +160,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6ebe1124ceaea5b",
+  "active": "cfd243d7a0d7452f",
   "lastOpenFiles": [
-    "main/Lore/Glossary/U/The University of Adva.md",
-    "main/Lore/Glossary/P/Pax.md",
-    "main/Lore/Glossary/P/Pax Nova.md",
-    "main/Lore/Glossary/O/The Order of the Mirror.md",
-    "main/Lore/Glossary/O/The Order of the Coin.md",
-    "main/Lore/Glossary/O/The Order of the Book.md",
-    "main/Lore/Glossary/O/Oruva.md",
-    "main/Lore/Glossary/O/Orcs.md",
-    "main/Lore/Glossary/O/Ogers.md",
-    "main/Lore/Glossary/O/Oana.md",
-    "main/Lore/Glossary/C/Concept.md",
-    "main/Lore/Glossary/C/Cyrvo.md",
-    "main/Lore/Glossary/C/Chefs of The Old Watch.md",
-    "main/Lore/Glossary/C/Clang Blades.md",
-    "main/Lore/Glossary/A/The Ages of the World.md",
-    "main/Lore/Glossary/A/The Arbiters.md",
-    "main/Lore/Glossary/A/The Aulvalín.md",
-    "main/Lore/Glossary/D/Dream Totems.md",
-    "main/Lore/Glossary/D/The Defense Council.md",
-    "main/Lore/Glossary/D/Dream Magic.md",
-    "main/Lore/Glossary/D/Divine Magic.md",
-    "main/Lore/Glossary/D/Discourses on the Scattering of Peoples.md",
-    "main/Lore/Glossary/D/Demons.md",
-    "main/Lore/Glossary/C/The College of Dreams.md",
+    "main/Lore/Glossary/R/Riftblood.md",
+    "main/Lore/Glossary/L/Loravin.md",
     "main/Lore/Glossary/C/The Church of The Forge.md",
-    "main/Lore/Glossary/C/Cornagt.md",
-    "main/Lore/Stories",
+    "main/Lore/Glossary/A/The Aulva.md",
+    "main/Lore/Glossary/A/Atonian.md",
+    "main/Lore/Glossary/A/Aulvan Language.md",
+    "main/Lore/Glossary/A/The Assembly.md",
+    "main/Lore/Glossary/Lore Glossary.md",
+    "main/Lore/Glossary/W/The Worker's Council.md",
+    "main/Lore/Atnia.md",
+    "main/Lore/Glossary/P/The People's Council.md",
+    "main/Lore/Glossary/A/The Arbiters.md",
+    "main/Lore/Glossary/P/Political Status in The Old Watch.md",
+    "main/Lore/Glossary/O/The Old Watch Citizens.md",
+    "main/Lore/Glossary/A/Arbiter's Tome.md",
+    "main/Lore/Glossary/A/The Ages of the World.md",
+    "main/Lore/Glossary/S/The Stronghold of The Arbiters.md",
+    "main/Lore/Glossary/A/Aulvan Magic.md",
+    "main/Lore/Glossary/A/Aulvan Ruins.md",
+    "main/Lore/Glossary/A/Aulvalia.md",
+    "main/Lore/Glossary/A/Augusta.md",
+    "main/Lore/Glossary/A/Auga.md",
+    "main/Lore/Glossary/A/Aton.md",
+    "main/Lore/Glossary/A/Atnian Peasants.md",
+    "main/Lore/Glossary/A/Atnian Nobility.md",
+    "main/Lore/Glossary/A/Atnian Law.md",
     "main/Lore/Glossary/K/Untitled",
     "Untitled.canvas",
     "main/Card Game/Card Game Patchnotes",
@@ -205,6 +204,7 @@
     "main/attachments/Pasted image 20240420011419.png",
     "main/attachments/Pasted image 20240420011422.png",
     "main/World Info/Google Docs/Misc/Card Game Stuff",
+    "main/World Info/Google Docs/Science and Magic",
     "notes/attachments/Pasted image 20240328164449.png",
     "notes/attachments/Pasted image 20240328162126.png",
     "notes/attachments/Pasted image 20240328162106.png",
