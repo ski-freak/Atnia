@@ -13,9 +13,6 @@ Welcome to the Atnia wiki / work in progress worldbuilding thing.
 - Online, search using *Ctrl+k*, in Obsidian, use *Ctrl+Shift+F*. The search function is quite good if you know any of the words you are looking for, it searches both the names and contents of pages.
 - The [Navigation](./tags/navigation) tag is used on pages meant to aggregate other pages. Check it out if you are lost on this site.
 - Each page/file has backlinks, linking to files that wikilink to the file you are currently on.
-
-Tags are useful for navigation as well:
-- 
 - [See all tags →](/tags/)
 
 
@@ -25,3 +22,6 @@ Tags are useful for navigation as well:
 - [[Lore Glossary]] - Find all lore here!
 - [[Card Game Rules Doc]] 
 - [[Card & TTRPG Outline & Plans]]
+
+
+And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
