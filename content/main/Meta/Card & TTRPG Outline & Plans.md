@@ -21,7 +21,7 @@ That will be done with *all* of the current cards. Currently cards are basically
 - Check out [[Card Game Onboarding]] to see how to contribute.
 # Atnia / Nightmares from the New World / The Old Watch (The TTRPG)
 
-A table top rpg project (think D&D) by Birds/7teenwriters, Fionn, Aurora, and Ski is helping a little bit maybe. This consists of game rules for the ttrpg as well as the setting for it, which goes by a bunch of names right now, but the primary geographic area is called Atnia. You can find more information about it here [[Atnia One-Pager]]. This site is currently storing the work in progress documents for the game and setting.
+A table top rpg project (think D&D) by Ciabhan, Fionn, Aurora, and Ski is helping a little bit maybe. This consists of game rules for the ttrpg as well as the setting for it, which goes by a bunch of names right now, but the primary geographic area is called Atnia. You can find more information about it here [[Atnia One-Pager]]. This site is currently storing the work in progress documents for the game and setting.
 
 As it shares a setting, it is fairly interconnected with the card game. Soon we will be creating a bit more of a public web presence for the it / the setting, which may include a main page, discord server for people to contribute to lore, and/or youtube channel with series that contribute to worldbuilding.
 
