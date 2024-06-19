@@ -10,6 +10,8 @@
 
 [[Alchemy]]
 
+[[The Apocalypse]]
+
 [[Archmages]]
 
 [[main/Lore/Glossary/A/Atnia|Atnia]]
@@ -191,7 +193,7 @@
 
 [[Hwain]]
 
-[[Hwain's Last Stand]]
+[[The Apocalypse|Hwain's Last Stand]]
 
 ___
 # **I**
@@ -348,6 +350,8 @@ ___
 [[The Order of Wheat]]
 
 [[Oruva]]
+
+[[Owain]]
 
 [[Ozen]]
 

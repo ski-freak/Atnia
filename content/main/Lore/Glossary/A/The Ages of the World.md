@@ -74,7 +74,7 @@ The mundane age of mortals came to a sudden halt with the successful venture of 
 
 *The Second Calamity - The Age of Demons - The End of the World*
 
-The Eighth Age came to an end in a flash with magical lights in the sky and a dark shrouded army flying to the gates of heaven which appeared over the stars. [[Hwain's Last Stand]] culminated in a great flash of light, and suddenly the world was safe no more. The gods could not be contacted, and monsters and demons roamed the land. What survivors there were hid where they could and barely contacted each other for a great many years. Many thought the end times were upon us. Many still do, though the roads are perhaps a little safer than they were when it all began. Perhaps there will be comfort again, perhaps it is a lull before a still greater storm that will spell the world's end. 
+The Eighth Age came to an end in a flash with magical lights in the sky and a dark shrouded army flying to the gates of heaven which appeared over the stars. [[The Apocalypse]] culminated in a great flash of light, and suddenly the world was safe no more. The gods could not be contacted, and monsters and demons roamed the land. What survivors there were hid where they could and barely contacted each other for a great many years. Many thought the end times were upon us. Many still do, though the roads are perhaps a little safer than they were when it all began. Perhaps there will be comfort again, perhaps it is a lull before a still greater storm that will spell the world's end. 
 
 ## The Tenth Age
 
