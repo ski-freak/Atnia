@@ -4,13 +4,8 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+.obsidian
 .quartz-cache
 private/
-git ignored folder/
 .replit
 replit.nix
-
-
-workspace.json
-hotkeys.json
-appearance.json
