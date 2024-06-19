@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "857c5ba35915f185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "index.md"
               }
             }
           }
@@ -160,8 +174,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6ebe1124ceaea5b",
+  "active": "857c5ba35915f185",
   "lastOpenFiles": [
+    "templates/References Template.md",
+    "tags/navigation.md",
+    "tags/lore.md",
+    "tags/gdoc.md",
+    "main/Lore/Glossary/A/Achtha.md",
+    "main/Lore/Glossary/Lore Glossary.md",
+    "templates/Default Template.md",
+    "index.md",
+    "main/Card Game/Card Game Rules Doc.md",
     "main/Card Game/Card Game Imaging.md",
     "main/Lore/Glossary/A/The Aulvalín.md",
     "main/Lore/Glossary/R/Riftblood.md",
@@ -171,7 +194,6 @@
     "main/Lore/Glossary/A/Atonian.md",
     "main/Lore/Glossary/A/Aulvan Language.md",
     "main/Lore/Glossary/A/The Assembly.md",
-    "main/Lore/Glossary/Lore Glossary.md",
     "main/Lore/Glossary/W/The Worker's Council.md",
     "main/Lore/Atnia.md",
     "main/Lore/Glossary/P/The People's Council.md",
@@ -180,14 +202,6 @@
     "main/Lore/Glossary/O/The Old Watch Citizens.md",
     "main/Lore/Glossary/A/Arbiter's Tome.md",
     "main/Lore/Glossary/A/The Ages of the World.md",
-    "main/Lore/Glossary/S/The Stronghold of The Arbiters.md",
-    "main/Lore/Glossary/A/Aulvan Magic.md",
-    "main/Lore/Glossary/A/Aulvan Ruins.md",
-    "main/Lore/Glossary/A/Aulvalia.md",
-    "main/Lore/Glossary/A/Augusta.md",
-    "main/Lore/Glossary/A/Auga.md",
-    "main/Lore/Glossary/A/Aton.md",
-    "main/Lore/Glossary/A/Atnian Peasants.md",
     "main/Lore/Glossary/K/Untitled",
     "Untitled.canvas",
     "main/Card Game/Card Game Patchnotes",

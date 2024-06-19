@@ -1,6 +1,6 @@
 ---
 title: Google Docs
 ---
-Pages copied from the google docs.
+Pages copied from the old google docs.
 
 [See all tags →](/tags/)

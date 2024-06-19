@@ -1,3 +1,11 @@
+---
+title: Lore Glossary
+tags:
+  - navigation
+enableToc: "true"
+---
+
+
 # **A**
 
 ---
