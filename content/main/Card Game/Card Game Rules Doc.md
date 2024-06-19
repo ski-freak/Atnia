@@ -48,6 +48,7 @@ Notes:
 - Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
 - After combat, the game returns to the main phase and the player who was defending is given priority.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until the other player attacks.
+- During combat, the floor to speed is 0, any negative speed cards must be accelerated to 0 to be played during combat.
 
 ### Zones:
 - Deck - Your deck of cards.
