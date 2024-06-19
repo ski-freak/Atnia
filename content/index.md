@@ -18,7 +18,7 @@ Welcome to the Atnia wiki / work in progress worldbuilding thing.
 
 ---
 ### See also:
-- [[Atnia]] - One page introduction to the world.
+- [[Atnia Introduction]] - One page introduction to the world.
 - [[Lore Glossary]] - Find all lore here!
 - [[Card Game Rules Doc]] 
 - [[Card & TTRPG Outline & Plans]]
