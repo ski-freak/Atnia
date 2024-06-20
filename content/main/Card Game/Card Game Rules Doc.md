@@ -27,7 +27,7 @@ During each round players will take turns playing cards and taking actions. Thes
 	- Each player gets 1 energy for each of their energy counters.
 	- Each player unflips all their flipped cards.
 	- If an effect refers to the start of the round, it happens here.
-2. - Main phase
+2. Main phase
 	- Players take turns taking actions.
 3. - Round End
 	- If an effect refers to the end of the round, it happens here.
