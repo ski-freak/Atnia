@@ -9,12 +9,10 @@ tags:
 - Project Gamma is a temporary name. The project is being merged/using the world/setting of birdsandbees' tabletop rpg project. Project Delta is the overarching 'group' that is creating project gamma among other things.
 - See [[Card & TTRPG Outline & Plans]] and [[Card Game Onboarding]] for more general information.
 
-The following couple paragraphs are somewhat inaccurate, outdated, and cringe, but I'm leaving them in the doc for now.
->Project Gamma is a drafting / deck building / card game for 2-8 players with a focus on varied, open ended deckbuilding, player agency, and interactive back and forth gameplay. It can be played as either a cube draft or constructed with decks made by players before the game.
 
->In games you will play units and attack your opponent to reduce their life to 0 (starting at 20), but within this there is a lot of room for different strategies! The game is played in a dynamic shared round system, and seeks to reduce non-games to a minimum. You will look to leverage hidden information, tempo, and card advantage to overcome your opponent and win the game.
+>This is a 1v1 card game, within the gameplay genre of trading card games (not necessarily the distribution model). The rules will support draft and constructed. We intend on making a reusable draft format for 2 players and one for more players. You win the game by reducing your opponent's life total to 0.
 
-The game takes place in Atnia, the setting of birdsandbees' Tabletop RPG. A very short briefing on it is here: [[Atnia One-Pager]]. 
+The game takes place in Atnia, the setting of Ciaban's Tabletop RPG. A short briefing on it can be found here: [[Atnia Introduction]]. 
 
 # Rules for playing the game:
 
