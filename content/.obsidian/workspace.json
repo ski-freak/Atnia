@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "96af03b92e0097a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "962520e34dd2ad18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6ebe1124ceaea5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Lore/Glossary/Lore Glossary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "857c5ba35915f185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Card Game/Card Game Rules Doc.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83dc9716e0cf5163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Card Game/Card Game Rules Doc.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39e43abe3220917d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c8ec434a0229cb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd243d7a0d7452f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aa9e8985e6ca171",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "836936b2bd573800",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "82ef96b7fb19cef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "397b00206dcfea50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662e9ecb974a59c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f53fe59cb7321d87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main/Card Game/Card Game Rules Doc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0adfc19c96b0f086",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main/Card Game/Card Game Rules Doc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "865da5fcb2e79bb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "46b5e31d2c825f69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main/Card Game/Card Game Rules Doc.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "83dc9716e0cf5163",
+  "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc.md",
+    "main/Card Game/Card Game Onboarding.md",
+    "index.md",
+    "main/Meta/Card & TTRPG Outline & Plans.md",
+    "main/Meta/Card Game Software Onboarding.md",
+    "main/Meta/Atnia Onboarding.md",
+    "main/Lore/Glossary/Lore Glossary.md",
+    "main/Lore/Glossary/O/Owain.md",
+    "main/Lore/Glossary/A/The Apocalypse.md",
+    "main/Lore/Atnia Introduction.md",
+    "templates/References Template.md",
+    "tags/navigation.md",
+    "tags/lore.md",
+    "tags/gdoc.md",
+    "main/Lore/Glossary/A/Achtha.md",
+    "templates/Default Template.md",
+    "main/Card Game/Card Game Imaging.md",
+    "main/Lore/Glossary/A/The Aulvalín.md",
+    "main/Lore/Glossary/R/Riftblood.md",
+    "main/Lore/Glossary/L/Loravin.md",
+    "main/Lore/Glossary/C/The Church of The Forge.md",
+    "main/Lore/Glossary/A/The Aulva.md",
+    "main/Lore/Glossary/A/Atonian.md",
+    "main/Lore/Glossary/A/Aulvan Language.md",
+    "main/Lore/Glossary/A/The Assembly.md",
+    "main/Lore/Glossary/W/The Worker's Council.md",
+    "main/Lore/Glossary/K/Untitled",
+    "Untitled.canvas",
+    "main/Card Game/Card Game Patchnotes",
+    "main/Lore/World Info/Named Stuff/Named Spells",
+    "main/Lore/World Info/Named Stuff/Named Objects",
+    "main/Lore/World Info/Named Stuff/Named Living Things",
+    "main/Lore/World Info/Named Stuff/Named Locations",
+    "main/Lore/World Info/Named Stuff",
+    "main/Card Game",
+    "main/attachments/Pasted image 20240420011846.png",
+    "main/attachments/Pasted image 20240420011642.png",
+    "main/attachments/Pasted image 20240420011518.png",
+    "main/attachments/Pasted image 20240420011453.png",
+    "main/attachments/Pasted image 20240420011419.png",
+    "main/attachments/Pasted image 20240420011422.png",
+    "main/World Info/Google Docs/Misc/Card Game Stuff",
+    "main/World Info/Google Docs/Science and Magic",
+    "notes/attachments/Pasted image 20240328164449.png",
+    "notes/attachments/Pasted image 20240328162126.png",
+    "notes/attachments/Pasted image 20240328162106.png",
+    "notes/attachments/Pasted image 20240228204810.png"
+  ]
+}
