@@ -9,6 +9,6 @@ git ignored folder/
 .replit
 replit.nix
 
-.obsidian/hotkeys.json
-.obsidian/appearance.json
-.obsidian/workspace.json
+content/.obsidian/hotkeys.json
+content/.obsidian/appearance.json
+content/.obsidian/workspace.json
