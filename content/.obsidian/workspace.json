@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Lore/Stories/Murder in The Watch.md",
+                "file": "main/Lore/Glossary/B/Braeg.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Lore/Stories/Murder in The Watch.md",
+                "file": "main/Lore/Glossary/B/Braeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Lore/Stories/Murder in The Watch.md",
+                "file": "main/Lore/Glossary/B/Braeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Lore/Stories/Murder in The Watch.md"
+                "file": "main/Lore/Glossary/B/Braeg.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "c6ebe1124ceaea5b",
   "lastOpenFiles": [
-    "main/Lore/Glossary/B/Braeg.md",
     "main/Lore/Stories/Murder in The Watch.md",
+    "main/Lore/Glossary/B/Braeg.md",
     "main/Lore/Glossary/B/Bug Eaters.md",
     "main/Lore/Glossary/B/Blood Magic.md",
     "main/Lore/Glossary/A/The Aulvalín.md",
