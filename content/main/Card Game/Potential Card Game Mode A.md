@@ -46,3 +46,17 @@ Brainstorming / potential design for a pvp version of the roguelike / dungeon ru
 - etc
 
 So this could be fine tuned to have a balance between being able to swiftly replace cards from your starting deck or you / pivot to a different strat, and cutting a bunch of cards being optimal (and annoying). Probably the balance would come from changing the value n is multiplied by in the equation for minimum deck size. Above it was (n = upcoming match number), n * 5 + 20. Could change 5 to 4 for example.
+
+---
+I was basically suggesting minimum deck size + burning cards being separate from buying them. That would kinda make thinning your deck a lot easier but I think that’s maybe a good thing for not being stuck with stuff you get early on
+So like you roll up to the shop you’ve got
+- shop cards area 
+- your deck area
+- cards in area
+- cards out area
+- minimum (deck) card number
+- maximum card in number (with rarity/variable cost)
+
+And you just move cards around to your liking within those constraints -> press confirm & the in cards go to your deck and out cards are burnt
+
+Maybe having like a sideboard would be better or worse than burning cards I don’t know, or some other way of storing cards for the next shop phase at a cost without playing them in your deck
