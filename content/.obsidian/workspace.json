@@ -13,7 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md",
+=======
+                "file": "main/Lore/Stories/Murder in The Watch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51d0bdaf2cb1c02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Lore/Glossary/C/Chefs of The Old Watch.md",
+>>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +114,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md",
+=======
+                "file": "main/Lore/Stories/Murder in The Watch.md",
+>>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md",
+=======
+                "file": "main/Lore/Stories/Murder in The Watch.md",
+>>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md"
+=======
+                "file": "main/Lore/Stories/Murder in The Watch.md"
+>>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
               }
             }
           }
@@ -163,8 +192,16 @@
   "active": "c6ebe1124ceaea5b",
   "lastOpenFiles": [
     "main/Card Game/Potential Card Game Mode A.md",
+<<<<<<< HEAD
     "main/Lore/Glossary/B/Braeg.md",
+=======
+    "main/Lore/Glossary/C/Chefs of The Old Watch.md",
+    "Notes.md",
+    "main/Lore/Glossary/C/Chancellor of Works.md",
+    "main/Lore/Glossary/A/Adva.md",
+>>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
     "main/Lore/Stories/Murder in The Watch.md",
+    "main/Lore/Glossary/B/Braeg.md",
     "main/Lore/Glossary/B/Bug Eaters.md",
     "main/Lore/Glossary/B/Blood Magic.md",
     "main/Lore/Glossary/A/The Aulvalín.md",
@@ -179,15 +216,11 @@
     "main/Lore/Glossary/A/Atonian.md",
     "main/Lore/Glossary/A/Atnian Peasants.md",
     "main/Lore/Glossary/A/Arcane Magic.md",
-    "main/Lore/Glossary/A/Adva.md",
     "main/Lore/Glossary/A/Achtha.md",
     "main/Lore/Glossary/A/Alchemy.md",
     "main/Lore/Glossary/A/Arbiter's Tome.md",
     "main/Lore/Glossary/A/Atnia.md",
     "main/Lore/Glossary/A/Archmages.md",
-    "main/Lore/Glossary/C/The College of Dreams.md",
-    "main/Lore/Glossary/C/The Church of The Forge.md",
-    "main/Lore/Glossary/C/Cyrvo.md",
     "main/Lore/Stories",
     "main/Lore/Glossary/K/Untitled",
     "Untitled.canvas",
