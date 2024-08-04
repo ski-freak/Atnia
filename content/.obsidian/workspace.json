@@ -1,36 +1,19 @@
 {
   "main": {
-    "id": "96af03b92e0097a1",
+    "id": "ef6906701b815aef",
     "type": "split",
     "children": [
       {
-        "id": "962520e34dd2ad18",
+        "id": "2708a4acff3f8fef",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ebe1124ceaea5b",
+            "id": "6820d7b6e025a158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md",
-=======
-                "file": "main/Lore/Stories/Murder in The Watch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51d0bdaf2cb1c02a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main/Lore/Glossary/C/Chefs of The Old Watch.md",
->>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "39e43abe3220917d",
+    "id": "69fc1d71a2db7ffb",
     "type": "split",
     "children": [
       {
-        "id": "9c8ec434a0229cb2",
+        "id": "a93400d21d250e32",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd243d7a0d7452f",
+            "id": "59619547ef2ce85e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +44,7 @@
             }
           },
           {
-            "id": "8aa9e8985e6ca171",
+            "id": "47188edf3a5d8965",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +59,7 @@
             }
           },
           {
-            "id": "836936b2bd573800",
+            "id": "c571ffb30e145b97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,38 +70,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 300
   },
   "right": {
-    "id": "82ef96b7fb19cef5",
+    "id": "c617bc8e415e0a59",
     "type": "split",
     "children": [
       {
-        "id": "397b00206dcfea50",
+        "id": "14cc2700d294009a",
         "type": "tabs",
         "children": [
           {
-            "id": "662e9ecb974a59c3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f53fe59cb7321d87",
+            "id": "2c469a6bd9b7552c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md",
-=======
-                "file": "main/Lore/Stories/Murder in The Watch.md",
->>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,23 +98,30 @@
             }
           },
           {
-            "id": "0adfc19c96b0f086",
+            "id": "6c0383976e12f3f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md",
-=======
-                "file": "main/Lore/Stories/Murder in The Watch.md",
->>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "865da5fcb2e79bb2",
+            "id": "05691bbbe523c99d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d52f549d52bea988",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,21 +133,16 @@
             }
           },
           {
-            "id": "46b5e31d2c825f69",
+            "id": "efe1486b96c1b940",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "main/Card Game/Card Game Rules Doc.md"
-=======
-                "file": "main/Lore/Stories/Murder in The Watch.md"
->>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,66 +151,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c6ebe1124ceaea5b",
+  "active": "6820d7b6e025a158",
   "lastOpenFiles": [
-    "main/Card Game/Potential Card Game Mode A.md",
-<<<<<<< HEAD
-    "main/Lore/Glossary/B/Braeg.md",
-=======
-    "main/Lore/Glossary/C/Chefs of The Old Watch.md",
-    "Notes.md",
-    "main/Lore/Glossary/C/Chancellor of Works.md",
-    "main/Lore/Glossary/A/Adva.md",
->>>>>>> 24a7608c99ea9e7b419be482b41a72751305a992
-    "main/Lore/Stories/Murder in The Watch.md",
-    "main/Lore/Glossary/B/Braeg.md",
-    "main/Lore/Glossary/B/Bug Eaters.md",
-    "main/Lore/Glossary/B/Blood Magic.md",
-    "main/Lore/Glossary/A/The Aulvalín.md",
-    "main/Lore/Glossary/A/The Aulva.md",
-    "main/Lore/Glossary/A/The Assembly.md",
-    "main/Lore/Glossary/A/The Arbiters.md",
-    "main/Lore/Glossary/A/The Apocalypse.md",
-    "main/Lore/Glossary/A/Aulvan Ruins.md",
-    "main/Lore/Glossary/A/Aulvan Language.md",
-    "main/Lore/Glossary/A/Auga.md",
-    "main/Lore/Glossary/A/Aton.md",
-    "main/Lore/Glossary/A/Atonian.md",
-    "main/Lore/Glossary/A/Atnian Peasants.md",
-    "main/Lore/Glossary/A/Arcane Magic.md",
-    "main/Lore/Glossary/A/Achtha.md",
-    "main/Lore/Glossary/A/Alchemy.md",
-    "main/Lore/Glossary/A/Arbiter's Tome.md",
-    "main/Lore/Glossary/A/Atnia.md",
-    "main/Lore/Glossary/A/Archmages.md",
-    "main/Lore/Stories",
-    "main/Lore/Glossary/K/Untitled",
-    "Untitled.canvas",
-    "main/Card Game/Card Game Patchnotes",
-    "main/Lore/World Info/Named Stuff/Named Spells",
-    "main/Lore/World Info/Named Stuff/Named Objects",
-    "main/Lore/World Info/Named Stuff/Named Living Things",
-    "main/Lore/World Info/Named Stuff/Named Locations",
-    "main/Lore/World Info/Named Stuff",
-    "main/Card Game",
-    "main/attachments/Pasted image 20240420011846.png",
-    "main/attachments/Pasted image 20240420011642.png",
-    "main/attachments/Pasted image 20240420011518.png",
-    "main/attachments/Pasted image 20240420011453.png",
-    "main/attachments/Pasted image 20240420011419.png",
-    "main/attachments/Pasted image 20240420011422.png",
-    "main/World Info/Google Docs/Misc/Card Game Stuff",
-    "notes/attachments/Pasted image 20240328164449.png",
-    "notes/attachments/Pasted image 20240328162126.png",
-    "notes/attachments/Pasted image 20240328162106.png",
-    "notes/attachments/Pasted image 20240228204810.png"
+    "main/Card Game/Card Game Onboarding.md"
   ]
 }
