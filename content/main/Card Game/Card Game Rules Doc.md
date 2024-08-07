@@ -88,7 +88,7 @@ Notes on timing and dream/the stack:
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
 
 ### Channel and main card draw system:
-All cards in hand can be channeled into the channel zone to produce 1 energy (cards can be channeled face up or face down) (Edit: we may also allow face down channeled cards to be turned face up). There is a single (numerical) energy pool for each player, there is no maximum/cap to how much energy you can have at any given time. At round end, players retain up to 3 energy and any excess is discarded.
+All cards in hand can be channeled into the channel zone to produce 1 energy (cards can be channeled face up or face down) (Edit: we may also allow face down channeled cards to be turned face up). There is a single (numerical) energy pool for each player, there is no maximum/cap to how much energy you can have at any given time. At round end, players retain up to 3 energy and any excess is discarded (may change this to 2).
 - Note: Channeling cards is done at `<speed%>` (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
 - At the end of the round the following steps are carried out:
