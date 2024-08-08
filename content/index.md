@@ -4,7 +4,14 @@ tags:
   - navigation
 enableToc: "true"
 ---
-Welcome to the Atnia wiki / work in progress worldbuilding thing.
+Welcome to the Atnia wiki / work in progress thing. Here we have a worldbuilding project, ttrpg, and card game.
+### Check Out:
+- [[Atnia Introduction]] - One page introduction to the world.
+- [[Lore Glossary]] - Find all lore here!
+- [[Card Game Rules Doc]] 
+- [[Card & TTRPG Outline & Plans]]
+
+And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
 
 ---
 > [!info] Navigation Tools.
@@ -16,12 +23,5 @@ Welcome to the Atnia wiki / work in progress worldbuilding thing.
 - [See all tags →](/tags/)
 
 
----
-### See also:
-- [[Atnia Introduction]] - One page introduction to the world.
-- [[Lore Glossary]] - Find all lore here!
-- [[Card Game Rules Doc]] 
-- [[Card & TTRPG Outline & Plans]]
 
 
-And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
