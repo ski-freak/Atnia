@@ -17,7 +17,7 @@ Currently we have enough card designs to test with, the cards in the main google
 
 That will be done with *all* of the current cards. Currently cards are basically being made as one huge pile (Ski has like 600ish now). This big pile will then be pulled from to create actual card sets as you would normally expect from a card game. It seems to simply be easier to design this way, as trying to create a set of cards with roughly equal numbers of card types, sources/colors, costs, etc, while also creating the cards at the same time is extremely difficult. It seems it is much easier to just make a bunch of cards, and pull from them while adding a few new ones to create a final card set. Cards unused in the initial set(s) will simply be pushed off to be used later.
 
-- You can find rules for the card game here: [[Card Game Rules Doc]], and the card design spreadsheet [here](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=1256812815#gid=1256812815)
+- You can find rules for the card game here: [[Card Game Rules Doc - Original Backup]], and the card design spreadsheet [here](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=1256812815#gid=1256812815)
 - Check out [[Card Game Onboarding]] to see how to contribute.
 # Atnia / Nightmares from the New World / The Old Watch (The TTRPG)
 

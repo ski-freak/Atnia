@@ -3,8 +3,6 @@ title: Card Game Rules Doc
 enableToc: "true"
 tags:
 ---
-- This fork removes cards=energy for mental load reasons.
-
 # Project Gamma Card Game Rules Document
 
 - *This information is a work in progress*
@@ -33,9 +31,8 @@ During each round players will take turns playing cards and taking actions. Thes
 	- Players take turns taking actions.
 3. Round End
 	- If an effect refers to the end of the round, it happens here.
-	- Do round end channeled card process.
-	- Each player gets 2 energy counters.
-	- Start the next round
+	- Each player gets an energy counter.
+	- Do end of turn things, then discard down to max hand size and start the next round.
 
 ### Combat:
 During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
@@ -89,15 +86,13 @@ Notes on timing and dream/the stack:
 	- Top to bottom: Cards on the left side of a players board to cards on the right side of their board board (units, then items, then claims).  
 - All combat strikes are processed left to right (from the attacker's pov). All new cards arrive in play on the right side of their area. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the main play area on the left side, in the same arrangement they were in combat.
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
-### Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded. Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
 
 ### Channel and main card draw system:
-All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is for fulfilling source requirements and cycling your cards.
-- Note: Channeling cards is done at (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
+All cards in hand can be channeled into the channel zone to produce 1 energy (cards can be channeled face up or face down) (Edit: we may also allow face down channeled cards to be turned face up). There is a single (numerical) energy pool for each player, there is no maximum/cap to how much energy you can have at any given time. At round end, players retain up to 3 energy and any excess is discarded (may change this to 2).
+- Note: Channeling cards is done at `<speed%>` (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
 - At the end of the round the following steps are carried out:
-	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand and channel zone + 2, (up to 10) becomes that players' maximum hand size for the round.
+	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand and channel zone + 2, (up to 10) becomes that players' maximum hand size for the round round.
 	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination
 	- Players draw up to their maximum hand size.
 
