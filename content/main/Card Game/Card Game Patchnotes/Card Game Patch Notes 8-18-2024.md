@@ -1,5 +1,5 @@
 ---
-title: Card Game Patch Notes 5-21-2024
+title: Card Game Patch Notes 8-18-2024
 enableToc: 
 tags:
 ---
