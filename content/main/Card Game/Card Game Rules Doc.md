@@ -80,7 +80,7 @@ To play a card, you must meet it's source requirement and pay it's costs. The ca
 Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream/the stack. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Note: if there are no cards currently being played / in dream/the stack, cards with negative speed values may be played without needing to be accelerated.
 
-Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined face up among your channeled and allied claims of that source in play. For each source (number) you are missing, the card costs 1 energy more to play.
+Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled and allied claims of that source in play. If you do not meet the source requirement, you cannot play the card.
 
 Notes on timing and dream/the stack:
 - All `<speed%>` (infinite speed) speed effects are resolved before any others, cannot be responded to by any player, and do not affect who has priority.
@@ -90,15 +90,16 @@ Notes on timing and dream/the stack:
 - All combat strikes are processed left to right (from the attacker's pov). All new cards arrive in play on the right side of their area. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the main play area on the left side, in the same arrangement they were in combat.
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
 ### Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded. Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
+There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy does not count to the max energy limit of 10). Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
 
 ### Channel and main card draw system:
-All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is for fulfilling source requirements and cycling your cards.
+All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones
+- You may channel a card face down as a wild card instead of face up. If you do this it counts as being from all sources, but means you will draw 1 fewer card at the end of the round.
 - Note: Channeling cards is done at (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
 - At the end of the round the following steps are carried out:
-	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand and channel zone + 2, (up to 10) becomes that players' maximum hand size for the round.
-	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination
+	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand, face up in their channel zone, + 2, (up to 10) becomes that players' maximum hand size for the round.
+	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
 	- Players draw up to their maximum hand size.
 
 
