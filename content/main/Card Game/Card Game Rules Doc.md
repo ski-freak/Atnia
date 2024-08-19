@@ -33,23 +33,9 @@ During each round players will take turns playing cards and taking actions. Thes
 	- Players take turns taking actions.
 3. Round End
 	- If an effect refers to the end of the round, it happens here.
-	- Do round end channeled card process.
-	- Each player gets 2 energy counters.
-	- Start the next round
-
-### Combat:
-During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
-
-Combat phase outline:
-1. Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
-2. Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
-3. Step 3 - The attacking player is given priority. After a double pass occurs, the stack/dream is resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
-- End of combat.
-Notes:
-- Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
-- After combat, the game returns to the main phase and the player who was defending is given priority.
-- By attacking, the attacking player becomes the first player for the remainder of the round / until the other player attacks.
-- During combat, the floor to speed is 0, any negative speed cards must be accelerated to 0 to be played during combat.
+	- Draw step (Do round end channeled card process).
+	- Each player gets 2 additional energy counters.
+	- Begin the next round
 
 ### Zones:
 - Deck - Your deck of cards.
@@ -74,6 +60,18 @@ There are multiple card types:
 
 All cards have a numerical energy cost, Source requirement(s), and Speed value, as well as a Defense stat.
 
+### Energy System
+There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy does not count to the max energy limit of 10). Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
+
+### Channel and main card draw system:
+All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones
+- You may channel a card face down as a wild card instead of face up. If you do this it counts as being from all sources, but means you will draw 1 fewer card at the end of the round.
+- Note: Channeling cards is done at (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
+
+- At the end of the round the following steps are carried out:
+	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand, face up in their channel zone, + 2, (up to 10) becomes that players' maximum hand size for the round.
+	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
+	- Players draw up to their maximum hand size.
 ### Playing Cards:
 To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto the stack/dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream/the stack are put on top of other cards already there. Once both players pass, all cards in dream/the stack (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, priority is given to the player who did not begin the stack.
 
@@ -89,18 +87,24 @@ Notes on timing and dream/the stack:
 	- Top to bottom: Cards on the left side of a players board to cards on the right side of their board board (units, then items, then claims).  
 - All combat strikes are processed left to right (from the attacker's pov). All new cards arrive in play on the right side of their area. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the main play area on the left side, in the same arrangement they were in combat.
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
-### Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy does not count to the max energy limit of 10). Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
 
-### Channel and main card draw system:
-All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones
-- You may channel a card face down as a wild card instead of face up. If you do this it counts as being from all sources, but means you will draw 1 fewer card at the end of the round.
-- Note: Channeling cards is done at (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
-- At the end of the round the following steps are carried out:
-	- Each player may put any number of cards from their hand into their channel zone. The number of cards in a players hand, face up in their channel zone, + 2, (up to 10) becomes that players' maximum hand size for the round.
-	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
-	- Players draw up to their maximum hand size.
+### Combat:
+During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
+
+Combat phase outline:
+1. Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
+2. Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
+3. Step 3 - The attacking player is given priority. After a double pass occurs, the stack/dream is resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
+- End of combat.
+Notes:
+- Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
+- After combat, the game returns to the main phase and the player who was defending is given priority.
+- By attacking, the attacking player becomes the first player for the remainder of the round / until the other player attacks.
+- During combat, the floor to speed is 0, any negative speed cards must be accelerated to 0 to be played during combat.
+
+
+
 
 
 ### Starting the game:

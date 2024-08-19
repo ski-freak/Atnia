@@ -8,7 +8,7 @@ Welcome to the Atnia wiki / work in progress thing. Here we have a worldbuilding
 ### Check Out:
 - [[Atnia Introduction]] - One page introduction to the world.
 - [[Lore Glossary]] - Find all lore here!
-- [[Card Game Rules Doc - Original Backup]] 
+- [[Card Game Rules Doc]] 
 - [[Card & TTRPG Outline & Plans]]
 
 And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
