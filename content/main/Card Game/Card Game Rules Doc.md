@@ -3,8 +3,6 @@ title: Card Game Rules Doc
 enableToc: "true"
 tags:
 ---
-- This fork removes cards=energy for mental load reasons.
-
 # Project Gamma Card Game Rules Document
 
 - *This information is a work in progress*
