@@ -16,14 +16,14 @@ The game takes place in Atnia, the setting of Ciaban's Tabletop RPG. A short bri
 
 # Rules for playing the game:
 
-### Shared Round
+## Shared Round
 During each round players will take turns playing cards and taking actions. These actions include:
 - Pass - When both players pass, if cards are being played, all cards resolve, and if no cards are being played, move onto the next step/phase of the round. Everything basically revolves around this double pass system, both players pass, then everything resolves and/or you move to the next step/phase.
 - Play a Card or Ability - See "Playing Cards".
 - Attack / Enter Combat - See "Combat".
 For more info, see "Round Phases"
 ---
-### Zones:
+## Zones
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Reality - The main playing area / board. All cards that are currently in play live here.
@@ -32,11 +32,11 @@ For more info, see "Round Phases"
 - Void - Zone used for some things.
 - Channeled cards zone - Zone cards go after being channeled.
 ---
-### Sources 
+## Sources
 Similar to the colors in magic. Currently they are: Arca, Eminus, Material, Old World, and Zelor (although some of these names may be subject to change.)
 
 ---
-### Card Types:
+## Card Types
 There are multiple card types:
 - Unit - Units have offense stat in addition to their defense stat, and can attack and block.
 - Claim - The first claim you play each round costs 2 energy less.
@@ -47,11 +47,11 @@ There are multiple card types:
 - Some cards will also have subtypes, but substyles do not have any universal rules significance
 - All cards have a numerical energy cost, Source requirement(s), and Speed value, as well as a Defense stat.
 ---
-### Energy System
+## Energy System
 There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy does not count to the max energy limit of 10). Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
 
 ---
-### Card draw & channel system:
+## Card draw & channel system
 All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones
 - You may channel a card face down as a wild card instead of face up. If you do this it counts as being from all sources, but means you will draw 1 fewer card at the end of the round.
 - Note: Channeling cards is done at (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
@@ -61,7 +61,7 @@ All cards in hand can be channeled into the channel zone face up at any time. Ch
 	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
 	- Players draw up to their maximum hand size.
 ---
-### Playing Cards:
+## Playing Cards
 To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto the stack/dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream/the stack are put on top of other cards already there. Once both players pass, all cards in dream/the stack (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, priority is given to the player who did not begin the stack.
 
 Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream/the stack. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
@@ -77,7 +77,7 @@ Notes on timing and dream/the stack:
 - All combat strikes are processed left to right (from the attacker's pov). All new cards arrive in play on the right side of their area. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the main play area on the left side, in the same arrangement they were in combat.
 - If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
 ---
-### Round Phases:
+## Round Phases
 1. Pre round
 	1. Each player gets 1 energy for each of their energy counters.
 	2. Each player unflips all their flipped cards.
@@ -99,7 +99,7 @@ Notes on timing and dream/the stack:
 - Combat phase.
 	- See "Combat"
 ---
-### Combat:
+## Combat
 During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
 
 Combat phase outline:
@@ -112,20 +112,20 @@ Notes:
 - By attacking, the attacking player becomes the first player for the remainder of the round / until the other player attacks.
 - During combat, the floor to speed is 0, any negative speed cards must be accelerated to 0 to be played during combat.
 ---
-### Starting the game:
+## Starting the game
 To start the game, randomly determine the first player. Each player then shuffles their deck, (reveals their starting claim if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game, priority starting with the first player as randomly determined. At each round start (before any steps or phases happen), the player with the highest total/combined offense of their units becomes the first player. If it is tied, the player who began as the second player in the previous round becomes the first player.
 
 ---
-## Extra Notes:
+## Extra Notes
 - Cards can take damage when in dream or in play. When a card receives damage greater than it's defense stat, it is put into memory.
 - Some cards may have activated abilities, indicated by `<$>` symbol. These abilities can be activated and played similar to cards. Unless otherwise noted, you may only activate abilities of cards in play.
 
-## Card Semantics:
+## Card Semantics
 Eh see the spreadsheet for this (when I add it). But for now, here's *some* info: 
 - There will be symbols for card parameters, as well as each zone. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
 - Keywords will be listed... in the spreadsheet when I get to it.
 
-## Formats and ways to play the game:
+## Formats and ways to play the game
 
 These are all just potential ideas. All can be played in best 2/3 or best of one.
 - Draft. It's cube draft.
@@ -134,7 +134,7 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 - Mirror Format
 - Experimental: fast cycle format. 20 cards, and you cycle through them
 
-## Mirror Format:
+## Mirror Format
 Limited format for 2 players where you draft your cards for each round. Both players begin the game with an identical preconstructed deck of cards (one being the red deck and the other the blue deck). Each deck is a kind of mini cube, with support for a variety of strategies.
 
 Instead of drawing cards normally at the end of each round and start of the game, players draft cards. Also, in mirror format, cards are channeled face down rather than face up.
@@ -142,7 +142,7 @@ Instead of drawing cards normally at the end of each round and start of the game
 ## Source Limited
 Limited format for 2 players. Rather than each player having their own deck, 5 decks (each one for all cards of a given source) are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from. When starting the game, players draw their starting hands by taking two cards from each deck, and keeping 5. All cards are channeled face down, and are not recycled into the decks at round end (players will still draw back to their max hand size).
 
-#### Ski Draft:
+### Ski Draft (questionable)
 Both players take 10 cards from the top of their deck. Each player picks 1 card to keep, then passes the rest to their opponent. From pick 2 on, each pick players keep an additional card than the previous pick. Continue until all cards are drafted. Note: in this draft format, chosen/drafted cards are revealed as they are drafted.
 
 - At the end of the round the following steps are carried out:
