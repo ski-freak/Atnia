@@ -14,6 +14,8 @@ tags:
 
 The game takes place in Atnia, the setting of Ciaban's Tabletop RPG. A short briefing on it can be found here: [[Atnia Introduction]]. 
 
+Notes:
+- I am currently in the process of replacing all references to priority with active player, as that should be more clear wording. - Ski
 # Rules for playing the game:
 
 ## Shared Round
@@ -28,7 +30,7 @@ For more info, see "Round Phases"
 - Hand - Your hand.
 - Reality - The main playing area / board. All cards that are currently in play live here.
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
-- Dream / The stack - Zone for cards & effects currently being played and not resolved yet.
+- Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
 - Channeled cards zone - Zone cards go after being channeled.
 ---
@@ -62,20 +64,20 @@ All cards in hand can be channeled into the channel zone face up at any time. Ch
 	- Players draw up to their maximum hand size.
 ---
 ## Playing Cards
-To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto the stack/dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream/the stack are put on top of other cards already there. Once both players pass, all cards in dream/the stack (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, priority is given to the player who did not begin the stack.
+To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream are put on top of other cards already there. Once both players pass, all cards in dream (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, and the player who did not begin the stack (placed the first card in dream) becomes the active player.
 
-Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream/the stack. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
-- Note: if there are no cards currently being played / in dream/the stack, cards with negative speed values may be played without needing to be accelerated.
+Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
+- Note: if there are no cards currently in dream, cards with negative speed values may be played without needing to be accelerated.
 
 Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled and allied claims of that source in play. If you do not meet the source requirement, you cannot play the card.
 
-Notes on timing and dream/the stack:
+Notes on timing and dream:
 - All `<speed%>` (infinite speed) speed effects are resolved before any others, cannot be responded to by any player, and do not affect who has priority.
-- All effects trigger simultaneously are put onto the stack/dream all at once, from top to bottom in order of:
+- All effects trigger simultaneously are put into dream all at once, from top to bottom in order of:
 	- Effects from the first player in the round above effects from other players. 
 	- Top to bottom: Cards on the left side of a players board to cards on the right side of their board board (units, then items, then claims).  
 - All combat strikes are processed left to right (from the attacker's pov). All new cards arrive in play on the right side of their area. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the main play area on the left side, in the same arrangement they were in combat.
-- If during stack resolution one or more new cards or effects are put onto the stack that are not at `<speed%>` speed, stack resolution stops, and priority is given to the player not in control of the new top most card/effect.
+- If during dream effect resolution one or more new cards or effects are put into dream that are not at `<speed%>` speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 ---
 ## Round Phases
 1. Pre round
@@ -103,9 +105,9 @@ Notes on timing and dream/the stack:
 During the main phase while you have priority and there are no unresolved effects, you may start an attack by declaring your attackers. You may only attack twice per round.
 
 Combat phase outline:
-1. Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
-2. Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put on the stack/dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
-3. Step 3 - The attacking player is given priority. After a double pass occurs, the stack/dream is resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
+1. Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put into dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
+2. Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put into dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
+3. Step 3 - The attacking player is given priority. After a double pass occurs, all cards and effects in dream are resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
 4. End combat, return to the main phase, and the player who was defending is the active player. 
 Notes:
 - Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
