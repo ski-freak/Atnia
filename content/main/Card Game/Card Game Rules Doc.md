@@ -85,12 +85,12 @@ Some cards will also have subtypes, but substyles do not have any universal rule
 ## Playing Cards & Dream
 To play a card, you must meet it's source requirement and pay it's costs.
 
-When you play a card or ability, it is put onto Dream, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into dream are placed above other cards/effects already there. Once a player passes, all cards in Dream (unresolved cards) are resolved in order of top to bottom.
+When you play a card or ability, it is put onto Dream, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into dream are placed above other cards/abilities already there. Once a player passes, all cards in Dream (unresolved cards) are resolved in order of top to bottom.
 
 When a card is played, it goes to Dream. When it resolves, it goes to reality (or memory if it is a spell). When a card in reality or dream is destroyed (such as by taking damage greater than it's defense stat), it is put into memory. Damage only occurs to cards in dream & reality.
 
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
-- During the main phase, when all cards/effects are resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
+- During the main phase, when all cards/abilities resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
 - All abilities are placed into dream just as cards are. Universal actions do not go through dream, however
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
