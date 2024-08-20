@@ -43,7 +43,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 - **Offense/Defense Stats** - See "Card Types" & "Playing Cards"
 - **Rules Text** - Explains what a card does. See "Playing Cards"
 ---
-## Types of game objects
+## Kinds of game objects
 - Card - Cards!
 - Ability - Effects created by cards
 	- Triggered ability - Occurs automatically when indicated by the card they are on.
