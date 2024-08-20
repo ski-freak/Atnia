@@ -129,7 +129,7 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 	1. If an effect refers to round start, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 3. Main phase
-	1. The first player becomes the active player.
+	1. The first player becomes the active player (unless otherwise specified).
 	2. When both players pass in a row while there are no unresolved effects, move to the next phase.
 	- This is the primary phase where players actually play the game.
 4. Round End
