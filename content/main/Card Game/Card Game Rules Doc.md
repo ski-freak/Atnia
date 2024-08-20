@@ -104,7 +104,7 @@ When you are the active player and are taking actions, you may commit multiple n
 - If during dream effect resolution one or more new cards or effects are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 - If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
 	- Effects from the first player in the round above effects from other players. 
-	- Top to bottom, triggers from cards in: Dream, Reality (combat before rest), Memory.
+	- Top to bottom, triggers from cards in: Dream, Reality (battlefield before the rest), Memory.
 		- Dream, top to bottom: Cards higher in dream to cards lower in dream.
 		- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then claims).
 		- Memory, top to bottom: Cards higher in memory to cards lower in memory.
