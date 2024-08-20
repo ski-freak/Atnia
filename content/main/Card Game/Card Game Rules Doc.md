@@ -101,7 +101,7 @@ Cards with a given speed number can only be played if there are that many or few
 
 When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream & each card must be fast enough to be played as if the ones below it were already there (you may accelerate them). Once you commit the actions, the other player becomes the active player as normal.
 ### Advanced notes on timing rules and dream:
-- If during dream effect resolution one or more new cards or effects are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
+- If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 - If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
 	- Effects from the first player in the round above effects from other players. 
 	- Top to bottom, triggers from cards in: Dream, Reality (battlefield before the rest), Memory.
