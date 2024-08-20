@@ -3,6 +3,7 @@ title: Card Game Rules Doc - Original Backup
 enableToc: "true"
 tags:
 ---
+- Created some time before 8/20/2024
 # Project Gamma Card Game Rules Document
 
 - *This information is a work in progress*
