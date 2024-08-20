@@ -28,6 +28,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Reality - The main playing area / board. All cards that are currently in play live here.
+	- Battlefield - Part of / a subzone of reality, this is where units go during combat. 
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
 - Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
@@ -63,7 +64,7 @@ Sources are the main categorization of cards & affect which cards you will likel
 - Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
 - Material - Resources people need and desire in the new world. While the other sources are largely conceptual, Material is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
 - Old World - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
-- Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from sheer power of will.
+- Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from...
 
 *Source names subject to change, (particularly, Old World & Eminus).*
 
