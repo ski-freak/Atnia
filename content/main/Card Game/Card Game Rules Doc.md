@@ -5,6 +5,7 @@ tags:
 ---
 # Project Gamma Card Game Rules Document
 
+- If you have not seen it, watch the [intro video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
 - *This information is a work in progress*
 - Project Gamma is a temporary name. The project is being merged/using the world/setting of birdsandbees' tabletop rpg project. Project Delta is the overarching 'group' that is creating project gamma among other things.
 - See [[Card & TTRPG Outline & Plans]] and [[Card Game Onboarding]] for more general information.
@@ -12,16 +13,14 @@ tags:
 
 >This is a 1v1 card game, within the gameplay genre of trading card games (not necessarily the distribution model). The rules will support draft and constructed. We intend on making a reusable draft format for 2 players and one for more players. You win the game by reducing your opponent's life total to 0.
 
-The game takes place in Atnia, the setting of Ciaban's Tabletop RPG. A short briefing on it can be found here: [[Atnia Introduction]]. 
+The game takes place in Atnia, the setting of Ciaban's Tabletop RPG. A short briefing on the world can be found here: [[Atnia Introduction]]. 
 
-Notes:
-- I am currently in the process of replacing all references to priority with active player, as that should be more clear wording. - Ski
 # Rules for playing the game:
 
 ## Shared Round
-During each round players will take turns playing cards and taking actions. These actions include:
-- Pass - When both players pass, if cards are being played, all cards resolve, and if no cards are being played, move onto the next step/phase of the round. Everything basically revolves around this double pass system, both players pass, then everything resolves and/or you move to the next step/phase.
-- Play a Card or Ability - See "Playing Cards".
+During each round players will take turns taking actions (mainly playing cards!). Only one player is the active player at a time, and you can only take actions while you are the active player. These actions include:
+- Play a Card or Ability - When you play a card/ability, the other player becomes the active player. | See "Playing Cards".
+- Pass - By passing, the other player becomes the active player. When both players pass, if cards are being played, all cards resolve, and if no cards are being played, move to the next step/phase of the round.
 - Attack / Enter Combat - See "Combat".
 For more info, see "Round Phases"
 ---
@@ -32,29 +31,74 @@ For more info, see "Round Phases"
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
 - Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
-- Channeled cards zone - Zone cards go after being channeled.
+- Channel zone - Zone cards go after being channeled.
 ---
-## Sources
-Similar to the colors in magic. Currently they are: Arca, Eminus, Material, Old World, and Zelor (although some of these names may be subject to change.)
+## Parts of a Card
+- **Name**
+- **Energy Cost** - To play a card, you must pay energy equal to it's energy cost.
+- **Source Requirement(s)** - See "Power Sources"
+- **Type** - See "Card Types"
+- **Subtype** - See "Card Types"
+- **Speed** - See "Playing Cards"
+- **Offense/Defense Stats** - See "Card Types" & "Playing Cards"
+- **Rules Text** - Explains what a card does. See "Playing Cards"
+
+---
+## Energy System
+There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy limit of 3 is separate from the main 10 energy limit). Players begin the game with 2 energy counters and gain an additional 2 after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
+
+---
+## Power Sources
+Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement. The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 5 sources are: 
+- Arca - A chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
+- Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
+- Material - Resources people need and desire in the new world. While the other sources are largely conceptual, Material is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
+- Old World - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
+- Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from sheer power of will.
+
+*Source names subject to change, (particularly, Old World & Eminus).*
+
+Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
+
+Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled cards and allied claims in the reality zone. If you do not meet the source requirement, you cannot play the card.
 
 ---
 ## Card Types
-There are multiple card types:
-- Unit - Units have offense stat in addition to their defense stat, and can attack and block.
+- Unit - Units have offense stat in addition to their defense stat, and can attack and block. Other card types do not have an offense stat.
 - Claim - The first claim you play each round costs 2 energy less.
 - Item - Items cost 1 energy less for each round that has passed (1 less on round 2, 2 less on round 3, and so on.) 
-- Spell - Spells do their thing on resolution, then are put into memory, unlike other cards which resolve to reality.
+- Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to reality.
 - Starting Location - A deck may have one starting location card. It begins the game face up in void, and can be put into hand at any time throughout the game at `<speed%>` by putting a card from your hand on the bottom of your deck. 
 
-- Some cards will also have subtypes, but substyles do not have any universal rules significance
-- All cards have a numerical energy cost, Source requirement(s), and Speed value, as well as a Defense stat.
----
-## Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy does not count to the max energy limit of 10). Players begin the game with 2 energy counters and gain an additional 2 at the end of each round (maximum is also 10). At round start, players get 1 energy for each of their energy counters.
+Some cards will also have subtypes, but substyles do not have any universal rules significance
 
 ---
-## Card draw & channel system
-All cards in hand can be channeled into the channel zone face up at any time. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones
+## Playing Cards & Dream
+To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto Dream, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards put into dream are placed above other cards already there. Once both players pass, all cards in dream (unresolved cards) are resolved in order of top to bottom. 
+
+When a card is played, it goes to Dream. When it resolves, it goes to reality (or memory if it is a spell). When a card in reality or dream dies / is destroyed, it is put into memory. When a card takes damage greater than it's defense stat, it is destroyed.
+
+To reiterate, you pay a card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
+
+When all cards are resolved, and the player who did not begin the stack (by placing the first card in dream) becomes the active player.
+## Speed
+Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
+- Note: if there are no cards currently in dream, cards with negative speed values may be played without needing to be accelerated.
+- All infinite speed effects are always resolved before any others, cannot be responded to by any player, and do not affect which player is or becomes the active player.
+
+### Advanced notes on timing rules and dream:
+- If during dream effect resolution one or more new cards or effects are put into dream that are not at `<speed%>` speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
+- If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
+	- Effects from the first player in the round above effects from other players. 
+	- Top to bottom, triggers from cards in: Dream, Reality (combat before rest), Memory.
+		- Dream, top to bottom: Cards higher in dream to cards lower in dream.
+		- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then claims).
+		- Memory, top to bottom: Cards higher in memory to cards lower in memory.
+- New cards arrive in memory above cards already in memory.
+- All new cards arrive in reality to the right of cards already in reality. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there, in the same arrangement they were in combat.
+---
+## Card draw & Channel system
+All cards in hand can be channeled into the channel at any time. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones
 - You may channel a card face down as a wild card instead of face up. If you do this it counts as being from all sources, but means you will draw 1 fewer card at the end of the round.
 - Note: Channeling cards is done at (infinite speed) (it cannot be responded to, but you may still only do it when you have priority).
 
@@ -63,22 +107,7 @@ All cards in hand can be channeled into the channel zone face up at any time. Ch
 	- Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
 	- Players draw up to their maximum hand size.
 ---
-## Playing Cards
-To play a card, you must meet it's source requirement and pay it's costs. The card is then put onto dream, and priority is given to your opponent to either respond to it with their own card, or pass. Any new cards put into dream are put on top of other cards already there. Once both players pass, all cards in dream (unresolved cards) are resolved in order of top to bottom. When resolving, units, claims, and items are put onto the board, and spells are put into memory. To reiterate, you pay a cards cost to play it, and only when it is resolved it does it's effect and/or enters play. When all cards are resolved, and the player who did not begin the stack (placed the first card in dream) becomes the active player.
 
-Cards with a given speed number can only be played if there are that many or fewer cards and/or abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
-- Note: if there are no cards currently in dream, cards with negative speed values may be played without needing to be accelerated.
-
-Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled and allied claims of that source in play. If you do not meet the source requirement, you cannot play the card.
-
-Notes on timing and dream:
-- All `<speed%>` (infinite speed) speed effects are resolved before any others, cannot be responded to by any player, and do not affect who has priority.
-- All effects trigger simultaneously are put into dream all at once, from top to bottom in order of:
-	- Effects from the first player in the round above effects from other players. 
-	- Top to bottom: Cards on the left side of a players board to cards on the right side of their board board (units, then items, then claims).  
-- All combat strikes are processed left to right (from the attacker's pov). All new cards arrive in play on the right side of their area. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the main play area on the left side, in the same arrangement they were in combat.
-- If during dream effect resolution one or more new cards or effects are put into dream that are not at `<speed%>` speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
----
 ## Round Phases
 1. Pre round
 	1. Each player gets 1 energy for each of their energy counters.
@@ -98,7 +127,7 @@ Notes on timing and dream:
 	2. Each player gets 2 additional energy counters.
 	3. Begin the next round
 	- During the post round phase, players may not take actions and card effects cannot occur.
-- Combat phase.
+- Combat phase
 	- See "Combat"
 ---
 ## Combat
@@ -108,7 +137,7 @@ Combat phase outline:
 1. Step 1 - Combat begins with the active player declaring one or more attackers. After attackers are declared, all triggers created are put into dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 2.
 2. Step 2 - Defending player declares up to one blocking unit for each attacking unit. After defenders are declared, all triggers created are put into dream, however, no player is given priority and only triggers at {infinite} speed are resolved. Then move to step 3.
 3. Step 3 - The attacking player is given priority. After a double pass occurs, all cards and effects in dream are resolved. Then all battling units deal damage equal to their offense value to the unit blocking/being blocked by them, and if they are attacking unblocked, to the defending player.
-4. End combat, return to the main phase, and the player who was defending is the active player. 
+4. End combat, return to the main phase, and the player who was defending becomes the active player. 
 Notes:
 - Both attacking and blocking causes units to flip, and you cannot attack or block with flipped units.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until the other player attacks.
