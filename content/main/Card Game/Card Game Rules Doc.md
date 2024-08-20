@@ -113,7 +113,7 @@ When you are the active player and are taking actions, you may commit multiple n
 ---
 ## Channel System
 All cards in hand can be channeled into the channel zone at ∞ speed any time you are the active player as a universal action. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones at the end of the round.
-- You may channel a card face up or face down. Cards channeled face down as wild cards count as being from all sources, but draw 1 fewer card at the end of the round (unless it is done during draw step step 2).
+- You may channel a card face up or face down. Cards channeled face down as wild cards count as being from all sources, but draw 1 fewer card at the end of the round (unless it is done during draw phase step 2).
 - During the draw phase, your channeled cards will be recycled
 - Channeling cards does not 
 ---
