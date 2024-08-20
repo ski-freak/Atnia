@@ -91,7 +91,7 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
-- All abilities are placed into dream just as cards are. Universal actions do not go through dream, however
+- All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Note: if there are no cards currently in dream, cards with negative speed values may be played without needing to be accelerated.
