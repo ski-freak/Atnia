@@ -114,8 +114,9 @@ When you are the active player and are taking actions, you may commit multiple n
 ---
 ## Channel System
 All cards in hand can be channeled into the channel zone at ∞ speed any time you are the active player as a universal action. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones at the end of the round.
-- You may channel a card face up or face down. Cards channeled face down as wild cards count as being from all sources, but draw 1 fewer card at the end of the round (unless it is done during draw phase step 2).
 - During the draw phase, your channeled cards will be recycled
+- You may channel a card face up or face down. Cards channeled face down as wild cards count as being from all sources, but draw 1 fewer card at the end of the round (unless it is done during draw phase step 2).
+
 ---
 
 ## Round Phases
@@ -125,7 +126,6 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all their flipped cards.
 	5. Move to next phase
-	- During the Pre Round phase, no card effects can occur.
 2. Round Start
 	1. If an effect refers to round start, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
@@ -142,12 +142,13 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 	3. Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
 	4. Players draw up to their maximum hand size.
 	5. Begin next round
-	- During the Draw Phase, no card effects can occur.
 - Combat phase
 	- See "Combat"
 
 If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards).
 
+- Note: We may try at some point making it so no cards/abilities can trigger during the draw phase or pre round phase
+	- ~~During the Pre Round phase, no card effects can occur.~~ 
 ---
 ## Combat
 During the main phase, while you are the active player and there are no unresolved effects, as a universal action you may start an attack by declaring your attackers.
