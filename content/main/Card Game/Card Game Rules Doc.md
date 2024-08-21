@@ -170,8 +170,7 @@ To start the game, randomly determine the first player. Each player shuffles the
 
 ---
 ## Extra Notes
-- The first player 
-- Some cards may have activated abilities, indicated by `<$>` symbol. These abilities can be activated and played similar to cards. Unless otherwise noted, you may only activate abilities of cards in play.
+- 
 
 ## Card Semantics
 Eh see the spreadsheet for this (when I add it). But for now, here's *some* info: 
