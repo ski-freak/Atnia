@@ -28,7 +28,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Reality - The main playing area / board. All cards that are currently in play live here.
-	- Battlefield - Part of / a subzone of reality, this is where units go during combat. 
+	- Combat zone - Part of / a subzone of reality, this is where units go during combat. 
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
 - Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
@@ -104,7 +104,7 @@ When you are the active player and are taking actions, you may commit multiple n
 - If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 - If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
 	- Effects from the first player in the round above effects from other players. 
-	- Top to bottom, triggers from cards in: Dream, Reality (battlefield before the rest), Memory.
+	- Top to bottom, triggers from cards in: Dream, Reality (combat zone before the rest), Memory.
 		- Dream, top to bottom: Cards higher in dream to cards lower in dream.
 		- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then claims).
 		- Memory, top to bottom: Cards higher in memory to cards lower in memory.
