@@ -95,7 +95,7 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 - All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
-- Note: if there are no cards currently in dream, cards with negative speed values may be played without needing to be accelerated.
+- If it is the main phase and there are no cards currently in dream, cards with negative speed values may be played as though they had a speed of 0.
 - All ∞ speed effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player.
 - Taking any action slower than ∞ speed causes the other player to become the active player.
 
@@ -158,7 +158,6 @@ Combat phase outline:
 3. If the defending player committed any non ∞ speed effects, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
 4. End combat, return to the main phase, and the player who was defending becomes the active player. 
 Notes:
-- During combat, the floor to speed is 0, any negative speed cards must be accelerated to 0 to be played during combat.
 - You may only attack twice per round.
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
