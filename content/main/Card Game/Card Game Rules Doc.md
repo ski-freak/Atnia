@@ -162,10 +162,11 @@ Notes:
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until another player attacks.
+- If the first action taken in a round is an attack, the attacking player forfeits their second attack for the round.
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, (reveals their starting location if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & draws their starting location if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game.
 
 ---
 ## Extra Notes
