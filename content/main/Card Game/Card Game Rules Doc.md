@@ -75,7 +75,7 @@ Cards may have one or more source requirements, indicating how many cards of tha
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their defense stat, and can attack and block. Other card types do not have an offense stat.
-- Claim - The first claim you play each round costs 2 energy less.
+- Claim - Claims count towards source requirements while in the reality zone (as well as the channel zone).
 - Item - Items cost 1 energy less for each round that has passed (1 less on round 2, 2 less on round 3, and so on.) 
 - Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to reality.
 - Starting Location - A deck may have one starting location card. It begins the game face up in void, and can be put into hand at any time throughout the game at ∞ speed as a universal action by putting a card from your hand on the bottom of your deck. 
