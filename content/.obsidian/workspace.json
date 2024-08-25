@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Type Note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Type Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Type Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "main/Card Game/Card Type Note.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc.md",
+    "main/Card Game/Card Type Note.md",
     "main/Card Game/Card Game Rules Doc - Original Backup.md",
     "main/Card Game/Card Game Rules Doc - Round Start-End Bak.md",
-    "main/Card Game/Card Game Rules Doc.md",
     "index.md",
     "main/Card Game/Card Game Patchnotes/Card Game Patch Notes 8-18-2024.md",
     "main/Card Game/Potential Card Game Mode A.md",
