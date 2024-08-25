@@ -7,6 +7,8 @@ aliases:
 - Interaction
 carda
 cardb
+- Claims
+
 - Aggro
 
 - Midrange
