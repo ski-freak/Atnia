@@ -55,7 +55,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ---
 ## Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy limit of 3 is separate from the main 10 energy limit). Players begin the game with 2 energy counters and gain an additional 2 after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
+There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy limit of 3 is separate from the main 10 energy limit). Players begin the game with 3 energy counters and gain an additional one after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
 
 ---
 ## Power Sources
@@ -122,7 +122,7 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 ## Round Phases
 1. Pre round
 	1. If it is not the first round of the game, the player with the highest total/combined offense across their units becomes the first player. If it is tied, the player who began as the second player in the previous round becomes the first player.
-	2. Each player gets 2 additional energy counters
+	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all their flipped cards.
 	5. Move to next phase
@@ -137,7 +137,7 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 	1. If an effect refers to round end, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 5. Draw Phase
-	1. The number of cards total in a player's hand, face up in their channel zone, + 2, (up to 10) becomes that player's maximum hand size for the round.
+	1. The number of cards total in a player's hand, face up in their channel zone, + 1, (up to 10) becomes that player's maximum hand size for the round.
 	2. Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
 	3. Players draw up to their maximum hand size.
 	4. Begin next round
@@ -166,7 +166,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into play if the format has one), and draws 8 cards, keeping 5 and putting the rest on the top and/or bottom of their deck in any order. After both players have finished drafting their hands, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into play if the format has one), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
 
 ---
 ## Extra Notes

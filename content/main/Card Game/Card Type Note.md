@@ -21,6 +21,14 @@ cardb
 ### Eminus
 
 ### Material
+- Interaction
+Geoexplosion
+
+- Claims
+Geoexplosion
+Unexpected Conquest
+Aggressive Development
+aterialized Landscape
 
 ### Old World
 
