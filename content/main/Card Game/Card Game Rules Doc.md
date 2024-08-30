@@ -9,6 +9,7 @@ tags:
 - *This information is a work in progress*
 - Project Gamma is a temporary name. The project is being merged/using the world/setting of birdsandbees' tabletop rpg project. Project Delta is the overarching 'group' that is creating project gamma among other things.
 - See [[Card & TTRPG Outline & Plans]] and [[Card Game Onboarding]] for more general information.
+- For info on setting up software for testing, see [[Card Game Testing Info]].
 
 
 >This is a 1v1 card game, within the gameplay genre of trading card games (not necessarily the distribution model). The rules will support draft and constructed. We intend on making a reusable draft format for 2 players and one for more players. The game rules are being made to work both in paper and as a video game. You begin the game at 20 life and win the game by reducing your opponent's life total to 0.
