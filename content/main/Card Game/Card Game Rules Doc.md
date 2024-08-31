@@ -44,6 +44,9 @@ During each round players will take turns taking actions (mainly playing cards!)
 - **Speed** - See "Playing Cards"
 - **Offense/Defense Stats** - See "Card Types" & "Playing Cards"
 - **Rules Text** - Explains what a card does. See "Playing Cards"
+
+![[Pasted image 20240830204450.png|500]]
+
 ---
 ## Kinds of game objects
 - Card - Cards!
@@ -72,6 +75,8 @@ Sources are the main categorization of cards & affect which cards you will likel
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
 Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled cards and allied claims in the reality zone. If you do not meet the source requirement, you cannot play the card.
+
+Currently the zone symbols are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Material is a green plank of wood, Old World is a blue coin, and zelor is a red book.
 
 ---
 ## Card Types
@@ -174,9 +179,56 @@ To start the game, randomly determine the first player. Each player shuffles the
 - 
 
 ## Card Semantics
-Eh see the spreadsheet for this (when I add it). But for now, here's *some* info: 
-- There will be symbols for card parameters, as well as each zone. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
-- Keywords will be listed... in the spreadsheet when I get to it.
+See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=1256812815#gid=1256812815) for info on words that appear on cards.
+
+Here is some additional info:
+- The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
+
+---
+# Some Random Card Examples
+![[Pasted image 20240830203602.png|250]]
+
+![[Pasted image 20240830205038.png|250]]
+
+![[Pasted image 20240830205117.png|250]]
+
+![[Pasted image 20240830205142.png|250]]
+
+![[Pasted image 20240830212200.png|250]]
+
+![[Pasted image 20240830205222.png|250]]
+
+![[Pasted image 20240830205252.png|250]]
+
+![[Pasted image 20240830205319.png|250]]
+
+![[Pasted image 20240830205406.png|250]]
+
+![[Pasted image 20240830205500.png|250]]
+
+![[Pasted image 20240830205600.png|250]]
+
+![[Pasted image 20240830205643.png|250]]
+
+![[Pasted image 20240830205853.png|250]]
+
+![[Pasted image 20240830210033.png|250]]
+
+![[Pasted image 20240830210142.png|250]]
+
+![[Pasted image 20240830210202.png|250]]
+
+![[Pasted image 20240830210744.png|250]]
+
+![[Pasted image 20240830210907.png|250]]
+
+![[Pasted image 20240830210923.png|250]]
+
+![[Pasted image 20240830211406.png|250]]
+
+![[Pasted image 20240830211517.png|250]]
+
+![[Pasted image 20240830211539.png|250]]
 
 ## Formats and ways to play the game
 
