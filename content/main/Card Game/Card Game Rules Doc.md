@@ -63,7 +63,7 @@ There is a single (numerical) energy pool for each player, the maximum energy yo
 
 ---
 ## Power Sources
-Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement. The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 5 sources are: 
+Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 5 sources are: 
 - Arca - A chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
 - Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
 - Material - Resources people need and desire in the new world. While the other sources are largely conceptual, Material is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
