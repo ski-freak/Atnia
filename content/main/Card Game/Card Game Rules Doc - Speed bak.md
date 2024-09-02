@@ -1,5 +1,5 @@
 ---
-title: Card Game Rules Doc
+title: Card Game Rules Doc - Speed bak
 enableToc: "true"
 tags:
 ---
@@ -103,11 +103,11 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Once a card has been played, the speed number is no longer relevant (it does not determine the order cards resolve in).
-- If it is the main phase and there are 0 cards in dream, cards with negative speed values may be played as though they had a speed of 0.
+- If it is the main phase and there are no cards currently in dream, cards with negative speed values may be played as though they had a speed of 0.
 - All ∞ speed effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player.
 - Taking any action slower than ∞ speed causes the other player to become the active player.
 
-When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream & each card must be fast enough to be played as though it were the top card (you may accelerate them). Once you commit the actions, the other player becomes the active player as normal.
+When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream & each card must be fast enough to be played as if the ones below it were already there (you may accelerate them). Once you commit the actions, the other player becomes the active player as normal, and the group of cards/abilities only counts as a single card for the purposes of speed.
 ### Advanced notes on timing rules and dream:
 - If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 - If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
