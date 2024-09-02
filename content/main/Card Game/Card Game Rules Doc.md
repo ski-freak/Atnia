@@ -99,6 +99,7 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
 - All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
+---
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Once a card has been played, the speed number is no longer relevant (it does not determine the order cards resolve in).
@@ -184,6 +185,13 @@ See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/sprea
 
 Here is some additional info:
 - The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
+	- Reality - Rolling Hills
+	- Memory - Tombstone
+	- Void - Swirly galaxy thingy
+	- Dream - Moon with zzz
+	- Hand - Fan of cards
+	- Deck - Stack of cards
+	- Channel Zone - Hand with a magical swirl
 
 ---
 # Some Random Card Examples
