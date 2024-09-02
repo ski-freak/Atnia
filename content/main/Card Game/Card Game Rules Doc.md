@@ -101,6 +101,7 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 - All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards / abilities currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
+- Once a card has been played, the speed number is no longer relevant (it does not determine the order cards resolve in).
 - If it is the main phase and there are no cards currently in dream, cards with negative speed values may be played as though they had a speed of 0.
 - All ∞ speed effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player.
 - Taking any action slower than ∞ speed causes the other player to become the active player.
