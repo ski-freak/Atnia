@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Game Testing Info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Game Testing Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Game Testing Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "main/Card Game/Card Game Testing Info.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
-    "main/Card Game/Card Game Testing Info.md",
     "main/Card Game/Card Game Rules Doc.md",
+    "main/Card Game/Card Game Testing Info.md",
     "main/attachments/Pasted image 20240830212200.png",
     "main/attachments/Pasted image 20240830211539.png",
     "main/attachments/Pasted image 20240830211517.png",

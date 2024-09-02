@@ -10,7 +10,7 @@ Info on current testing method
 	1. Grab the Delta_Set1.xml file and drop it in `Cockatrice\data\customsets` 
 	2. Decks go in `Cockatrice\data\decks` 
 3. If you haven't before, in Cockatrice, go to Card Database -> Manage Sets, disable all, then enable Delta_Set1.
-4. Connect to the cockatrice rooster ranges server in the menu Cockatrice -> Connect. You may need to create an account.
+4. Connect to the cockatrice rooster ranges server in the menu Cockatrice -> Connect. You may need to create an account first (Cockatrice -> Register to Server).
 
 Note: When cards are updated, you will need to go to Cockatrice -> Card Sources -> Delete Downloaded Images in the menus for them to refresh on your client.
 
