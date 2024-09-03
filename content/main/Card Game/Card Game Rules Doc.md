@@ -155,8 +155,6 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 
 If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards).
 
-- Note: We may try at some point making it so no cards/abilities can trigger during the draw phase or pre round phase
-	- ~~During the Pre Round phase, no card effects can occur.~~ 
 ---
 ## Combat
 During the main phase, while you are the active player and there are no unresolved effects, as a universal action you may start an attack by declaring your attackers.
@@ -178,9 +176,6 @@ Notes:
 To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into play if the format has one), and draws 7 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
 
 ---
-## Extra Notes
-- 
-
 ## Card Semantics
 See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
 
@@ -194,6 +189,9 @@ Here is some additional info:
 	- Deck - Stack of cards
 	- Channel Zone - Hand with a magical swirl
 
+---
+## Extra Notes
+- 
 ---
 # Some Random Card Examples
 ![[Pasted image 20240830203602.png|250]]
