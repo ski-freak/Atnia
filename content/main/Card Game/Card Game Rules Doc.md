@@ -243,7 +243,7 @@ Here is some additional info:
 
 These are all just potential ideas. All can be played in best 2/3 or best of one.
 - Draft. It's cube draft.
-- Constructed: 60 total cards, max 3x of each card, 15 card sideboard.
+- Constructed: 40 total cards, max 2x of each card, 15 card sideboard??
 - Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all realmless. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with claim count since you are changing the number of non claims, we'll have to figure a solution to that out later). 
 - Mirror Format
 - Experimental: fast cycle format. 20 cards, and you cycle through them
