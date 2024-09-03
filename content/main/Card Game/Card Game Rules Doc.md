@@ -163,7 +163,7 @@ During the main phase, while you are the active player and there are no unresolv
 Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to dream. After attackers are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to dream. After defenders are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
-3. If the defending player committed any non ∞ speed effects, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
+3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
 4. End combat, return to the main phase, and the player who was defending becomes the active player. 
 Notes:
 - You may only attack twice per round.
