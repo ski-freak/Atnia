@@ -129,7 +129,7 @@ All cards in hand can be channeled into the channel zone at ∞ speed any time y
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player with the highest total/combined offense across their units becomes the first player. If it is tied, the player who began as the second player in the previous round becomes the first player.
+	1. If it is not the first round of the game, the player with the most cards in hand becomes the first player (tie broken by who has the most total offense among their units, if that is tied, the player who began as the second player in the previous round becomes the first player.)
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all their flipped cards.
@@ -170,7 +170,7 @@ Notes:
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until another player attacks.
-- If the first action taken in a round is an attack, the attacking player forfeits their second attack for the round.
+- 
 
 ---
 ## Starting the game
