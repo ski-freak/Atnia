@@ -9,6 +9,7 @@ tags:
 - This information / rules document is a work in progress
 - See [[Card & TTRPG Outline & Plans]] and [[Card Game Onboarding]] for more general information.
 - For info on setting up software for testing, see [[Card Game Testing Info]].
+- This [Google Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360) displays all of the cards.
 - Join the [Discord](https://discord.gg/xTdT2DpEwB) if you haven't yet.
 
 
@@ -181,7 +182,7 @@ To start the game, randomly determine the first player. Each player shuffles the
 - 
 
 ## Card Semantics
-See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=1256812815#gid=1256812815) for info on words that appear on cards.
+See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
 
 Here is some additional info:
 - The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.

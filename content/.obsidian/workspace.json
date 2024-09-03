@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sheet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "main/Card Game/Card Game Rules Doc.md"
               }
             }
           }
@@ -161,11 +162,13 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Onboarding.md",
+    "main/Card Game/Card Game Imaging.md",
+    "main/Meta/Card & TTRPG Outline & Plans.md",
     "main/Card Game/Card Game Rules Doc.md",
+    "index.md",
     "main/Lore/Atnia Introduction.md",
     "main/Card Game/Card Game Rules Doc - Speed bak.md",
-    "main/Card Game/Card Game Imaging.md",
-    "main/Card Game/Card Game Onboarding.md",
     "main/Card Game/Card Game Testing Info.md",
     "main/attachments/Pasted image 20240830212200.png",
     "main/attachments/Pasted image 20240830211539.png",
@@ -181,7 +184,6 @@
     "main/Card Game/Card Type Note.md",
     "main/Card Game/Card Game Rules Doc - Original Backup.md",
     "main/Card Game/Card Game Rules Doc - Round Start-End Bak.md",
-    "index.md",
     "main/Card Game/Card Game Patchnotes/Card Game Patch Notes 8-18-2024.md",
     "main/Card Game/Potential Card Game Mode A.md"
   ]

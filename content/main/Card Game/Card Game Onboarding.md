@@ -4,7 +4,7 @@ enableToc:
 tags:
 ---
 If you would like to contribute to the card game, first make sure you have read [[Card & TTRPG Outline & Plans]]. Here are some things that currently need to be done:
-## Card Creation (See the Google Sheet [HERE](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=1256812815#gid=1256812815))
+## Card Creation (See the Google Sheet [HERE](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360))
 
 **Name cards in the Set1 Sheet**
 - Feel free to just go in and name any cards with a highlighted name cell starting with `\`. There is conditional formatting to highlight any cell starting with a backslash. When you name a card, remove the backslash. Names should attempt to be usable in the final game.
