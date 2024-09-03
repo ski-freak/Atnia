@@ -171,7 +171,7 @@ Notes:
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until another player attacks.
-- 
+- Aside: Smaller board goes first is still worth trying, as well as other ways of making attacking first thing in the round less broken (if it is broken).
 
 ---
 ## Starting the game
