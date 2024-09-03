@@ -6,10 +6,10 @@ tags:
 # Project Gamma Card Game Rules Document
 
 - If you have not seen it, watch the [intro video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
-- *This information is a work in progress*
-- Project Gamma is a temporary name. The project is being merged/using the world/setting of birdsandbees' tabletop rpg project. Project Delta is the overarching 'group' that is creating project gamma among other things.
+- This information / rules document is a work in progress
 - See [[Card & TTRPG Outline & Plans]] and [[Card Game Onboarding]] for more general information.
 - For info on setting up software for testing, see [[Card Game Testing Info]].
+- Join the [Discord](https://discord.gg/xTdT2DpEwB) if you haven't yet.
 
 
 >This is a 1v1 card game, within the gameplay genre of trading card games (not necessarily the distribution model). The rules will support draft and constructed. We intend on making a reusable draft format for 2 players and one for more players. The game rules are being made to work both in paper and as a video game. You begin the game at 20 life and win the game by reducing your opponent's life total to 0.
@@ -164,9 +164,9 @@ Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to dream. After attackers are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to dream. After defenders are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. End combat, return to the main phase, and the player who was defending becomes the active player. 
+4. The attacking player may choose to start another attack if they have another to use (beginning a new combat phase at step 1), or they may pass, at which point combat ends, return to the main phase, and the player who was defending becomes the active player. 
 Notes:
-- You may only attack twice per round.
+- You may attack up to twice per round (either chaining them or using them separately).
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until another player attacks.
