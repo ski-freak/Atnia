@@ -75,7 +75,7 @@ Sources are the main categorization of cards & affect which cards you will likel
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
-Cards may have one or more source requirements, indicating how many cards of that source you must have total/combined among your channeled cards and allied claims in the reality zone. If you do not meet the source requirement, you cannot play the card.
+Cards may will often have a source requirement, a number of symbols indicating how many individual cards of that source you must have total/combined among your channeled cards and allied claims in the reality and dream zones. If you do not meet the source requirement, you cannot play the card.
 
 Currently the zone symbols are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Material is a green plank of wood, Old World is a blue coin, and zelor is a red book.
 
