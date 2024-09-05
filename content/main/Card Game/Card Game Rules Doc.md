@@ -267,7 +267,7 @@ Instead of drawing cards normally at the end of each round and start of the game
 ## Source Limited
 Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks (each one for all cards of a given source. Can add a 6th for multi source cards) are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from. Players do not have to meet source requirements when paying costs in this format.
 
-When starting the game, players draw their starting hands by drawing 7 cards (up to 3 from a single deck), when mulliganing you remove the cards from the game face up and redraw from the deck of the same source. All cards are channeled face down, and are not recycled into the decks at round end (are instead removed from the game) (players will still draw back to their max hand size).
+All cards are channeled face down, and are not recycled into the decks at round end (are instead removed from the game) (players will still draw back to their max hand size). When starting the game, players draw their starting hands by drawing 7 cards (up to 3 from a single deck), when mulliganing you remove the cards from the game face up and redraw from the deck of the same source. The top cards of the source decks are not revealed during mulligan.
 
 ### Ski Draft (questionable)
 Both players take 10 cards from the top of their deck. Each player picks 1 card to keep, then passes the rest to their opponent. From pick 2 on, each pick players keep an additional card than the previous pick. Continue until all cards are drafted. Note: in this draft format, chosen/drafted cards are revealed as they are drafted.
