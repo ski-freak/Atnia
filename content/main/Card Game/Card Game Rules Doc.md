@@ -49,16 +49,6 @@ During each round players will take turns taking actions (mainly playing cards!)
 ![[Pasted image 20240830204450.png|500]]
 
 ---
-## Kinds of game objects
-- Card - Cards!
-- Ability - Effects created by cards
-	- Triggered ability - Occurs automatically when indicated by the card they are on.
-	- Skill - Ability of a card that is activated by the player similar to playing a card.
-- Universal Action - Actions such as passing, channeling cards, or entering combat, which are granted to players by the game rules rather than cards.
-- Player health / life total
-- 
-
----
 ## Energy System
 There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy limit of 3 is separate from the main 10 energy limit). Players begin the game with 3 energy counters and gain an additional one after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
 
@@ -105,7 +95,7 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Once a card has been played, the speed number is no longer relevant (it does not determine the order cards resolve in).
-- If it is the main phase and there are 0 cards and abilities in dream, cards with negative speed values may be played as though they had a speed of 0.
+- If it is the main phase (not combat) and there are 0 cards and abilities in dream, cards with negative speed values may be played as though they had a speed of 0.
 - All ∞ speed effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player.
 - Taking any action slower than ∞ speed causes the other player to become the active player.
 
@@ -191,6 +181,7 @@ To start the game, randomly determine the first player. Each player shuffles the
 ## Card Semantics
 See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
 
+
 Here is some additional info:
 - The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
 	- Reality - Rolling Hills
@@ -201,6 +192,16 @@ Here is some additional info:
 	- Deck - Stack of cards
 	- Channel Zone - Hand with a magical swirl
 
+
+---
+## Kinds of game objects
+- Card - Cards!
+- Ability - Effects created by cards
+	- Triggered ability - Occurs automatically when indicated by the card they are on. Is infinite speed unless otherwise noted.
+	- Skill - Ability of a card that is activated by the player similar to playing a card.
+- Universal Action - Actions such as passing, channeling cards, or entering combat, which are granted to players by the game rules rather than cards.
+- Player health / life total
+- 
 ---
 ## Extra Notes
 - 
