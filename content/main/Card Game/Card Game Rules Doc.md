@@ -158,7 +158,7 @@ If a phase/step does not explicitly make a player the active player, no player i
 
 ---
 ## Combat
-During the main phase, while you are the active player and there are no unresolved effects, as a universal action you may start an attack by declaring your attackers.
+During the main phase, while you are the active player and there are no unresolved effects, as a universal action you may start an attack by declaring your attackers (you attack players, not their cards).
 
 Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to dream. After attackers are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
