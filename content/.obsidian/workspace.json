@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Game Testing Info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Game Testing Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Card Game/Card Game Testing Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "main/Card Game/Card Game Testing Info.md"
               }
             }
           }
@@ -159,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59619547ef2ce85e",
+  "active": "6820d7b6e025a158",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc.md",
     "main/Card Game/Card Game Onboarding.md",
     "main/Card Game/Card Game Imaging.md",
     "main/Meta/Card & TTRPG Outline & Plans.md",
-    "main/Card Game/Card Game Rules Doc.md",
     "index.md",
     "main/Lore/Atnia Introduction.md",
     "main/Card Game/Card Game Rules Doc - Speed bak.md",
