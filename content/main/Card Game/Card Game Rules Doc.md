@@ -277,6 +277,7 @@ When starting the game, players draw their starting hands by drawing 7 cards. Th
 
 Notes:
 - If cards would be put on the bottom of a deck, remove them from the game instead **(this includes channeled cards & mulligans!)**.
+- Whoever started the round as the first player draws first during the draw phase (they draw all their cards at once before the next player).
 - If you would draw more than one card from a single deck at once, the cards you draw beyond the first are not revealed. 
 - If a card says 'top x cards of your deck', or 'draw a spell', or similar, you may only use a single deck.
 
