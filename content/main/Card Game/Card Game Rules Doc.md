@@ -266,9 +266,23 @@ Limited format for 2 players where you draft your cards for each round. Both pla
 Instead of drawing cards normally at the end of each round and start of the game, players draft cards. Also, in mirror format, cards are channeled face down rather than face up.
 
 ## Source Limited
-Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks (each one for all cards of a given source. Can add a 6th for multi source cards) are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from. Players do not have to meet source requirements when paying costs in this format.
+Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from.
 
-All cards are channeled face down, and are not recycled into the decks at round end (are instead removed from the game) (players will still draw back to their max hand size). When starting the game, players draw their starting hands by drawing 7 cards (up to 3 from a single deck), when mulliganing you remove the cards from the game face up and redraw from the deck of the same source. The top cards of the source decks are not revealed during mulligan.
+Source requirements
+- Option A: Players do not have to meet source requirements when paying costs in this format.
+	- If using this: Cards with Exploration serve a different function. If you would draw a card with Exploration, you may instead remove it from the game and draw the card below it (without revealing or looking at it).
+- Option B: Players begin with a reminder card (does not exist in any zone) starting location that counts as 2 for all sources. Written another way: all source requirements are reduced by 2. 
+
+When starting the game, players draw their starting hands by drawing 7 cards. The top cards of the source decks are not revealed during mulligan.
+
+Notes:
+- If cards would be put on the bottom of a deck, remove them from the game instead **(this includes channeled cards & mulligans!)**.
+- If you would draw more than one card from a single deck at once, the cards you draw beyond the first are not revealed. 
+- If a card says 'top x cards of your deck', or 'draw a spell', or similar, you may only use a single deck.
+
+Optional / test rules:
+- When drawing the starting hand you may only draw up to 3 from a single deck, & during mulligan you must reveal the cards and redraw from the deck of the same source.
+- Can add a 6th deck for multi source cards
 
 ### Ski Draft (questionable)
 Both players take 10 cards from the top of their deck. Each player picks 1 card to keep, then passes the rest to their opponent. From pick 2 on, each pick players keep an additional card than the previous pick. Continue until all cards are drafted. Note: in this draft format, chosen/drafted cards are revealed as they are drafted.
