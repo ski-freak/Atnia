@@ -65,9 +65,11 @@ Sources are the main categorization of cards & affect which cards you will likel
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
-Cards may will often have a source requirement, a number of symbols indicating how many individual cards of that source you must have total/combined among your channeled cards and allied claims in the reality and dream zones. If you do not meet the source requirement, you cannot play the card.
+Cards may will often have a source requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied claims in the reality and dream zones. If you do not meet the source requirement, you cannot play the card.
 
-Currently the zone symbols are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Material is a green plank of wood, Old World is a blue coin, and zelor is a red book.
+Currently the source icons are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Material is a green plank of wood, Old World is a blue coin, and zelor is a red book.
+
+You can tell what a card's source(s) are by which source icons are on it's source requirement.
 
 ---
 ## Card Types
@@ -123,7 +125,7 @@ When you are the active player and are taking actions, you may commit multiple n
 - All new cards arrive in reality to the right of cards already in reality. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there, in the same arrangement they were in combat.
 ---
 ## Channel System
-All cards in hand can be channeled into the channel zone at ∞ speed any time you are the active player as a universal action. Channeling cards is primarily for fulfilling source requirements and getting rid of cards you don't want to replace them with new ones at the end of the round.
+All cards in hand can be channeled into the channel zone at ∞ speed any time you are the active player as a universal action. Channeling cards is primarily for increasing your source devotion to fulfill source requirements, and getting rid of cards you don't want to replace them with new ones at the end of the round.
 - During the draw phase, your channeled cards will be recycled
 - You may channel a card face up or face down. Cards channeled face down as wild cards count as being from all sources, but draw 1 fewer card at the end of the round (unless it is done during draw phase step 2).
 
