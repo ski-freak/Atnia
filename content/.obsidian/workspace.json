@@ -6,7 +6,7 @@
       {
         "id": "2708a4acff3f8fef",
         "type": "tabs",
-        "dimension": 49.22680412371135,
+        "dimension": 77.27272727272727,
         "children": [
           {
             "id": "6820d7b6e025a158",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Sources/Source Dev Note.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
       {
         "id": "35d7972c9d6721a5",
         "type": "tabs",
-        "dimension": 50.77319587628865,
+        "dimension": 22.727272727272727,
         "children": [
           {
             "id": "ff4499e936db9f77",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Sources/Source Dev Note.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Sources/Source Dev Note.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Sources/Source Dev Note.md"
+                "file": "main/Card Game/Card Game Rules Doc.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
-    "main/Card Game/Sources/Arca.md",
     "main/Card Game/Sources/Source Dev Note.md",
+    "main/Card Game/Sources/Arca.md",
     "main/Card Game/Sources/Zelor.md",
     "main/Card Game/Sources/Old World.md",
     "main/Card Game/Sources/Material.md",

@@ -11,8 +11,7 @@ List of things sources can be strong/weak in
 	- Going wide
 	- Going tall
 - Buffs & Protection
-	- Units / Items / Spells
-	- Stats / keywords & counters
+	- Stats / keywords & counterspells
 	- Offensive / Defensive
 - Early Game / Late Game
 - Interaction (with:)
