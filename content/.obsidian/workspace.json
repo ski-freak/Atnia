@@ -6,7 +6,6 @@
       {
         "id": "2708a4acff3f8fef",
         "type": "tabs",
-        "dimension": 77.27272727272727,
         "children": [
           {
             "id": "6820d7b6e025a158",
@@ -15,26 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "main/Card Game/Card Game Rules Doc.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "35d7972c9d6721a5",
-        "type": "tabs",
-        "dimension": 22.727272727272727,
-        "children": [
-          {
-            "id": "ff4499e936db9f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "main/Card Game/Sources/Arca.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
