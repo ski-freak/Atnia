@@ -96,11 +96,11 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality (o
 ## Speed
 Cards with a given speed number can only be played if there are that many or fewer cards currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
 - Once a card has been played, the speed number is no longer relevant (it does not determine the order cards resolve in).
-- If it is the main phase (not combat) and there are 0 cards and abilities in dream, cards with negative speed values may be played as though they had a speed of 0.
+- If it is the main phase (not combat), there are 0 cards and abilities in dream, and you are not committing multiple cards at once, cards with negative speed values may be played as though they had a speed of 0.
 - All ∞ speed effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player.
 - Taking any action slower than ∞ speed causes the other player to become the active player.
 
-When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream (you may accelerate them). After the group of cards is in dream, they only count as a single card for future cards played into dream. Once you commit the actions, the other player becomes the active player as normal. 
+When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream & each card must be fast enough to be played as if the ones below it were already there (you may accelerate them). Once in dream, the group only counts as a single card for the purposes of speed. Once you commit the actions, the other player becomes the active player as normal. 
 ### Advanced notes on timing rules and dream:
 - If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 	- Maybe also: If new non infinite speed cards/effects are put into dream by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
