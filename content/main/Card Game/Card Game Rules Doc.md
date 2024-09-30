@@ -228,8 +228,6 @@ Here is some additional info:
 
 ![[Pasted image 20240830205406.png|250]]
 
-![[Pasted image 20240830205500.png|250]]
-
 ![[Pasted image 20240830205600.png|250]]
 
 ![[Pasted image 20240830205643.png|250]]
@@ -246,13 +244,8 @@ Here is some additional info:
 
 ![[Pasted image 20240830210907.png|250]]
 
-![[Pasted image 20240830210923.png|250]]
-
 ![[Pasted image 20240830211406.png|250]]
 
-![[Pasted image 20240830211517.png|250]]
-
-![[Pasted image 20240830211539.png|250]]
 
 ## Formats and ways to play the game
 
