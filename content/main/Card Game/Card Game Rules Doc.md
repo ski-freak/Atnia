@@ -268,15 +268,25 @@ Limited format for 2 players where you draft your cards for each round. Both pla
 
 Instead of drawing cards normally at the end of each round and start of the game, players draft cards. Also, in mirror format, cards are channeled face down rather than face up.
 
-## Source Limited
-Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from.
+## Source Draft V2\
+Draft format for 2 players. You will draft your deck during the game. 
+
+Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is given 12 cards from any combination of decks as they choose, keeping 6 as their starting hand, and for the rest putting them into their deck (will be the only cards there as of now) or burning them as they choose. Burnt cards are removed from the game and thrown in a pile. Players also begin the game with an Atnia reminder card which counts as 2 devotion to all sources.
+
+The game begins and is played as normal, with the following modifications:
+- At the end of each round before the draw phase, there is a draft phase. During this phase players take another 10 cards from the source decks, burning up to 6 of them and keeping the rest, shuffling them into your deck.
+- The draw phase functions as normal, although players have the additional option to burn their channeled cards along with putting them on the top and/or bottom.
+- The Exploration ability has a different pool of claims to choose from, which are exactly the same but each is two sources instead of one.
+
+## Source Draft / 5 deck thing
+Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from, and can either draw starting with the face up card or skip the face up card and draw from the face down cards (sending the face up one to the bottom of the deck or removing it from the game).
 
 Source requirements
-- Option A: Players do not have to meet source requirements when paying costs in this format.
-	- If using this: Cards with Exploration serve a different function. If you would draw a card with Exploration, you may instead remove it from the game and draw the card below it (without revealing or looking at it).
-- Option B: Players begin with a reminder card (does not exist in any zone) starting location that counts as 2 for all sources. Written another way: all source requirements are reduced by 2. 
+- Option A: Players begin with a reminder card (does not exist in any zone) starting location that counts as 2 for all sources. Written another way: all source requirements are reduced by 2. 
+- Option B (unused currently): Players do not have to meet source requirements when paying costs in this format.
+	- If using this: Cards with Exploration would serve a different function
 
-When starting the game, players draw their starting hands by drawing 7 cards. The top cards of the source decks are not revealed during mulligan.
+When starting the game, players draw their starting hands by drawing 6 cards. The top cards of the source decks are not revealed during mulligan.
 
 Notes:
 - If cards would be put on the bottom of a deck, remove them from the game instead **(this includes channeled cards & mulligans!)**.
@@ -287,7 +297,7 @@ Notes:
 
 Optional / test rules:
 - When drawing the starting hand you may only draw up to 3 from a single deck, & during mulligan you must reveal the cards and redraw from the deck of the same source.
-- Can add a 6th deck for multi source cards
+- When getting cards with exploration abilities you get access to 10 two source claims instead of 5 single source ones.
 
 ### Ski Draft (questionable)
 Both players take 10 cards from the top of their deck. Each player picks 1 card to keep, then passes the rest to their opponent. From pick 2 on, each pick players keep an additional card than the previous pick. Continue until all cards are drafted. Note: in this draft format, chosen/drafted cards are revealed as they are drafted.
