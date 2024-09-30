@@ -278,6 +278,8 @@ The game begins and is played as normal, with the following modifications:
 - The draw phase functions as normal, although players have the additional option to burn their channeled cards along with putting them on the top and/or bottom.
 - The Exploration ability has a different pool of claims to choose from, which are exactly the same but each is two sources instead of one.
 
+Note: For newer players, it is recommended to reduce the number of cards dealt at the start of the game and/or not burn cards at the start. You could also use just one of the source decks for your first game to simplify things if you have not previously played other modes.
+
 ## Source Draft / 5 deck thing
 Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from, and can either draw starting with the face up card or skip the face up card and draw from the face down cards (sending the face up one to the bottom of the deck or removing it from the game).
 
