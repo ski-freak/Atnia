@@ -206,7 +206,7 @@ Here is some additional info:
 - 
 ---
 ## Extra Notes
-- 
+- Any damage dealt to cards is removed between rounds / damage only lasts for a round. Whether it works like this or not is relatively inconsequential for actual strategy, doing it this way makes it easier to track in paper at the cost of being a little weird/unexpected vibe wise for a video game.
 ---
 # Some Random Card Examples
 
@@ -264,14 +264,17 @@ Instead of drawing cards normally at the end of each round and start of the game
 ## Source Draft V2\
 Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). 
 
-Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is given 12 cards from any combination of decks as they choose, keeping 6 as their starting hand, and for the rest putting them into their deck (will be the only cards there as of now) or burning them as they choose. Burnt cards are removed from the game and thrown in a pile. Players also begin the game with an Atnia reminder card which counts as 2 devotion to all sources.
+Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is takes a number of cards from the source decks, they have the choice of:
+- 10 cards from one deck.
+- 6 cards each from two decks.
+- 5 cards each from three decks.
+From these cards players take 6 cards for their hand, and the rest of the cards can be shuffled into their deck (these will be the only cards in their deck for now), or burnt, in any combination of the two. Burnt cards are removed from the game and thrown in a pile. Players also begin the game with an Atnia reminder card which counts as 1 devotion to all sources.
 
 The game begins and is played as normal, with the following modifications:
-- At the end of each round before the draw phase, there is a draft phase. During this phase players take another 10 cards from the source decks, burning up to 6 of them and keeping the rest, shuffling them into your deck.
+- At the end of each round before the draw phase, there is a draft phase. During this phase players take a number of cards from the source decks. They have the choice of 8 cards from one deck, 5 cards each from two decks, or 4 cards each from three decks. Players shuffle at least three cards from their draft pool into their deck, and burn the rest.
 - The draw phase functions as normal, although players have the additional option to burn their channeled cards along with putting them on the top and/or bottom.
-- The Exploration ability has a different pool of claims to choose from, which are exactly the same but each is two sources instead of one.
 
-Note: For newer players, it is recommended to reduce the number of cards dealt at the start of the game and/or not burn cards at the start. You could also use just one of the source decks for your first game to simplify things if you have not previously played other modes.
+Note: For newer players, it is recommended to just pick a single source deck to draft from for your first game(s) as this reduces the quantity of cards you must look at and simplifies meeting your source requirements to actually play your cards.
 
 ## Source Draft / 5 deck thing
 Limited/draft format for 2 players. Rather than each player having their own deck, 5 decks are shared by both players. The top card of each of these decks is always face up / revealed. When drawing a card, players may choose which deck to draw from, and can either draw starting with the face up card or skip the face up card and draw from the face down cards (sending the face up one to the bottom of the deck or removing it from the game).
