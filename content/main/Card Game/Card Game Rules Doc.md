@@ -207,6 +207,7 @@ Here is some additional info:
 ---
 ## Extra Notes
 - Any damage dealt to cards is removed between rounds / damage only lasts for a round. Whether it works like this or not is relatively inconsequential for actual strategy, doing it this way makes it easier to track in paper at the cost of being a little weird/unexpected vibe wise for a video game.
+- Targets for cards are chosen as you play the card (as it enters dream), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
 ---
 # Some Random Card Examples
 
