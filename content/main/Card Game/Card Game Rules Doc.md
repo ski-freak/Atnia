@@ -263,7 +263,7 @@ Limited format for 2 players where you draft your cards for each round. Both pla
 
 Instead of drawing cards normally at the end of each round and start of the game, players draft cards. Also, in mirror format, cards are channeled face down rather than face up.
 
-## Source Draft V2\
+## Source Draft V2
 Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). 
 
 Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is takes a number of cards from the source decks, they have the choice of:
