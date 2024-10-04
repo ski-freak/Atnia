@@ -270,6 +270,7 @@ Begin the game with 5 decks (one for each source) on the table. It is known whic
 - 10 cards from one deck.
 - 6 cards each from two decks.
 - 5 cards each from three decks.
+
 From these cards players take 6 cards for their hand, and the rest of the cards can be shuffled into their deck (these will be the only cards in their deck for now), or burnt, in any combination of the two. Burnt cards are removed from the game and thrown in a pile. Players also begin the game with an Atnia reminder card which counts as 1 devotion to all sources.
 
 The game begins and is played as normal, with the following modifications:
