@@ -101,29 +101,7 @@ Cards with a given speed number can only be played if there are that many or few
 - Taking any action slower than ∞ speed causes the other player to become the active player.
 
 When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream & each card must be fast enough to be played as if the ones below it were already there (you may accelerate them). Once in dream, the group only counts as a single card for the purposes of speed. Once you commit the actions, the other player becomes the active player as normal. 
-### Advanced notes on timing rules and dream:
-- If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
-	- Maybe also: If new non infinite speed cards/effects are put into dream by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
-- If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
-	- Method A (unsure which method to use):
-		- Effects from the first player in the round above effects from other players. 
-		- Top to bottom, triggers from cards in: Dream, Reality (combat zone before the rest), Memory.
-			- Dream, top to bottom: Cards higher in dream to cards lower in dream.
-			- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then claims).
-			- Memory, top to bottom: Cards higher in memory to cards lower in memory.
-	- Method B (no need for order/location of cards mattering in paper, has issues with multiple copies of the same card):
-		- Top to bottom, triggers from cards x before cards y (use each lower bullet as a tie breaker for the one above it if needed):
-			- Cards in Dream > Reality > Memory > Void
-			- (Cards with) higher base speed > lower base speed
-			- First player > 2nd player
-			- Spells > Units > Items > Claims
-			- Higher base cost > lower base cost
-			- Higher base defense > lower base defense
-			- Higher source requirement > lower source requirement
-			- Alphabetical order of card names
-- If multiple effects that require targets to be chosen are put into dream simultaneously, targets must be chosen for the bottom most effect(s) first.
-- New cards arrive in memory above cards already in memory.
-- All new cards arrive in reality to the right of cards already in reality. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there, in the same arrangement they were in combat.
+
 ---
 ## Channel System
 All cards in hand can be channeled into the channel zone at ∞ speed any time you are the active player as a universal action. Channeling cards is primarily for increasing your source devotion to fulfill source requirements, and getting rid of cards you don't want to replace them with new ones at the end of the round.
@@ -209,6 +187,30 @@ Here is some additional info:
 - Any damage dealt to cards is removed between rounds / damage only lasts for a round. Whether it works like this or not is relatively inconsequential for actual strategy, doing it this way makes it easier to track in paper at the cost of being a little weird/unexpected vibe wise for a video game.
 - Targets for cards are chosen as you play the card (as it enters dream), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
 - The reality zone has a limit of 12 cards (for a single player). (This is to not have to handle an indefinite number of cards online)
+
+### Advanced notes on timing rules and dream:
+- If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
+	- Maybe also: If new non infinite speed cards/effects are put into dream by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
+- If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
+	- Method A (unsure which method to use):
+		- Effects from the first player in the round above effects from other players. 
+		- Top to bottom, triggers from cards in: Dream, Reality (combat zone before the rest), Memory.
+			- Dream, top to bottom: Cards higher in dream to cards lower in dream.
+			- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then claims).
+			- Memory, top to bottom: Cards higher in memory to cards lower in memory.
+	- Method B (no need for order/location of cards mattering in paper, has issues with multiple copies of the same card):
+		- Top to bottom, triggers from cards x before cards y (use each lower bullet as a tie breaker for the one above it if needed):
+			- Cards in Dream > Reality > Memory > Void
+			- (Cards with) higher base speed > lower base speed
+			- First player > 2nd player
+			- Spells > Units > Items > Claims
+			- Higher base cost > lower base cost
+			- Higher base defense > lower base defense
+			- Higher source requirement > lower source requirement
+			- Alphabetical order of card names
+- If multiple effects that require targets to be chosen are put into dream simultaneously, targets must be chosen for the bottom most effect(s) first.
+- New cards arrive in memory above cards already in memory.
+- All new cards arrive in reality to the right of cards already in reality. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there, in the same arrangement they were in combat.
 ---
 # Some Random Card Examples
 
