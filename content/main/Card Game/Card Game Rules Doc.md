@@ -264,9 +264,9 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). 
 
 Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is takes a number of cards from the source decks, they have the choice of:
-- 10 cards from one deck.
-- 6 cards each from two decks.
-- 5 cards each from three decks.
+1. 10 cards from one deck.
+2. 6 cards each from two decks.
+3. 5 cards each from three decks.
 
 From these cards players take 6 cards for their hand, and the rest of the cards can be shuffled into their deck (these will be the only cards in their deck for now), or burnt, in any combination of the two. Burnt cards are removed from the game and thrown in a pile. Players also begin the game with an Atnia reminder card which counts as 1 devotion to all sources.
 
