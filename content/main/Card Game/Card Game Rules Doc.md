@@ -187,8 +187,10 @@ Here is some additional info:
 - Damage dealt to cards in dream/reality is permanent (until they leave). 
 	- If a card is given a defense buff, then takes damage, then the buff goes away, the damage is assumed to have been done to the previously buffed defense before the defense the card still has.
 - Targets for cards are chosen as you play the card (as it enters dream), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
-- The reality zone has a limit of 8 non claim cards (for each player). 
-	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. Online, claims can stack up on top over each other in a corner of the board or something.
+- The reality zone has a limit of 8 non claim cards and 8 claim cards (for each player). 
+	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. 
+	- Online, claims can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
+	- If you want to play a card and the board is full, you must have it replace one of your existing cards on the board (chosen as you pay the costs and play the card). The old card will be replaced (discarded) when the new card resolves.
 
 ### Advanced notes on timing rules and dream:
 - If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
