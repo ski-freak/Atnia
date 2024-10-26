@@ -145,7 +145,7 @@ Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to dream. After attackers are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to dream. After defenders are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. The attacking player may choose to start another attack if they have another to use (beginning a new combat phase at step 1), or they may pass, at which point combat ends, return to the main phase, and the player who was defending becomes the active player. 
+4. The attacking player may choose to start another attack if they have another to use (beginning a new combat phase at step 1), or allow combat to end, return to the main phase, and the player who was defending becomes the active player. 
 Notes:
 - You may attack up to twice per round (either chaining them or using them separately).
 - Both attacking and blocking causes units to flip.
@@ -184,7 +184,8 @@ Here is some additional info:
 - 
 ---
 ## Extra Notes
-- Any damage dealt to cards is removed between rounds / damage only lasts for a round. Whether it works like this or not is relatively inconsequential for actual strategy, doing it this way makes it easier to track in paper at the cost of being a little weird/unexpected vibe wise for a video game.
+- Damage dealt to cards in dream/reality is permanent (until they leave). 
+	- If a card is given a defense buff, then takes damage, then the buff goes away, the damage is assumed to have been done to the previously buffed defense before the defense the card still has.
 - Targets for cards are chosen as you play the card (as it enters dream), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
 - The reality zone has a limit of 12 cards (for a single player). (This is to not have to handle an indefinite number of cards online)
 
@@ -261,7 +262,7 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 - Experimental: fast cycle format. 20 cards, and you cycle through them
 
 ## Source Draft V2
-Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). 
+Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). You begin the game with 15 life instead of 20 in this mode, and a deck of 5 'Explore' cards.
 
 Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is takes a number of cards from the source decks, they have the choice of:
 1. 10 cards from one deck.
