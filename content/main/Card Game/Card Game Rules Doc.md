@@ -190,7 +190,8 @@ Here is some additional info:
 - The reality zone has a limit of 8 non claim cards and 8 claim cards (for each player). 
 	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. 
 	- Online, claims can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
-	- If you want to play a card and the board is full, you must have it replace one of your existing cards on the board (chosen as you pay the costs and play the card). The old card will be replaced (discarded) when the new card resolves.
+	- If a card would enter a full board, the player should be prompted to choose a card on the board to replace (in which case the old card is discarded as the new one enters), or allow the new card to be discarded instead.
+		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
 
 ### Advanced notes on timing rules and dream:
 - If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
