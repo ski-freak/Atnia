@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Lore/Glossary/F/The Forsaken.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.50961303710938
   },
   "right": {
     "id": "c617bc8e415e0a59",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Lore/Glossary/F/The Forsaken.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Lore/Glossary/F/The Forsaken.md",
+                "file": "main/Card Game/Card Game Rules Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Lore/Glossary/F/The Forsaken.md"
+                "file": "main/Card Game/Card Game Rules Doc.md"
               }
             }
           }
@@ -187,11 +187,13 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc - Backup 11-6-2024.md",
+    "main/Card Game/Card Game Rules Doc.md",
+    "main/Lore/Glossary/F/The Forsaken.md",
     "main/Lore/Glossary/F/The Fifth Legion.md",
     "main/Lore/Glossary/O/The Old Watch.md",
     "main/Lore/Glossary/K/The Knights of Redemption.md",
     "main/Lore/Glossary/S/The Salt Alliance.md",
-    "main/Card Game/Card Game Rules Doc.md",
     "main/Card Game/Card Game Rules Doc - Speed bak.md",
     "main/Card Game/Rules Removed.md",
     "main/Card Game/Sources/Source Dev Note.md",

@@ -35,7 +35,6 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
 - Channel zone - Zone cards go after being channeled.
-- Location zone - Zone locations go to after being played.
 ---
 ## Parts of a Card
 - **Name**
@@ -66,7 +65,7 @@ Sources are the main categorization of cards & affect which cards you will likel
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
-Cards may will often have a source requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied locations in the reality and dream zones. If you do not meet the source requirement, you cannot play the card.
+Cards may will often have a source requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied claims in the reality and dream zones. If you do not meet the source requirement, you cannot play the card.
 
 Currently the source icons are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Material is a green plank of wood, Old World is a blue coin, and zelor is a red book.
 
@@ -75,7 +74,7 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their defense stat, and can attack and block. Other card types do not have an offense stat.
-- Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone).
+- Claim - Claims count towards source requirements while in the reality zone (as well as the channel zone).
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to reality.
 - Starting Location - A deck may have one starting location card. It begins the game face up in void, and can be put into hand at any time throughout the game at ∞ speed as a universal action by putting a card from your hand on the bottom of your deck. 
@@ -88,25 +87,20 @@ To play a card, you must meet it's source requirement and pay it's costs.
 
 When you play a card or ability, it is put onto Dream, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into dream are placed above other cards/abilities already there. Once a player passes, all cards in Dream (unresolved cards) are resolved in order of top to bottom.
 
-When a card is played, it goes to Dream. When it resolves, it goes to reality if it is a unit or item, and goes to memory if it is a spell. When a card in reality or dream is destroyed (such as by taking damage greater than it's defense stat), it is put into memory. Damage only occurs to cards in dream & reality.
+When a card is played, it goes to Dream. When it resolves, it goes to reality (or memory if it is a spell). When a card in reality or dream is destroyed (such as by taking damage greater than it's defense stat), it is put into memory. Damage only occurs to cards in dream & reality.
 
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
-- Locations go directly to the location zone when played, rather than going to dream first.
 - All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
 ---
 ## Speed
-Cards have an icon in the top left below the energy cost indicating what speed the card has.
-
-#### Current speeds:
-- Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in dream.
-- Fast speed cards can be played during combat, and can be played while there are other cards/effects already in dream.
-- ∞ speed cards can be played during combat and can be played while there are other cards/effects already in dream. All ∞ speed cards and effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player (if you play an ∞, you remain the active player and can continue playing cards).
-
-#### More info:
+Cards with a given speed number can only be played if there are that many or fewer cards currently in dream. You may however pay 3 life per number accelerated to speed up your card and be able to play it in response to other cards. 
+- Once a card has been played, the speed number is no longer relevant (it does not determine the order cards resolve in).
+- If it is the main phase (not combat), there are 0 cards and abilities in dream, and you are not committing multiple cards at once, cards with negative speed values may be played as though they had a speed of 0.
+- All ∞ speed effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player.
 - Taking any action slower than ∞ speed causes the other player to become the active player.
-- You may commit multiple non ∞ speed cards at once, although speed rules still apply, and you must choose an order for the cards to be placed into dream. 
-	- When doing this, if there are no cards already in dream, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, so you cannot play more than one at a time).
+
+When you are the active player and are taking actions, you may commit multiple non ∞ speed cards/abilities at once in a group. You must choose an order for them in Dream & each card must be fast enough to be played as if the ones below it were already there (you may accelerate them). Once in dream, the group only counts as a single card for the purposes of speed. Once you commit the actions, the other player becomes the active player as normal. 
 
 ---
 ## Channel System
@@ -150,12 +144,13 @@ Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to dream. After attackers are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to dream. After defenders are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
 3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. Combat ends, return to the main phase, and the player who was attacking becomes the active player. 
+4. The attacking player may choose to start another attack if they have another to use (beginning a new combat phase at step 1), or allow combat to end, return to the main phase, and the player who was defending becomes the active player. 
 Notes:
-- You may attack up to twice per round.
+- You may attack up to twice per round (either chaining them or using them separately).
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - By attacking, the attacking player becomes the first player for the remainder of the round / until another player attacks.
+- Aside: Smaller board goes first is still worth trying, as well as other ways of making attacking first thing in the round less broken (if it is broken).
 
 ---
 ## Starting the game
@@ -191,9 +186,9 @@ Here is some additional info:
 - Damage dealt to cards in dream/reality is permanent (until they leave). 
 	- If a card is given a defense buff, then takes damage, then the buff goes away, the damage is assumed to have been done to the previously buffed defense before the defense the card still has.
 - Targets for cards are chosen as you play the card (as it enters dream), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
-- The reality zone has a limit of 8 non location cards and 8 location cards (for each player). 
+- The reality zone has a limit of 8 non claim cards and 8 claim cards (for each player). 
 	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. 
-	- Online, locations can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
+	- Online, claims can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
 	- If a card would enter a full board, the player should be prompted to choose a card on the board to replace (in which case the old card is discarded as the new one enters), or allow the new card to be discarded instead.
 		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
 
@@ -205,14 +200,14 @@ Here is some additional info:
 		- Effects from the first player in the round above effects from other players. 
 		- Top to bottom, triggers from cards in: Dream, Reality (combat zone before the rest), Memory.
 			- Dream, top to bottom: Cards higher in dream to cards lower in dream.
-			- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then locations).
+			- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then claims).
 			- Memory, top to bottom: Cards higher in memory to cards lower in memory.
 	- Method B (no need for order/location of cards mattering in paper, has issues with multiple copies of the same card):
 		- Top to bottom, triggers from cards x before cards y (use each lower bullet as a tie breaker for the one above it if needed):
 			- Cards in Dream > Reality > Memory > Void
 			- (Cards with) higher base speed > lower base speed
 			- First player > 2nd player
-			- Spells > Units > Items > locations
+			- Spells > Units > Items > Claims
 			- Higher base cost > lower base cost
 			- Higher base defense > lower base defense
 			- Higher source requirement > lower source requirement
@@ -265,7 +260,7 @@ Here is some additional info:
 These are all just potential ideas. All can be played in best 2/3 or best of one.
 - Draft. It's cube draft.
 - Constructed: 40 total cards, max 2x of each card, 15 card sideboard??
-- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all realmless. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
+- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all realmless. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with claim count since you are changing the number of non claims, we'll have to figure a solution to that out later). 
 - Mirror Format
 - Experimental: fast cycle format. 20 cards, and you cycle through them
 
@@ -311,7 +306,7 @@ Notes:
 
 Optional / test rules:
 - When drawing the starting hand you may only draw up to 3 from a single deck, & during mulligan you must reveal the cards and redraw from the deck of the same source.
-- When getting cards with exploration abilities you get access to 10 two source locations instead of 5 single source ones.
+- When getting cards with exploration abilities you get access to 10 two source claims instead of 5 single source ones.
 
 ### Ski Draft (questionable)
 Both players take 10 cards from the top of their deck. Each player picks 1 card to keep, then passes the rest to their opponent. From pick 2 on, each pick players keep an additional card than the previous pick. Continue until all cards are drafted. Note: in this draft format, chosen/drafted cards are revealed as they are drafted.
