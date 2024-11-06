@@ -78,7 +78,7 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 - Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone).
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to reality.
-- Starting Location - A deck may have one starting location card. It begins the game face up in void, and can be put into hand at any time throughout the game at ∞ speed as a universal action by putting a card from your hand on the bottom of your deck. 
+- Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
 
 Some cards will also have subtypes, but substyles do not have any universal rules significance
 
@@ -158,7 +158,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into play if the format has one), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into the location zone if the format has one), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
 
 ---
 ## Card Semantics
@@ -271,12 +271,14 @@ These are all just potential ideas. All can be played in best 2/3 or best of one
 ## Source Draft V2
 Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). You begin the game with 15 life instead of 20 in this mode, and a deck of 5 'Explore' cards.
 
-Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Each player is takes a number of cards from the source decks, they have the choice of:
+Begin the game with 5 decks (one for each source) on the table. It is known which deck is which source, but the decks themselves are face down. Randomly determine the first player. Players (beginning with the first player) choose a starting location. Once a starting location is chosen, other players cannot choose the same one.
+
+Each player then takes a number of cards from the source decks, they have the choice of:
 1. 10 cards from one deck.
 2. 6 cards each from two decks.
 3. 5 cards each from three decks.
 
-From these cards players take 6 cards for their hand, and the rest of the cards can be shuffled into their deck (these will be the only cards in their deck for now), or burnt, in any combination of the two. Burnt cards are removed from the game and thrown in a pile. Players also begin the game with an Atnia reminder card which counts as 1 devotion to all sources.
+From these cards players take 6 cards for their hand, and the rest of the cards can be shuffled into their deck (these will be the only cards in their deck for now), or burnt, in any combination of the two. Burnt cards are removed from the game and thrown in a pile.
 
 The game begins and is played as normal, with the following modifications:
 - At the end of each round before the draw phase, there is a draft phase. During this phase players take a number of cards from the source decks. They have the choice of:
