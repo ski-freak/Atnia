@@ -102,7 +102,6 @@ Cards have an icon in the top left below the energy cost indicating what speed t
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in dream.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in dream.
 - ∞ speed cards can be played during combat and can be played while there are other cards/effects already in dream. All ∞ speed cards and effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player (if you play an ∞, you remain the active player and can continue playing cards).
-
 #### More info:
 - Taking any action slower than ∞ speed causes the other player to become the active player.
 - You may commit multiple non ∞ speed cards at once, although speed rules still apply, and you must choose an order for the cards to be placed into dream. 
