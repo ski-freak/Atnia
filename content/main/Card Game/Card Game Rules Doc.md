@@ -259,15 +259,45 @@ Here is some additional info:
 ![[Pasted image 20240830211406.png|250]]
 
 
-## Formats and ways to play the game
+## Formats / modes and ways to play the game
 
 These are all just potential ideas. All can be played in best 2/3 or best of one.
-- Draft. It's cube draft.
 - Constructed: 40 total cards, max 2x of each card, 15 card sideboard??
-- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all realmless. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
-- Mirror Format
-- Experimental: fast cycle format. 20 cards, and you cycle through them
+- Draft. Just do a cube draft.
+- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all with no source requirement. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
 
+
+
+
+# Limited format that lacks a name but is the main one rn
+
+Limited format for 2 players. It shares some characteristics with being given a preconstructed deck, but in practice is closer to drafting from a cube (The card pool in fact may be used for cube draft) as you play the game due to channeling + enhanced card selection, without requiring a lengthy setup or draft before playing.
+
+You begin the game with 15 life instead of 20 in this mode. They also begin with Atnia as their starting location card (a location which counts towards all sources).
+
+Start with 5 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from, then player 2 will do the same, repeat 2 more times so each player has 45 cards*. The same deck can only be chosen 4 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
+
+The game then begins and is played as normal.
+
+### Notes:
+- The card pool should provide a variety of directions for players to go in archetype wise even within the same sources / combinations. This of course means that cards will be of varying use to players depending on what they are doing, and the existing channel system + see beyond cards should allow them to effectively 'draft' during the game and select for the cards they actually would like to use.
+- The explore cards simply give players access to a consistent number of exploration effects to get enough locations. They may at some point be replaced by just having more cards with Exploration text.
+- The See Beyond cards when channeled are voided and allow you to look at the top 2 cards of your deck, rearrange them (and put them on the bottom of your deck if you like), then draw a card. This is to emulate the benefit of playing multiple sources in constructed, higher card quality.
+
+### Notes for paper/online:
+In paper, after a match has been played, players should go through their cards and separate them back into their original piles. For cards that have multiple sources, they should go in the pile of the source that is on the top left of the card border.
+
+\* These numbers can be adjusted for the video game version as they were selected largely for paper play where there is a limited number of physical cards and the more you use the longer resetting the game takes. Online one player taking cards doesn't need to mean the other player can't have the same card, although the picking process should still be a back and forth thing so one player doesn't have a large information advantage during selection.
+
+For online, I would start with the following numbers:
+- 24 cards per pick (72 total, the total number of cards in a single source deck).
+- 16 "Explore!" cards.
+- 10 "See Beyond" cards for each source deck the player chose to add cards from to their starting deck.
+
+
+---
+# Warning: The following formats are sorta abandoned for being bad.
+---
 ## Source Draft V2
 Draft format for 2 players. You will draft your deck during the game (you do not bring your own deck, the format/mode has it's own predefined card pool). You begin the game with 15 life instead of 20 in this mode, and a deck of 5 'Explore' cards.
 
