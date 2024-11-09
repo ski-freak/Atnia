@@ -133,7 +133,7 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed an
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 5. Draw Phase
 	1. The number of cards total in a player's hand, face up in their channel zone, + 1, (up to 10) becomes that player's maximum hand size for the round.
-	2. Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (not revealed to other players).
+	2. Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (which cards go where is not revealed to other players, the quantity of cards put on top & bottom is.).
 	3. Players draw up to their maximum hand size.
 	4. Begin next round
 - Combat phase
