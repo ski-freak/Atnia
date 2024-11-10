@@ -92,7 +92,6 @@ When a card is played, it goes to Dream. When it resolves, it goes to reality if
 
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
-- Locations go directly to the location zone when played, rather than going to dream first.
 - All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
 ---
 ## Speed
