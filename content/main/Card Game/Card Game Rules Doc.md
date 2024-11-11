@@ -30,7 +30,6 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Reality - The main playing area / board. All cards that are currently in play live here.
-	- Combat zone - Part of / a subzone of reality, this is where units go during combat. 
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
 - Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
