@@ -79,7 +79,8 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 - Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to reality.
 - Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
 
-Some cards will also have subtypes, but substyles do not have any universal rules significance
+Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
+- Weapon - Weapons can be played on their own or on top of an allied unit already in reality (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is in reality and an allied unit arrives, equip the weapon to that unit. Weapons have 2 text box sections, the bottom one describes the abilities of the weapon itself, and the top one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in reality. If the weapon departs with the unit still in reality, the unit takes damage equal to the health buff on the weapon.
 
 ---
 ## Playing Cards & Dream
