@@ -192,7 +192,7 @@ Here is some additional info:
 - The reality zone has a limit of 8 non location cards and 8 location cards (for each player). 
 	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. 
 	- Online, locations can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
-	- If a card would enter a full board, the player should be prompted to choose a card on the board to replace (in which case the old card is discarded as the new one enters), or allow the new card to be discarded instead.
+	- If a card would enter a full board, the player should be prompted to choose a board slot / card on the board to replace (in which case the old card and any weapons on the board space are discarded as the new card arrives), or allow the new card to be discarded instead.
 		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
 
 ### Advanced notes on timing rules and dream:
