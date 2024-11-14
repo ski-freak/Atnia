@@ -1,7 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#aaaa88",
   "enabledCssSnippets": [
     "MMW_Infobox_Callout"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
