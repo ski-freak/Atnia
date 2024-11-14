@@ -220,6 +220,8 @@ Here is some additional info:
 ---
 # Some Random Card Examples
 
+Note: Example cards may be out of date. Notable out of date things: these display a number by the speed instead of an icon, and a shield instead of health.
+
 ![[Pasted image 20240830203602.png|250]]
 
 ![[Pasted image 20240830205038.png|250]]
