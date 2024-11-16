@@ -29,9 +29,9 @@ During each round players will take turns taking actions (mainly playing cards!)
 ## Zones
 - Deck - Your deck of cards.
 - Hand - Your hand.
-- Reality - The main playing area / board. All cards that are currently in play live here.
+- battlefield - The main playing area / board. All cards that are currently in play live here.
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
-- Dream - Zone for cards & effects currently being played and not resolved yet. (stack)
+- Horizon - Zone for cards & effects currently being played and not resolved yet. (stack)
 - Void - Zone used for some things.
 - Channel zone - Zone cards go after being channeled.
 - Location zone - Zone locations go to after being played.
@@ -57,7 +57,7 @@ There is a single (numerical) energy pool for each player, the maximum energy yo
 Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 5 sources are: 
 - Arca - A chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
 - Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
-- Material - Resources people need and desire in the new world. While the other sources are largely conceptual, Material is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
+- Material - Resources people need and desire in the new world. While the other sources are largely conceptual, Material is grounded in the physical battlefield of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
 - Old World - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
 - Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from...
 
@@ -65,7 +65,7 @@ Sources are the main categorization of cards & affect which cards you will likel
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
-Cards may will often have a source requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied locations in the reality and dream zones. If you do not meet the source requirement, you cannot play the card.
+Cards may will often have a source requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied locations in the battlefield and horizon zones. If you do not meet the source requirement, you cannot play the card.
 
 Currently the source icons are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Material is a green plank of wood, Old World is a blue coin, and zelor is a red book.
 
@@ -76,35 +76,37 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 - Unit - Units have offense stat in addition to their defense stat, and can attack and block. Other card types do not have an offense stat.
 - Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone).
 - Item - Items can have different subtypes that give them unique effects
-- Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to reality.
+- Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to battlefield.
 - Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
-- Weapon - Weapons can be played on their own or on top of an allied unit already in reality (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is in reality and an allied unit arrives, equip the weapon to that unit. Weapons have 2 text box sections, the bottom one describes the abilities of the weapon itself, and the top one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in reality. If the weapon departs with the unit still in reality, the unit takes damage equal to the health buff on the weapon.
+- Weapon - Weapons can be played on their own or on top of an allied unit already in battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is in battlefield and an allied unit arrives, equip the weapon to that unit. Weapons have 2 text box sections, the bottom one describes the abilities of the weapon itself, and the top one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
 
 ---
-## Playing Cards & Dream
+## Playing Cards & the horizon
+The horizon gives you a chance to see what your opponent is doing and react to it.
+
 To play a card, you must meet it's source requirement and pay it's costs.
 
-When you play a card or ability, it is put onto Dream, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into dream are placed above other cards/abilities already there. Once a player passes, all cards in Dream (unresolved cards) are resolved in order of top to bottom.
+When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once a player passes, all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom (the cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time).
 
-When a card is played, it goes to Dream. When it resolves, it goes to reality if it is a unit or item, and goes to memory if it is a spell. When a card in reality or dream is destroyed (such as by taking damage greater than it's defense stat), it is put into memory. Damage only occurs to cards in dream & reality.
+When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, memory if it is a spell, and the location zone if it is a location. When a card in battlefield or horizon is destroyed (such as by having no more health left), it is put into memory. Damage only occurs to cards in the battlefield and horizon.
 
-- To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect and/or enters play. 
-- During the main phase, when all cards/abilities resolve, the player who did not begin the stack (by placing the first card in dream) becomes the active player.
-- All abilities are placed into dream just as cards are. Universal actions do not go through dream, however.
+- To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect / enters play. 
+- During the main phase, when all cards/abilities resolve, the player who did not control the bottom card on the horizon becomes the active player.
+- All abilities are placed into the horizon just as cards are.
 ---
 ## Speed
 Cards have an icon in the top left below the energy cost indicating what speed the card has.
 
 #### Current speeds:
-- Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in dream.
-- Fast speed cards can be played during combat, and can be played while there are other cards/effects already in dream.
-- ∞ speed cards can be played during combat and can be played while there are other cards/effects already in dream. All ∞ speed cards and effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in Dream, and they do not affect which player is or becomes the active player (if you play an ∞, you remain the active player and can continue playing cards).
+- Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
+- Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
+- ∞ speed cards can be played during combat and can be played while there are other cards/effects already in the horizon. All ∞ speed cards and effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player (if you play an ∞, you remain the active player and can continue playing cards).
 #### More info:
 - Taking any action slower than ∞ speed causes the other player to become the active player.
-- You may commit multiple non ∞ speed cards at once, although speed rules still apply, and you must choose an order for the cards to be placed into dream. 
-	- When doing this, if there are no cards already in dream, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, so you cannot play more than one at a time).
+- You may commit multiple non ∞ speed cards at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
+	- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, so you cannot play more than one at a time).
 
 ---
 ## Channel System
@@ -145,9 +147,9 @@ If a phase/step does not explicitly make a player the active player, no player i
 During the main phase, while you are the active player and there are no unresolved effects, as a universal action you may start an attack by declaring your attackers (you attack players, not their cards).
 
 Combat phase outline:
-1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to dream. After attackers are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
-2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to dream. After defenders are declared, any triggers/effects created are put into dream, however only ∞ speed effects are resolved.
-3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects in dream are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
+1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to the horizon. After attackers are declared, any triggers/effects created are put into the horizon zone, however only ∞ speed effects are resolved.
+2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to the horizon zone. After defenders are declared, any triggers/effects created are put into the horizon zone, however only ∞ speed effects are resolved at this step.
+3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
 4. Combat ends, return to the main phase, and the player who was attacking becomes the active player. 
 Notes:
 - You may attack up to twice per round. (We should also test without this rule)
@@ -166,10 +168,10 @@ See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/sprea
 
 Here is some additional info:
 - The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
-	- Reality - Rolling Hills
+	- Battlefield - Rolling Hills
 	- Memory - Tombstone
 	- Void - Swirly galaxy thingy
-	- Dream - Moon with zzz
+	- Horizon - Moon with zzz
 	- Hand - Fan of cards
 	- Deck - Stack of cards
 	- Channel Zone - Hand with a magical swirl
@@ -186,27 +188,27 @@ Here is some additional info:
 - 
 ---
 ## Extra Notes
-- Damage dealt to cards in dream/reality is permanent (until they leave). 
+- Damage dealt to cards in horizon/battlefield is permanent (until they leave). 
 	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage.
-- Targets for cards are chosen as you play the card (as it enters dream), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
-- The reality zone has a limit of 8 non location cards and 8 location cards (for each player). 
+- Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
+- The battlefield zone has a limit of 8 non location cards and 8 location cards (for each player). 
 	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. 
 	- Online, locations can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
 	- If a card would enter a full board, the player should be prompted to choose a board slot / card on the board to replace (in which case the old card and any weapons on the board space are discarded as the new card arrives), or allow the new card to be discarded instead.
 		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
 
-### Advanced notes on timing rules and dream:
-- If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
-	- Maybe also: If new non infinite speed cards/effects are put into dream by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
-- If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
+### Advanced notes on timing rules and the horizon:
+- If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
+	- Maybe also: If new non infinite speed cards/effects are put into horizon by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
+- If effects would trigger simultaneously, they are put into horizon all at once, in order of, from top to bottom:
 	- Effects from the first player in the round above effects from other players. 
-	- Top to bottom, triggers from cards in: Dream, Reality, Memory.
-		- Dream, top to bottom: Cards higher in dream to cards lower in dream.
-		- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (combatting cards are assumed to be to the left of non combatting cards).
+	- Top to bottom, triggers from cards in: horizon, battlefield, Memory.
+		- Horizon, top to bottom: Cards higher in horizon to cards lower in the horizon.
+		- Battlefield, top to bottom: Cards on the left side of a players battlefield zone to cards on the right side of their battlefield zone (combatting cards are assumed to be to the left of non combatting cards).
 		- Memory, top to bottom: Cards higher in memory to cards lower in memory.
 - New cards arrive in memory above cards already in memory.
-- All new cards arrive in reality to the right of cards already in reality. Attacking allows the attacking player to choose the order of their attacking units. Blocking forces the blocking units to match the location/order of the attacking units. At end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there that didn't attack/block, in the same order/arrangement they were in combat.
-- If multiple effects that require targets to be chosen are put into dream simultaneously, targets must be chosen for the bottom most effect(s) first.
+- All new cards arrive in battlefield to the right of cards already in battlefield. Attacking allows the attacking player to choose the order of their attacking units. Blocking forces the blocking units to match the location/order of the attacking units. At end of combat all attacking/blocking units return to the rest of the battlefield zone on the left of cards already there that didn't attack/block, in the same order/arrangement they were in combat.
+- If multiple effects that require targets to be chosen are put into the horizon simultaneously, targets must be chosen for the bottom most effect(s) first.
 - If multiple cards are in one board space (such as with weapons), the card on the bottom (the weapon) is assumed to be to the right of the card on top.
 ---
 # Some Random Card Examples
