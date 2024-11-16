@@ -205,8 +205,7 @@ Here is some additional info:
 	- Top to bottom, triggers from cards in: horizon, battlefield, Memory.
 		- Horizon, top to bottom: Cards higher in horizon to cards lower in the horizon.
 		- Battlefield, top to bottom: Cards on the left side of a players battlefield zone to cards on the right side of their battlefield zone (combatting cards are assumed to be to the left of non combatting cards).
-		- Memory, top to bottom: Cards higher in memory to cards lower in memory.
-- New cards arrive in memory above cards already in memory.
+		- Memory - If a player has multiple simultaneous triggers from cards in their memory zone, they choose the order they are put onto the horizon in.
 - All new cards arrive in battlefield to the right of cards already in battlefield. Attacking allows the attacking player to choose the order of their attacking units. Blocking forces the blocking units to match the location/order of the attacking units. At end of combat all attacking/blocking units return to the rest of the battlefield zone on the left of cards already there that didn't attack/block, in the same order/arrangement they were in combat.
 - If multiple effects that require targets to be chosen are put into the horizon simultaneously, targets must be chosen for the bottom most effect(s) first.
 - If multiple cards are in one board space (such as with weapons), the card on the bottom (the weapon) is assumed to be to the right of the card on top.
