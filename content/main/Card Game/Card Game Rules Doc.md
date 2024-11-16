@@ -29,9 +29,9 @@ During each round players will take turns taking actions (mainly playing cards!)
 ## Zones
 - Deck - Your deck of cards.
 - Hand - Your hand.
-- battlefield - The main playing area / board. All cards that are currently in play live here.
+- Battlefield - The main playing area / board. All unit and item cards that are currently in play live here.
 - Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
-- Horizon - Zone for cards & effects currently being played and not resolved yet. (stack)
+- Horizon - Zone for cards & effects currently being played and not resolved yet.
 - Void - Zone used for some things.
 - Channel zone - Zone cards go after being channeled.
 - Location zone - Zone locations go to after being played.
@@ -168,10 +168,10 @@ See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/sprea
 
 Here is some additional info:
 - The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
-	- Battlefield - Rolling Hills
+	- Battlefield - Crossed swords
 	- Memory - Tombstone
-	- Void - Swirly galaxy thingy
-	- Horizon - Moon with zzz
+	- Void - Explosion / black hole thing
+	- Horizon - Sun on a horizon
 	- Hand - Fan of cards
 	- Deck - Stack of cards
 	- Channel Zone - Hand with a magical swirl
