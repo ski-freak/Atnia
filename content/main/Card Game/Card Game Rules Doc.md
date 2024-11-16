@@ -199,25 +199,15 @@ Here is some additional info:
 - If during dream effect resolution one or more new cards/abilities are put into dream that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 	- Maybe also: If new non infinite speed cards/effects are put into dream by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
 - If effects would trigger simultaneously, they are put into dream all at once, in order of, from top to bottom:
-	- Method A (unsure which method to use):
-		- Effects from the first player in the round above effects from other players. 
-		- Top to bottom, triggers from cards in: Dream, Reality (combat zone before the rest), Memory.
-			- Dream, top to bottom: Cards higher in dream to cards lower in dream.
-			- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (units, then items, then locations).
-			- Memory, top to bottom: Cards higher in memory to cards lower in memory.
-	- Method B (no need for order/location of cards mattering in paper, has issues with multiple copies of the same card):
-		- Top to bottom, triggers from cards x before cards y (use each lower bullet as a tie breaker for the one above it if needed):
-			- Cards in Dream > Reality > Memory > Void
-			- (Cards with) higher base speed > lower base speed
-			- First player > 2nd player
-			- Spells > Units > Items > locations
-			- Higher base cost > lower base cost
-			- Higher base defense > lower base defense
-			- Higher source requirement > lower source requirement
-			- Alphabetical order of card names
-- If multiple effects that require targets to be chosen are put into dream simultaneously, targets must be chosen for the bottom most effect(s) first.
+	- Effects from the first player in the round above effects from other players. 
+	- Top to bottom, triggers from cards in: Dream, Reality, Memory.
+		- Dream, top to bottom: Cards higher in dream to cards lower in dream.
+		- Reality, top to bottom: Cards on the left side of a players reality zone to cards on the right side of their reality zone (combatting cards are assumed to be to the left of non combatting cards).
+		- Memory, top to bottom: Cards higher in memory to cards lower in memory.
 - New cards arrive in memory above cards already in memory.
-- All new cards arrive in reality to the right of cards already in reality. Attacking and blocking does rearrange unit order, and at end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there, in the same arrangement they were in combat.
+- All new cards arrive in reality to the right of cards already in reality. Attacking allows the attacking player to choose the order of their attacking units. Blocking forces the blocking units to match the location/order of the attacking units. At end of combat all attacking/blocking units return to the rest of the reality zone on the left of cards already there that didn't attack/block, in the same order/arrangement they were in combat.
+- If multiple effects that require targets to be chosen are put into dream simultaneously, targets must be chosen for the bottom most effect(s) first.
+- If multiple cards are in one board space (such as with weapons), the card on the bottom (the weapon) is assumed to be to the right of the card on top.
 ---
 # Some Random Card Examples
 
