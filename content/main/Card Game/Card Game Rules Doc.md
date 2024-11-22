@@ -54,16 +54,16 @@ There is a single (numerical) energy pool for each player, the maximum energy yo
 
 ---
 ## Power Sources
-Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 5 sources are: 
+Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 7 sources are: 
 - Arca - A chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
 - Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
 - Materia - Resources people need and desire in the new world. While the other sources are largely conceptual, Materia is grounded in the physical battlefield of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
 - Old World - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
 - Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from...
-- Martial - Martial arts, armies, guards, and skill in combat.
+- Martial - Martial arts, armies, guards, and skill in combat. Not much magic / magic takes a more subtle form. Magic tends to be either magical weapons, or being supernaturally good at fighting.
 - Faith - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind, still infused with the power of the gods.
 
-*Source names subject to change, (particularly, Old World & Eminus).*
+*Source names subject to change, (particularly, Old World, Martial, and Faith).*
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
