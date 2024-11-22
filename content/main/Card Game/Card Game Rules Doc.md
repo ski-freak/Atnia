@@ -169,7 +169,7 @@ See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/sprea
 
 
 Here is some additional info:
-- The brown symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
+- The grey symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
 	- Battlefield - Crossed swords
 	- Memory - Tombstone
 	- Void - Explosion / black hole thing
