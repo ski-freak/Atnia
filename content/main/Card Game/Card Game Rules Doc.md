@@ -43,14 +43,14 @@ During each round players will take turns taking actions (mainly playing cards!)
 - **Type** - See "Card Types"
 - **Subtype** - See "Card Types"
 - **Speed** - See "Playing Cards"
-- **Offense/Defense Stats** - See "Card Types" & "Playing Cards"
+- **Offense/Health Stats** - See "Card Types" & "Playing Cards"
 - **Rules Text** - Explains what a card does. See "Playing Cards"
 
 ![[Pasted image 20240830204450.png|500]]
 
 ---
 ## Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 3 energy and any excess is discarded (banked energy limit of 3 is separate from the main 10 energy limit). Players begin the game with 3 energy counters and gain an additional one after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
+There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 2 energy and any excess is discarded (banked energy limit of 2 is separate from the main 10 energy limit). Players begin the game with 2 energy counters and gain an additional one after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
 
 ---
 ## Power Sources
@@ -75,7 +75,7 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 
 ---
 ## Card Types
-- Unit - Units have offense stat in addition to their defense stat, and can attack and block. Other card types do not have an offense stat.
+- Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone).
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to battlefield.
@@ -90,30 +90,36 @@ The horizon gives you a chance to see what your opponent is doing and react to i
 
 To play a card, you must meet it's source requirement and pay it's costs.
 
-When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once a player passes, all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom (the cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time).
+When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once any player passes after doing nothing or only taking actions at infinite speed (such as channeling cards), all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom
 
 When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, memory if it is a spell, and the location zone if it is a location. When a card in battlefield or horizon is destroyed (such as by having no more health left), it is put into memory. Damage only occurs to cards in the battlefield and horizon.
 
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect / enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not control the bottom card on the horizon becomes the active player.
 - All abilities are placed into the horizon just as cards are.
+- Since new cards are placed onto the horizon above cards already there, when the horizon cards resolve, cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time.
 ---
 ## Speed
 Cards have an icon in the top left below the energy cost indicating what speed the card has.
 
 #### Current speeds:
+The two primary speeds are slow and fast.
+
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
-- ∞ speed cards can be played during combat and can be played while there are other cards/effects already in the horizon. All ∞ speed cards and effects are always placed above and resolved before any non ∞ speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player (if you play an ∞, you remain the active player and can continue playing cards).
+- Burst speed cards can be played during combat and can be played while there are other cards/effects already in the horizon. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player (if you play a burst speed card/action, you remain the active player and can continue playing cards).
+	- Burst speed is reserved mainly for location cards which do little more than draw a new card and put themselves in the location zone.
+- ∞ speed cards and effects are the same as burst speed, except they are the same as having not played anything for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you play an infinite speed action such as channeling a card or have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
+	- ∞ speed is reserved mainly for channeling cards and triggered abilities on already played cards (effects that say 'whenever x happens, y happens').
+
 #### More info:
-- Taking any action slower than ∞ speed causes the other player to become the active player.
-- You may commit multiple non ∞ speed cards at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
-	- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, so you cannot play more than one at a time).
+- You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
+	- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, as slow speed cards cannot be played when there are other cards on the horizon).
 
 ---
 ## Channel System
-All cards in hand can be channeled face up into the channel zone at ∞ speed any time you are the active player as a universal action. Channeling cards is primarily for increasing your source devotion to fulfill source requirements, and getting rid of cards you don't want to replace them with new ones at the end of the round.
-- During the draw phase, your channeled cards will be recycled
+All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your source devotion to fulfill source requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
+- During the draw phase, your channeled cards will be recycled into your deck. They are not lost permanently, only for the duration of the round.
 
 ---
 
@@ -129,7 +135,7 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed an
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 3. Main phase
 	1. The first player becomes the active player (unless otherwise specified).
-	2. When both players pass in a row while there are no unresolved effects, move to the next phase.
+	2. When both players pass in a row after doing nothing or only taking actions at infinite speed (such as channeling cards), move to the next phase.
 	- This is the primary phase where players actually play the game, along with combat which players can enter from the main phase.
 4. Round End
 	1. If an effect refers to round end, it happens here.
