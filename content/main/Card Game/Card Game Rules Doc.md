@@ -76,7 +76,8 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
-- Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone).
+- Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone). Locations have no source requirement, the source icons only indicate which sources a location counts as source devotion towards.
+	- The card template may be updated to move the source icons on locations to a different part of the card to make it more clear, but you never have to meet a source requirement to play a location.
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to battlefield.
 - Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
