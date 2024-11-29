@@ -278,7 +278,7 @@ Limited format for 2 players. It shares some characteristics with being given a 
 
 You begin the game with 15 life instead of 20 in this mode. They also begin with Atnia as their starting location card (a location which counts towards all sources).
 
-Start with 7 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from, then player 2 will do the same, repeat 2 more times so each player has 45 cards*. The same deck can only be chosen 4 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
+Start with 7 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from, then player 2 will do the same, repeat 2 more times so each player has 45 cards*. The same deck can only be chosen 3 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
 
 The game then begins and is played as normal.
 
@@ -288,7 +288,7 @@ The game then begins and is played as normal.
 - The See Beyond cards when channeled are voided and allow you to look at the top 2 cards of your deck, rearrange them (and put them on the bottom of your deck if you like), then draw a card. This is to emulate the benefit of playing multiple sources in constructed, higher card quality.
 
 ### Notes for paper/online:
-In paper, after a match has been played, players should go through their cards and separate them back into their original piles. For cards that have multiple sources, they should go in the pile of the source that is on the top left of the card border.
+In paper, after a match has been played, players should go through their cards and separate them back into their original piles. For cards that have multiple sources, they should go in the pile of the source that is on the left of the card border/box backgrounds.
 
 \* These numbers can be adjusted for the video game version as they were selected largely for paper play where there is a limited number of physical cards and the more you use the longer resetting the game takes. Online one player taking cards doesn't need to mean the other player can't have the same card, although the picking process should still be a back and forth thing so one player doesn't have a large information advantage during selection.
 
