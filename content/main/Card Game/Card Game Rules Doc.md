@@ -83,7 +83,7 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 - Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
-- Weapon - Weapons can be played on their own or on top of an allied unit already in battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is in battlefield and an allied unit arrives, equip the weapon to that unit. Weapons have 2 text box sections, the bottom one describes the abilities of the weapon itself, and the top one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
+- Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the bottom one describes the abilities of the weapon itself, and the top one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
 
 ---
 ## Playing Cards & the horizon
@@ -278,7 +278,7 @@ Limited format for 2 players. It shares some characteristics with being given a 
 
 You begin the game with 15 life instead of 20 in this mode. They also begin with Atnia as their starting location card (a location which counts towards all sources).
 
-Start with 5 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from, then player 2 will do the same, repeat 2 more times so each player has 45 cards*. The same deck can only be chosen 4 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
+Start with 7 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from, then player 2 will do the same, repeat 2 more times so each player has 45 cards*. The same deck can only be chosen 4 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
 
 The game then begins and is played as normal.
 
