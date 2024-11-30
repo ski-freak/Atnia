@@ -44,9 +44,13 @@ During each round players will take turns taking actions (mainly playing cards!)
 - **Subtype** - See "Card Types"
 - **Speed** - See "Playing Cards"
 - **Offense/Health Stats** - See "Card Types" & "Playing Cards"
-- **Rules Text** - Explains what a card does. See "Playing Cards"
+- **Description / Rules Text** - Explains what a card does. See "Playing Cards"
 
-![[Pasted image 20240830204450.png|500]]
+![[Pasted image 20241130011024.png|500]]
+
+![[atnia icons sheet 2.png|500]]
+
+*Icons from https://game-icons.net/
 
 ---
 ## Energy System
@@ -79,7 +83,7 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 - Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone). Locations have no source requirement, the source icons only indicate which sources a location counts as source devotion towards.
 	- The card template may be updated to move the source icons on locations to a different part of the card to make it more clear, but you never have to meet a source requirement to play a location.
 - Item - Items can have different subtypes that give them unique effects
-- Spell - Spells do what is indicated by their rules text on resolution, then are put into memory, unlike other cards which resolve to battlefield.
+- Spell - Spells do what is indicated by their description on resolution, then are put into memory, unlike other cards which resolve to battlefield.
 - Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
@@ -176,15 +180,7 @@ See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/sprea
 
 
 Here is some additional info:
-- The grey symbols in the text box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
-	- Battlefield - Crossed swords
-	- Memory - Tombstone
-	- Void - Explosion / black hole thing
-	- Horizon - Sun on a horizon
-	- Hand - Fan of cards
-	- Deck - Stack of cards
-	- Channel Zone - Hand with a magical swirl
-
+- The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it. 
 
 ---
 ## Kinds of game objects
@@ -221,58 +217,14 @@ Here is some additional info:
 - If multiple effects that require targets to be chosen are put into the horizon simultaneously, targets must be chosen for the bottom most effect(s) first.
 - If multiple cards are in one board space (such as with weapons), the card on the bottom (the weapon) is assumed to be to the right of the card on top.
 ---
-# Some Random Card Examples
 
-Note: Example cards may be out of date. Notable out of date things: these display a number by the speed instead of an icon, and a shield instead of health.
-
-![[Pasted image 20240830203602.png|250]]
-
-![[Pasted image 20240830205038.png|250]]
-
-![[Pasted image 20240830205117.png|250]]
-
-![[Pasted image 20240830205142.png|250]]
-
-![[Pasted image 20240830212200.png|250]]
-
-![[Pasted image 20240830205222.png|250]]
-
-![[Pasted image 20240830205252.png|250]]
-
-![[Pasted image 20240830205319.png|250]]
-
-![[Pasted image 20240830205406.png|250]]
-
-![[Pasted image 20240830205600.png|250]]
-
-![[Pasted image 20240830205643.png|250]]
-
-![[Pasted image 20240830205853.png|250]]
-
-![[Pasted image 20240830210033.png|250]]
-
-![[Pasted image 20240830210142.png|250]]
-
-![[Pasted image 20240830210202.png|250]]
-
-![[Pasted image 20240830210744.png|250]]
-
-![[Pasted image 20240830210907.png|250]]
-
-![[Pasted image 20240830211406.png|250]]
-
-
-## Formats / modes and ways to play the game
+# Formats / modes and ways to play the game
 
 These are all just potential ideas. All can be played in best 2/3 or best of one.
+
+
 - Constructed: 40 total cards, max 2x of each card, 15 card sideboard??
-- Draft. Just do a cube draft.
-- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all with no source requirement. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
-
-
-
-
-# Limited format that lacks a name but is the main one rn
+## Limited format that lacks a name but is the main one rn
 
 Limited format for 2 players. It shares some characteristics with being given a preconstructed deck, but in practice is closer to drafting from a cube (The card pool in fact may be used for cube draft) as you play the game due to channeling + enhanced card selection, without requiring a lengthy setup or draft before playing.
 
@@ -283,6 +235,7 @@ Start with 7 decks on the table, one for cards of each source, and randomly dete
 The game then begins and is played as normal.
 
 ### Notes:
+- You can play multiple games before resetting the card pool. If a deck can be chosen 3 times total across all players (and all games in the match) and there are 7 decks, up to 3 games can be played in the match. When doing this, in games two and three players will have more limited options for sources to choose for their decks, which may be desirable if you enjoy playing (and being forced to attempt to win with) a variety of different strategies, and undesirable if you would like to stick with a single strategy for many games.
 - The card pool should provide a variety of directions for players to go in archetype wise even within the same sources / combinations. This of course means that cards will be of varying use to players depending on what they are doing, and the existing channel system + see beyond cards should allow them to effectively 'draft' during the game and select for the cards they actually would like to use.
 - The explore cards simply give players access to a consistent number of exploration effects to get enough locations. They may at some point be replaced by just having more cards with Exploration text.
 - The See Beyond cards when channeled are voided and allow you to look at the top 2 cards of your deck, rearrange them (and put them on the bottom of your deck if you like), then draw a card. This is to emulate the benefit of playing multiple sources in constructed, higher card quality.
@@ -297,6 +250,10 @@ For online, I would start with the following numbers:
 - 16 "Explore!" cards.
 - 10 "See Beyond" cards for each source deck the player chose to add cards from to their starting deck.
 
+
+## More formats
+- Draft. Just do a cube draft.
+- Highlander: 80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all with no source requirement. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
 
 ---
 # Warning: The following formats are sorta abandoned for being bad.
