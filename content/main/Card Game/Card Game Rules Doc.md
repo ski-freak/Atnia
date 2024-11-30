@@ -48,7 +48,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ![[Pasted image 20241130011024.png|500]]
 
-![[atnia icons sheet 2.png|500]]
+![[atnia icons sheet 3.png|500]]
 
 *Icons from https://game-icons.net/
 
