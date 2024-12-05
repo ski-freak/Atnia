@@ -10,7 +10,7 @@ Welcome to the Atnia wiki / work in progress thing. Here we have a worldbuilding
 - [[Atnia Introduction]] - One page introduction to the world.
 - [[Lore Glossary]] - Find all* lore here!
 - [[Card Game Rules Doc]] - Rules on how to play the Atnia card game.
-- [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy) - More details here if it's not self explanatory: [[Card Game Print Files]]
+- Print the card game here: [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy). More details [[Card Game Print Files|Here]] if it's not self explanatory.
 
 \*This is a work in progress of getting the new lore additions onto the site, and some information is deliberately left out due to containing spoilers ;-)
 
