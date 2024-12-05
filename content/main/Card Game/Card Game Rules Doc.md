@@ -222,7 +222,7 @@ Here is some additional info:
 ## Recommended way to play for new players.
 Grab (and print if you're playing in paper) some of the prebuilt decks from the [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy) and play them against each other.
 
-For a more structured experience:
+For a more structured experience, do this with:
 ## Best of 3 with multiple decks
 1. Grab 6 (or more) decks, and assign 3 decks to each player (you could have each player take turns picking a deck until both have 3, randomly assign decks, allow players to bring their own, or any other method). Which decks each player has is known to all players. 
 2. Each player bans one of their opponent's decks.
