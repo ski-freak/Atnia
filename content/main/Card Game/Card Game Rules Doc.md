@@ -3,19 +3,18 @@ title: Card Game Rules Doc
 enableToc: "true"
 tags:
 ---
-# Project Gamma Card Game Rules Document
+# Atnia Card Game Rules Document
 
-- If you have not seen it, watch the [intro video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
+- If you have not seen it, watch the [Atnia announcement video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
 - This information / rules document is a work in progress
-- See [[Card & TTRPG Outline & Plans]] and [[Card Game Onboarding]] for more general information.
-- For info on setting up software for testing, see [[Card Game Testing Info]].
 - This [Google Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360) displays all of the cards.
-- Join the [Discord](https://discord.gg/xTdT2DpEwB) if you haven't yet.
+- Join the [Discord](https://discord.gg/xTdT2DpEwB) :)
 
+This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft . For draft we intend on making a draft format for 2 players as well as provide a set of cards for traditional 8 player drafting. The game rules and cards are being designed to work both in paper and as a video game.
 
->This is a 1v1 card game, within the gameplay genre of trading card games (not necessarily the distribution model). The rules will support draft and constructed. We intend on making a reusable draft format for 2 players and one for more players. The game rules are being made to work both in paper and as a video game. You begin the game at 20 life and win the game by reducing your opponent's life total to 0.
+You begin the game at 20 life and win the game by reducing your opponent's life total to 0. You will do this by attacking your opponent with your units, and using powerful spells and items.
 
-The game takes place in Atnia, the setting of Ciaban's Tabletop RPG. A short briefing on the world can be found here: [[Atnia Introduction]]. 
+The game takes place in Atnia, the setting of Ciaḃan's Tabletop RPG. A short briefing on the world can be found here: [[Atnia Introduction]].
 
 # Rules for playing the game:
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Card Game Print Files
 tags: 
 aliases:
 ---
