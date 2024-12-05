@@ -3,6 +3,8 @@ title: Card Game Onboarding
 enableToc: 
 tags:
 ---
+this is outdated, updating soonTM
+
 If you would like to contribute to the card game, first make sure you have read [[Card & TTRPG Outline & Plans]]. Here are some things that currently need to be done:
 ## Card Creation (See the Google Sheet [HERE](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360))
 

@@ -6,10 +6,12 @@ enableToc: "true"
 ---
 Welcome to the Atnia wiki / work in progress thing. Here we have a worldbuilding project, ttrpg, and card game.
 ### Check Out:
+- [Announcement video](https://youtu.be/cFHSIH5-CRY) - This is the first thing you should check out if you are unfamiliar with the Atnia projects!
 - [[Atnia Introduction]] - One page introduction to the world.
-- [[Lore Glossary]] - Find all lore here!
+- [[Lore Glossary]] - Find all* lore here!
 - [[Card Game Rules Doc]] 
-- [[Card & TTRPG Outline & Plans]]
+
+\*This is a work in progress of getting the new lore additions onto the site, and some information is deliberately left out due to containing spoilers ;-)
 
 And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
 

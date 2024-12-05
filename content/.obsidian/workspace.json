@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "index.md"
               }
             }
           }
@@ -161,6 +161,11 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc.md",
+    "index.md",
+    "git ignored folder/Card & TTRPG Outline & Plans.md",
+    "Untitled.canvas",
+    "main/Card Game/Card Game Onboarding.md",
     "main/attachments/atnia icons sheet 3.png",
     "main/attachments/atnia icons sheet 2.png",
     "main/attachments/atnia icons sheet 1.png",
@@ -171,7 +176,6 @@
     "main/attachments/Pasted image 20240830204450.png",
     "main/attachments/ps78F8.tmp",
     "main/attachments/Pasted image 20240830212200.png",
-    "main/Card Game/Card Game Rules Doc.md",
     "main/Card Game/Card Game Rules Doc - Backup 11-6-2024.md",
     "main/Lore/Glossary/F/The Forsaken.md",
     "main/Lore/Glossary/F/The Fifth Legion.md",
@@ -186,16 +190,11 @@
     "main/Card Game/Sources/Eminus.md",
     "main/Card Game/Sources",
     "main/Card Game/Card Game Testing Info.md",
-    "main/Card Game/Card Game Onboarding.md",
     "main/Card Game/Card Game Imaging.md",
-    "main/Meta/Card & TTRPG Outline & Plans.md",
-    "index.md",
     "main/Lore/Atnia Introduction.md",
     "main/attachments/Pasted image 20240830211539.png",
     "main/attachments/Pasted image 20240830211517.png",
     "main/attachments/Pasted image 20240830211406.png",
-    "main/attachments/Pasted image 20240830210923.png",
-    "Untitled.canvas",
     "main/Card Game/Card Type Note.md",
     "main/Card Game/Card Game Rules Doc - Original Backup.md",
     "main/Card Game/Card Game Rules Doc - Round Start-End Bak.md",
