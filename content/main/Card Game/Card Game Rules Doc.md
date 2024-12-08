@@ -88,6 +88,11 @@ You can tell what a card's source(s) are by which source icons are on it's sourc
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
 - Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the top one describes the abilities of the weapon itself, and the bottom one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
 
+#### A bit more on locations
+There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination.
+
+Some cards will have an extra triangle in the top left, this means it can be used as an exploration. At burst speed (as a skill) you may reveal a card with exploration from your hand (or void if it is cached), pay 1 energy, and put it on the bottom of your deck to create one of the Home location cards in your location zone (there is 1 home location for each source, and they slightly worse versions of the locations you can put directly into your deck.)
+
 ---
 ## Playing Cards & the horizon
 The horizon gives you a chance to see what your opponent is doing and react to it.
