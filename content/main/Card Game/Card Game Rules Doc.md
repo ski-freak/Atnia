@@ -9,6 +9,7 @@ tags:
 - This information / rules document is a work in progress
 - This [Google Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360) displays all of the cards.
 - Join the [Discord](https://discord.gg/xTdT2DpEwB) :)
+- This [[Links you may need while playing the card game]] page exists.
 
 This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft . For draft we intend on making a draft format for 2 players as well as provide a set of cards for traditional 8 player drafting. The game rules and cards are being designed to work both in paper and as a video game.
 
@@ -134,7 +135,7 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed. C
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player with the most cards in hand becomes the first player (tie broken by who has the most total offense among their units, if that is tied, the player who began as the second player in the previous round becomes the first player.)
+	1. If it is not the first round of the game, the player with the most cards in hand becomes the first player (tie broken by who has the most units, if that is tied, the player who began as the second player in the previous round becomes the first player.)
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all their flipped cards.
