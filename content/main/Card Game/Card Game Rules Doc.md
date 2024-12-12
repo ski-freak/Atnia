@@ -39,7 +39,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 ## Parts of a Card
 - **Name**
 - **Energy Cost** - To play a card, you must pay energy equal to it's energy cost.
-- **Source Requirement(s)** - See "Power Sources"
+- **Source Devotion Requirement(s)** - See "Power Sources"
 - **Type** - See "Card Types"
 - **Subtype** - See "Card Types"
 - **Speed** - See "Playing Cards"
@@ -58,7 +58,7 @@ There is a single (numerical) energy pool for each player, the maximum energy yo
 
 ---
 ## Power Sources
-Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 7 sources are: 
+Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source devotion requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 7 sources are: 
 - Arca - A chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
 - Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
 - Materia - Resources people need and desire in the new world. While the other sources are largely conceptual, Materia is grounded in the physical battlefield of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
@@ -71,19 +71,19 @@ Sources are the main categorization of cards & affect which cards you will likel
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
-Cards may will often have a source requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied locations in the battlefield and horizon zones. If you do not meet the source requirement, you cannot play the card.
+Cards may will often have a source devotion requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied locations in the battlefield and horizon zones. If you do not meet the devotion requirement, you cannot play the card.
 
 Currently the source icons are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Materia is a green plank of wood, Old World is a blue coin, and zelor is a red book.
 
-You can tell what a card's source(s) are by which source icons are on it's source requirement.
+You can tell what a card's source(s) are by which source icons are on it's devotion requirement.
 
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their description on resolution, then are put into memory, unlike other cards which resolve to battlefield.
-- Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone). Locations have no source requirement, the source icons only indicate which sources a location counts as source devotion towards.
-	- The card template may be updated to move the source icons on locations to a different part of the card to make it more clear, but you never have to meet a source requirement to play a location.
+- Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone). Locations have no devotion requirement, the source icons only indicate which sources a location counts as source devotion towards.
+	- The card template may be updated to move the source icons on locations to a different part of the card to make it more clear, but you never have to meet a devotion requirement to play a location.
 - Starting Location - A deck may have one starting location card. It begins the game face up in the location zone.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
@@ -98,7 +98,7 @@ Some cards will have an extra triangle in the top left, this means it can be use
 ## Playing Cards & the horizon
 The horizon gives you a chance to see what your opponent is doing and react to it.
 
-To play a card, you must meet it's source requirement and pay it's costs.
+To play a card, you must meet it's source devotion requirement and pay it's costs.
 
 When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once any player passes after doing nothing or only taking actions at infinite speed (such as channeling cards), all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom
 
@@ -128,7 +128,7 @@ The two primary speeds are slow and fast.
 
 ---
 ## Channel System
-All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your source devotion to fulfill source requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
+All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your source devotion to fulfill devotion requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
 - During the draw phase, your channeled cards will be recycled into your deck. They are not lost permanently, only for the duration of the round.
 
 ---
@@ -272,7 +272,7 @@ You could do a cube draft with one of the full sets. Set 1 is not finished yet b
 
 
 ## Highlander 
-80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all with no source requirement. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
+80 cards, max 1x of each, featuring the *super cool draft pool!* There will be a universal pool of ~30 cards, all with no devotion requirement. This set of cards can rotate over time, perhaps weekly or monthly, hand picked and brand new cards selected for the pool. At the start of each match, shuffle the 30 card pool and create two {packs} of 10 (numbers not decided yet and must be tested) cards from the top, then draft 5 cards from those packs with your opponent. Do the same thing after game 1 and 2 (if you go to game 3) (no sideboarding) (you are required to put all the cards you draft into your deck) (this may have issues with location count since you are changing the number of non locations, we'll have to figure a solution to that out later). 
 
 ## Abandoned Formats/Modes
 See this for a list of abandoned format ideas.
