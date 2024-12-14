@@ -9,6 +9,7 @@ tags:
 - This information / rules document is a work in progress
 - This [Google Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360) displays all of the cards.
 - Join the [Discord](https://discord.gg/xTdT2DpEwB) :)
+- [Dictionary for words on cards](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253)
 - This [[Links you may need while playing the card game]] page exists.
 
 This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft . For draft we intend on making a draft format for 2 players as well as provide a set of cards for traditional 8 player drafting. The game rules and cards are being designed to work both in paper and as a video game.
