@@ -159,7 +159,7 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed. C
 - Combat phase
 	- See "Combat"
 
-If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards).
+If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards), however, If a fast or slow speed card/effect is somehow put onto the horizon anyway, the player who does not control it becomes the active player. 
 
 ---
 ## Combat
