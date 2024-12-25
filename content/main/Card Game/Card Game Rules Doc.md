@@ -182,6 +182,12 @@ Notes:
 To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into the location zone if the format has one), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
 
 ---
+## Additional Rule to Try With Locations
+- You begin the game with your location bonus meter at 1 (max 4).
+- Whenever an allied location arrives for the first time each round, add 1 to the location bonus meter.
+- When an allied location arrives and you have three or more non-starting locations, gain energy equal to the number on the location bonus meter and draw 2 cards. This only happens once per game.
+
+---
 ## Card Semantics
 See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
 
