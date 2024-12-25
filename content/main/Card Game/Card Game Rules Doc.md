@@ -183,6 +183,7 @@ To start the game, randomly determine the first player. Each player shuffles the
 
 ---
 ## Additional Rule to Try With Locations
+Start with 5 cards in hand instead of 6
 - You begin the game with your location bonus meter at 1 (max 4).
 - Whenever an allied location arrives for the first time each round, add 1 to the location bonus meter.
 - When an allied location arrives and you have three or more non-starting locations, gain energy equal to the number on the location bonus meter and draw 2 cards. This only happens once per game.
