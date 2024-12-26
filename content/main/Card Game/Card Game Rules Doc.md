@@ -57,6 +57,8 @@ During each round players will take turns taking actions (mainly playing cards!)
 ## Energy System
 There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 2 energy and any excess is discarded (banked energy limit of 2 is separate from the main 10 energy limit). Players begin the game with 2 energy counters and gain an additional one after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
 
+Note: Try testing maximum energy gain from round starting at 6 or something like that.
+
 ---
 ## Power Sources
 Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source devotion requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 7 sources are: 
@@ -179,7 +181,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location into the location zone if the format has one), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location(s) into the location zone if applicable), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
 
 ---
 ## Additional Rule to Try With Locations
@@ -187,6 +189,10 @@ With this rule, we might want to use starting hand size 5 instead of 6, but the 
 - You begin the game with your location bonus meter at 1 (max 4).
 - Whenever an allied location arrives for the first time each round, add 1 to the location bonus meter.
 - When an allied location arrives and you have three or more non-starting locations, gain energy equal to the number on the location bonus meter and draw 1 card. This only happens once per game.
+
+---
+## Another rule to try
+During the round they were played, locations count as 2 instead of 1 devotion to each of their sources.
 
 ---
 ## Card Semantics
