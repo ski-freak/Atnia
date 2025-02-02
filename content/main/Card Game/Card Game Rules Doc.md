@@ -87,7 +87,7 @@ You can tell what a card's source(s) are by which source icons are on it's devot
 - Spell - Spells do what is indicated by their description on resolution, then are put into memory, unlike other cards which resolve to battlefield.
 - Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone). Locations have no devotion requirement, the source icons only indicate which sources a location counts as source devotion towards.
 	- The card template may be updated to move the source icons on locations to a different part of the card to make it more clear, but you never have to meet a devotion requirement to play a location.
-- Starting Location - A deck may have two or three starting location cards. They begin the game face up in the location zone. There is one starting location for each source. If you choose to use three starting locations, you begin the game with 1 less energy and +2 potential.
+- Starting Location - A deck can have up to three starting locations. You may choose the same starting location more than once.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
 - Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the top one describes the abilities of the weapon itself, and the bottom one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
@@ -95,7 +95,7 @@ Some cards will also have subtypes. Substyles do not have any universal rules si
 #### A bit more on locations
 There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination.
 
-Some cards will have an extra triangle in the top left, this means it can be used as an exploration. At burst speed (as a skill) you may reveal a card with exploration from your hand (or void if it is cached), pay 1 energy, and put it on the bottom of your deck to create one of the Home location cards in your location zone (there is 1 home location for each source, and they slightly worse versions of the locations you can put directly into your deck.)
+Some cards will have a rainbow circle in the top left, this means that the card has *exploration*. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on your starting locations (this cannot add 2 devotion to a single source). Cards with exploration can also be used to explore: At burst speed (as a skill) you may reveal a card with exploration from your hand (or void if it is cached), pay 1 energy, and put it on the bottom of your deck to create one of the Home location cards in your location zone (there is 1 home location for each source, and they slightly worse versions of the locations you can put directly into your deck.)
 
 ---
 ## Playing Cards & the horizon
@@ -182,17 +182,6 @@ Notes:
 ---
 ## Starting the game
 To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location(s) into the location zone if applicable), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
-
----
-## Additional Rule to Try With Locations
-With this rule, we might want to use starting hand size 5 instead of 6, but the extra card is probably necessary since you get a lot of energy to use on cards.
-- You begin the game with your location bonus meter at 1 (max 4).
-- Whenever an allied location arrives for the first time each round, add 1 to the location bonus meter.
-- When an allied location arrives and you have three or more non-starting locations, gain energy equal to the number on the location bonus meter and draw 1 card. This only happens once per game.
-
----
-## Another rule to try
-During the round they were played, locations count as 2 instead of 1 devotion to each of their sources.
 
 ---
 ## Card Semantics
