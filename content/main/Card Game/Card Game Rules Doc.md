@@ -128,6 +128,7 @@ The two primary speeds are slow and fast.
 #### More info:
 - You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
 	- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, as slow speed cards cannot be played when there are other cards on the horizon).
+	- When committing multiple cards at once, cards committed lower on the horizon are legal targets for cards committed higher on the horizon.
 
 ---
 ## Channel System
