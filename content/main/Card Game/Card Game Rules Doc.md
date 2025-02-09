@@ -148,7 +148,7 @@ Some cards will have a rainbow circle in the top left, this means the card is ch
 		1. Alternative rule to test: The player who ended the previous round goes first/second.
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
-	4. Each player unflips all their flipped cards.
+	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
 	5. Move to next phase
 2. Round Start
 	1. If an effect refers to round start, it happens here.
