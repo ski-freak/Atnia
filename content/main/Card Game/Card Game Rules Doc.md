@@ -145,7 +145,7 @@ Some cards will have a rainbow circle in the top left, this means the card is ch
 ## Round Phases
 1. Pre round
 	1. If it is not the first round of the game, the player with the most cards in hand becomes the first player (tie broken by who has the most units, if that is tied, the player who began as the second player in the previous round becomes the first player.)
-		1. Alternative rule to test: The player who ended the previous round goes first/second.
+		1. Alternative rule to test: The player who ended the previous round goes first (the second person in the double pass, who says yes to ending the round).
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
