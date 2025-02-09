@@ -92,11 +92,6 @@ You can tell what a card's source(s) are by which source icons are on it's devot
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
 - Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the top one describes the abilities of the weapon itself, and the bottom one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
 
-#### A bit more on locations
-There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination.
-
-Some cards will have a rainbow circle in the top left, this means that the card has *exploration*. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on allied locations (this cannot add 2 devotion to a single source). Cards with exploration can also be used to explore: At burst speed (as a skill) you may reveal a card with exploration from your hand (or void if it is cached), pay 1 energy, and put it on the bottom of your deck to create one of the Home location cards in your location zone (there is 1 home location for each source, and they slightly worse versions of the locations you can put directly into your deck.)
-
 ---
 ## Playing Cards & the horizon
 The horizon gives you a chance to see what your opponent is doing and react to it.
@@ -134,6 +129,16 @@ The two primary speeds are slow and fast.
 ## Channel System
 All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your source devotion to fulfill devotion requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
 - During the draw phase, your channeled cards will be recycled into your deck. They are not lost permanently, only for the duration of the round.
+
+---
+## More Location Info, Exploration, and Chromatic cards
+Locations when played go to your location zone, and while there add 2 devotion to each of their sources (except for starting locations, which only add 1). The text on location cards defaults to being active when they are in the location zone instead of the battlefield.
+
+There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination. They all have the type 'Core'.
+
+Any card can be used to explore. To explore, at burst speed reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of one of the sources the card could be channeled for or one of the sources contained on your starting locations (there is 1 Wilderness location for each source). 
+
+Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on allied locations (this cannot add 2 devotion to a single source). Also, when you use a card with chromatic to explore, you create a Home location instead of a Wilderness location (the wilderness locations are slightly upgraded versions of the home locations).
 
 ---
 
