@@ -136,7 +136,8 @@ Locations when played go to your location zone, and while there add 2 devotion t
 
 There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination. They all have the type 'Core'.
 
-Any card can be used to explore. To explore, at burst speed reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of one of the sources the card could be channeled for or one of the sources contained on your starting locations (there is 1 Wilderness location for each source). 
+Any card can be used to explore. To explore, at burst speed reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of any source of your choice (there is 1 Wilderness location for each source). 
+- Alternative rule if this doesn't work: You may only explore for one of the sources the card could be channeled for or one of the sources contained on your starting locations.
 
 Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on allied locations (this cannot add 2 devotion to a single source). Also, when you use a card with chromatic to explore, you create a Home location instead of a Wilderness location (the wilderness locations are slightly upgraded versions of the home locations).
 
