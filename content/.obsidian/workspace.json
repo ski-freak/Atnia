@@ -90,7 +90,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -198,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6820d7b6e025a158",
+  "active": "59619547ef2ce85e",
   "lastOpenFiles": [
     "main/Unsorted/Links you may need while playing the card game.md",
     "main/Card Game/Card Game Rules Doc.md",

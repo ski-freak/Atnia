@@ -273,7 +273,7 @@ In paper, after a match has been played, players should go through their cards a
 \* These numbers can be adjusted for the video game version as they were selected largely for paper play where there is a limited number of physical cards and the more you use the longer resetting the game takes. Online one player taking cards doesn't need to mean the other player can't have the same card, although the picking process should still be a back and forth thing so one player doesn't have a large information advantage during selection.
 
 For online, I would start with the following numbers:
-- 24 cards per pick (72 total, the total number of cards in a single source deck).
+- 20 cards per pick (60 total, the total number of cards in a single source deck).
 - 16 "Explore!" cards.
 - 10 "See Beyond" cards for each source deck the player chose to add cards from to their starting deck.
 
