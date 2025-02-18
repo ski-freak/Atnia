@@ -255,9 +255,7 @@ Build a deck with 40 total cards, max 2x of each card, (and 15 card sideboard??)
 
 Limited format for 2 players. It shares some characteristics with being given a preconstructed deck, but in practice is closer to drafting from a cube (the card pool in fact may be used for cube draft) as you play the game due to channeling + enhanced card selection, without requiring a lengthy setup or draft before playing.
 
-You begin the game with 15 life instead of 20 in this mode. They also begin with Atnia as their starting location card (a location which counts towards all sources).
-
-Start with 7 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from, then player 2 will do the same, repeat 2 more times so each player has 45 cards*. The same deck can only be chosen 3 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
+Start with 7 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from (+ a starting location of that source), then player 2 will do the same, repeat 2 more times so each player has 45 cards* and 3 starting locations. The same deck can only be chosen 3 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
 
 The game then begins and is played as normal.
 
