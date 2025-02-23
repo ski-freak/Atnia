@@ -68,9 +68,9 @@ Sources are the main categorization of cards & affect which cards you will likel
 - Old World - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
 - Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from...
 - Martial - Martial arts, armies, guards, and skill in combat. Not much magic / magic takes a more subtle form. Magic tends to be either magical weapons, or being supernaturally good at fighting.
-- Faith - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind, still infused with the power of the gods.
+- Ecclesia - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind, still infused with the power of the gods.
 
-*Source names subject to change, (particularly, Old World, Martial, and Faith).*
+*Source names subject to change, (particularly, Old World and Martial).*
 
 Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
 
