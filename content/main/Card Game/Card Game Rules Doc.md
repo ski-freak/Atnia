@@ -91,6 +91,10 @@ You can tell what a card's source(s) are by which source icons are on it's devot
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
 - Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the top one describes the abilities of the weapon itself, and the bottom one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
+- Scheme - Schemes cannot be played normally. Instead, at slow speed (with intermezzo), you may plan a scheme by paying 2 energy and putting the scheme card from your hand directly onto the battlefield face down (does not use the horizon). Schemes arrive face down with 3 health as items, and you may play schemes for their normal costs from this face down state (when played they go to the horizon as though they were played from your hand). Every scheme has a condition in the top half of it's text/description box, and you may only play the scheme while the condition is met.
+	- If you summon a scheme (via another effect), it summons as though you are summoning a regular spell.  
+	- If you plan a scheme from a zone/context where it is face up, it is planned face up instead of face down (in paper use a counter to track that it is planned)  
+	- You can plan a scheme from any zone you could play the scheme from (for example if it is cached), however after paying the 2 energy plan cost, instead of planning it directly, recall the scheme, then plan any scheme from your hand.
 
 ---
 ## Playing Cards & the horizon
@@ -136,7 +140,7 @@ Locations when played go to your location zone, and while there add 2 devotion t
 
 There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination. They all have the type 'Core'.
 
-Any card can be used to explore. To explore, at burst speed reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of any source of your choice (there is 1 Wilderness location for each source). 
+Any card can be used to explore. To explore, at burst speed reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of any source of your choice (there is 1 Wilderness location for each source), or instead of getting a location, pay 2 energy to draw 1 and +2 potential (only an option if you put the card on the bottom of your deck to explore). 
 - Alternative rule if this doesn't work: You may only explore for one of the sources the card could be channeled for or one of the sources contained on your starting locations.
 
 Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on allied locations (this cannot add 2 devotion to a single source). Also, when you use a card with chromatic to explore, you create a Home location instead of a Wilderness location (the wilderness locations are slightly upgraded versions of the home locations).
