@@ -149,8 +149,7 @@ Some cards will have a rainbow circle in the top left, this means the card is ch
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player with the most cards in hand becomes the first player (tie broken by who has the most units, if that is tied, the player who began as the second player in the previous round becomes the first player.)
-		1. Alternative rule to test: The player who ended the previous round goes first (the second person in the double pass, who says yes to ending the round).
+	1. If it is not the first round of the game, the player who ended the previous round becomes the starting player (the second person in the double pass, who says yes to ending the round. This will be whoever took the last non infinite speed action before the round ended (channeling and abilities marked on cards as infinite speed are the only infinite speed actions)).
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
@@ -222,6 +221,8 @@ Here is some additional info:
 	- Online, locations can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
 	- If a card would enter a full board, the player should be prompted to choose a board slot / card on the board to replace (in which case the old card and any weapons on the board space are discarded as the new card arrives), or allow the new card to be discarded instead.
 		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
+- If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur.
+- If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
 
 ### Advanced notes on timing rules and the horizon:
 - If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
