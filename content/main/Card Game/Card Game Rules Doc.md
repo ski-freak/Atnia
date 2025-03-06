@@ -222,7 +222,9 @@ Here is some additional info:
 	- If a card would enter a full board, the player should be prompted to choose a board slot / card on the board to replace (in which case the old card and any weapons on the board space are discarded as the new card arrives), or allow the new card to be discarded instead.
 		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
 - If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur.
+- Unless an ability says 'you may', you must do it.
 - If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
+	- If y cannot or won't happen, x also won't happen?
 
 ### Advanced notes on timing rules and the horizon:
 - If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
