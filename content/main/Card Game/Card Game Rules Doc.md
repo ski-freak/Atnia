@@ -140,7 +140,7 @@ Locations when played go to your location zone, and while there add 2 devotion t
 
 There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination. They all have the type 'Core'.
 
-Any card can be used to explore. To explore, at burst speed reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of any source of your choice (there is 1 Wilderness location for each source), or instead of getting a location, pay 2 energy to draw 1 and +2 potential (only an option if you put the card on the bottom of your deck to explore). 
+Any card can be used to explore. To explore, (at infinite speed) reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of any source of your choice (there is 1 Wilderness location for each source), or instead of getting a location, pay 2 energy to draw 1 and +2 potential (only an option if you put the card on the bottom of your deck to explore). 
 - Alternative rule if this doesn't work: You may only explore for one of the sources the card could be channeled for or one of the sources contained on your starting locations.
 
 Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on allied locations (this cannot add 2 devotion to a single source). Also, when you use a card with chromatic to explore, you create a Home location instead of a Wilderness location (the wilderness locations are slightly upgraded versions of the home locations).
@@ -149,7 +149,7 @@ Some cards will have a rainbow circle in the top left, this means the card is ch
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player who ended the previous round becomes the starting player (the second person in the double pass, who says yes to ending the round. This will be whoever took the last non infinite speed action before the round ended (channeling and abilities marked on cards as infinite speed are the only infinite speed actions)).
+	1. If it is not the first round of the game, the player who ended the previous round becomes the starting player (the second person in the double pass, who says yes to ending the round. This will be whoever took the last non infinite speed action before the round ended (channeling, exploration, and abilities marked on cards as infinite speed are the only infinite speed actions)).
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
