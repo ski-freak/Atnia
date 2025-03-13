@@ -5,14 +5,19 @@ tags:
 enableToc: "true"
 ---
 Welcome to the Atnia wiki / work in progress thing. Here we have a worldbuilding project, ttrpg, and card game.
+
+Watch our announcement video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cFHSIH5-CRY?si=wrA4FJBofWfzMmJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+We will be uploading many more videos to give more information on the world/setting, and updates on the games.
 ### Check Out:
-- [Announcement video](https://youtu.be/cFHSIH5-CRY) - This is the first thing you should check out if you are unfamiliar with the Atnia projects!
 - [[Atnia Introduction]] - One page introduction to the world.
 - [[Lore Glossary]] - Find all* lore here!
 - [[Card Game Rules Doc]] - Rules on how to play the Atnia card game.
-- Print the card game here: [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy). More details [[Card Game Print Files|Here]] if it's not self explanatory.
+- Print the card game here: [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy). More details [[Card Game Print Files|Here]] if it's not self explanatory. (Note: Currently outdated.)
 
-\*This is a work in progress of getting the new lore additions onto the site, and some information is deliberately left out due to containing spoilers ;-)
+\*This is a work in progress of getting the new lore additions onto the site, and some information is deliberately left out due to containing spoilers ;)
 
 And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
 

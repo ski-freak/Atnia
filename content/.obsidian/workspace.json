@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "index.md"
               }
             }
           }
@@ -200,9 +200,9 @@
   },
   "active": "6820d7b6e025a158",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc.md",
     "main/Lore/Stories/The Dead Man's Speech.md",
     "main/Lore/Stories/Murder in The Watch.md",
-    "main/Card Game/Card Game Rules Doc.md",
     "main/Unsorted/Links you may need while playing the card game.md",
     "index.md",
     "main/attachments/psF7D8.tmp",
