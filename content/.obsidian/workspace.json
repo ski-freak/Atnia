@@ -15,9 +15,11 @@
               "state": {
                 "file": "main/Card Game/Card Game Rules Doc.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Card Game Rules Doc"
             }
           },
           {
@@ -28,9 +30,11 @@
               "state": {
                 "file": "main/Unsorted/Links you may need while playing the card game.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Links you may need while playing the card game"
             }
           },
           {
@@ -39,11 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lore Glossary"
             }
           },
           {
@@ -52,14 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Card Game/Card Game Onboarding.md",
+                "file": "main/Meta/Atnia Onboarding.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Atnia Onboarding"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +87,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -88,13 +100,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:navigation",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -102,14 +116,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.50961303710938
+    "width": 240.50961303710938,
+    "collapsed": true
   },
   "right": {
     "id": "c617bc8e415e0a59",
@@ -125,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +150,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lore Glossary"
             }
           },
           {
@@ -142,10 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Lore/Glossary/Lore Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lore Glossary"
             }
           },
           {
@@ -155,8 +176,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -168,7 +193,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -177,37 +204,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
-              }
+                "file": "main/Lore/Glossary/Lore Glossary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lore Glossary"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6820d7b6e025a158",
+  "active": "24d4bffee48cf497",
   "lastOpenFiles": [
-    "main/attachments/Atnia Parts of a card.png",
+    "main/Lore/Glossary/A/Achta.md",
+    "main/Lore/Glossary/Lore Glossary.md",
+    "main/Lore/Glossary/O/The Old Gods.md",
+    "main/Meta/Atnia Onboarding.md",
+    "main/Card Game/Card Game Onboarding.md",
+    "main/Lore/Glossary/A/Adva.md",
+    "main/Lore/Glossary/G/The Gods.md",
+    "main/Lore/Glossary/Gods/Gods.md",
+    "main/Lore/Glossary/Gods",
+    "main/attachments/Pasted image 20240830205142.png",
+    "main/attachments/Pasted image 20240830205252.png",
+    "main/Lore/Atnia Introduction.md",
+    "main/Unsorted/Links you may need while playing the card game.md",
     "index.md",
     "main/Card Game/Card Game Rules Doc.md",
+    "main/attachments/Atnia Parts of a card.png",
     "main/Lore/Stories/The Dead Man's Speech.md",
     "main/Lore/Stories/Murder in The Watch.md",
-    "main/Unsorted/Links you may need while playing the card game.md",
     "main/attachments/psF7D8.tmp",
-    "main/Card Game/Card Game Onboarding.md",
     "main/Card Game/Card Game Print Files.md",
     "main/Card Game/Rules Removed.md",
     "main/Card Game/Potential Card Game Mode A.md",
@@ -220,7 +263,6 @@
     "main/Card Game/Card Game Imaging.md",
     "main/Card Game/Abandoned Formats.md",
     "main/Unsorted/[.md",
-    "git ignored folder/Card & TTRPG Outline & Plans.md",
     "Untitled.canvas",
     "main/attachments/atnia icons sheet 3.png",
     "main/attachments/atnia icons sheet 2.png",
@@ -230,15 +272,6 @@
     "main/attachments/Pasted image 20240830204450.png",
     "main/attachments/ps78F8.tmp",
     "main/attachments/Pasted image 20240830212200.png",
-    "main/Lore/Glossary/F/The Forsaken.md",
-    "main/Lore/Glossary/F/The Fifth Legion.md",
-    "main/Lore/Glossary/O/The Old Watch.md",
-    "main/Lore/Glossary/K/The Knights of Redemption.md",
-    "main/Lore/Glossary/S/The Salt Alliance.md",
-    "main/Card Game/Sources/Source Dev Note.md",
-    "main/Card Game/Sources",
-    "main/attachments/Pasted image 20240830211539.png",
-    "main/attachments/Pasted image 20240830211517.png",
-    "main/attachments/Pasted image 20240830211406.png"
+    "main/Card Game/Sources"
   ]
 }

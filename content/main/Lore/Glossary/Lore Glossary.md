@@ -3,14 +3,31 @@ title: Lore Glossary
 tags:
   - navigation
 enableToc: "true"
+aliases:
 ---
+
+# **Gods**
+- [[Achta]]
+- [[Braeg]]
+- [[The God of the Shattered Mirror]]
+- [[Hwain]]
+- [[Loravin]]
+- [[The Old Gods]]
+- [[Ozen]]
+
+# **Factions**
+- [[The Fifth Legion]]
+- [[The Forsaken]]
+- [[The Knights of Redemption]]
+- [[The Old Watch]]
+- [[The Salt Alliance]]
 
 
 # **A**
 
 ---
 
-[[Achtha]]
+[[Achta]]
 
 [[Adva]]
 
