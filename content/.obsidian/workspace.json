@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Unsorted/Links you may need while playing the card game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md",
+                "file": "main/Unsorted/Links you may need while playing the card game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Card Game/Card Game Rules Doc.md"
+                "file": "main/Unsorted/Links you may need while playing the card game.md"
               }
             }
           }
@@ -198,11 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6820d7b6e025a158",
+  "active": "48395dabea35c81d",
   "lastOpenFiles": [
+    "main/Card Game/Card Game Rules Doc.md",
     "main/attachments/Atnia Parts of a card.png",
     "index.md",
-    "main/Card Game/Card Game Rules Doc.md",
     "main/Lore/Stories/The Dead Man's Speech.md",
     "main/Lore/Stories/Murder in The Watch.md",
     "main/Unsorted/Links you may need while playing the card game.md",
@@ -238,7 +239,6 @@
     "main/Card Game/Sources/Source Dev Note.md",
     "main/Card Game/Sources",
     "main/attachments/Pasted image 20240830211539.png",
-    "main/attachments/Pasted image 20240830211517.png",
-    "main/attachments/Pasted image 20240830211406.png"
+    "main/attachments/Pasted image 20240830211517.png"
   ]
 }
