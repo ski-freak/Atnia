@@ -18,7 +18,6 @@
                 "backlinks": false,
                 "source": false
               }
-
             }
           },
           {
@@ -57,7 +56,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              
               }
             }
           }
@@ -90,7 +88,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
