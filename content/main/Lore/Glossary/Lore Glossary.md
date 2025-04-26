@@ -7,7 +7,7 @@ aliases:
 ---
 
 # **Gods**
-- [[Achta]]
+- [[Achtha]]
 - [[Braeg]]
 - [[The God of the Shattered Mirror]]
 - [[Hwain]]
@@ -27,7 +27,7 @@ aliases:
 
 ---
 
-[[Achta]]
+[[Achtha]]
 
 [[Adva]]
 
