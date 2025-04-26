@@ -8,7 +8,7 @@ Welcome to the Atnia wiki / work in progress thing. Here we have a worldbuilding
 
 Watch our announcement video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cFHSIH5-CRY?si=wrA4FJBofWfzMmJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/neqKJdYLq5s?si=1aG5plIKCwOi2DGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We will be uploading many more videos to give more information on the world/setting, and updates on the games.
 ### Check Out:
