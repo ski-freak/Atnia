@@ -46,6 +46,8 @@ The Fifth Age is remembered as an age of famine and strife, and little is writte
 
 ## The Sixth Age
 
+^a2e1d5
+
 *The Age of Magic*
 
 Little is more truly known about the sixth age than the fifth, and stories of it are shrouded in often doubted legends of great feats of heroism and magic. It was a wild and chaotic time full of possibilities, where the veil between [[main/Lore/Glossary/D/Dream|dream]] and reality was thin. 
