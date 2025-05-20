@@ -6,7 +6,7 @@ enableToc: "true"
 aliases:
 ---
 
-# **Gods**
+# **The Gods**
 - [[Achtha]]
 - [[Braeg]]
 - [[The God of the Shattered Mirror]]
@@ -15,13 +15,14 @@ aliases:
 - [[The Old Gods]]
 - [[Ozen]]
 
-# **Factions**
+# **Major Factions**
 - [[The Fifth Legion]]
 - [[The Forsaken]]
 - [[The Knights of Redemption]]
 - [[The Old Watch]]
 - [[The Salt Alliance]]
 
+# **Magic**
 
 # **A**
 
