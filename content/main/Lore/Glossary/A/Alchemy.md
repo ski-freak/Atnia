@@ -60,5 +60,21 @@ The study of elemental magic was systematized by Lutekai, who realized that all 
 - Wind blast
 - Lightning bolt
 - Control element
+
+### Mechanical Magic
+
+Mechanical magic may have more in common with Sorvald’s alchemy than Lutekai’s major alchemy, and both fields certainly use it, but it is often studied alongside Major Alchemy simply because Lutekai was such a pioneer of its methods. For as long as there is evidence of mortals using magic, there is evidence of the use of staves and wands as tools for channeling magical energy in specific ways. Fundamentally, mechanical magic is based on the understanding that magical energy reacts differently to different physical materials, and these materials can be used to store, delay, or modify parts of a spell. 
+
+Ancient mechanical magic could be surprisingly advanced, and in particular, some groups of goblins historically have built impressive systems of magical circuits. Lutekai’s genius in mechanical magic was not so much in inventing new technology (though he did some of this as well), but in seeing the potential for mass production in some designs. Under Lutekai, gun staves were produced en masse for soldiers who needed no magical training to fire them, railway systems connected distant cities across [[Jespark]], and magical lanterns were made affordable to Jesparki peasants. 
+
+**Invention Examples**
+- Magical wands/staves
+- Trains/vehicles
+- Magical guns
+- Magical lights
+- Magical circuits, traps, automated spells
+- Magical automatons
 ## Advanced Alchemy
-By combining other alchemical techniques, well-rounded alchemists can produce a variety of powerful 
+Sometimes also referred to as "total alchemy, through a synthesis of techniques from the various strains of alchemy, well-studied alchemists can produce a variety of unique effects. The fine manipulation of materials combined with special mechanical tools can allow casters to manipulate core forces such as light, magnetism, and sound, producing effects such as beams of concentrated destructive light or visual/auditory illusions. 
+
+The manipulation of light, shadow, and sounds are far more ancient arts than this, but as with many other branches of magic it was systematized scientifically by the archmages. 

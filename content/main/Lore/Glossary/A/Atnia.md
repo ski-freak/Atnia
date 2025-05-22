@@ -3,7 +3,7 @@ title: Atnia
 tags: 
 aliases:
 ---
-Atnia refers to the great valley around the ruins of [[Aton]] which held the seat of the great [[The Aulva|Aulvan]] empire many thousands of years ago. For many years it was a mere hypothetical kingdom, often granted to troublesome but well regarded nobles in [[Jespark]] and elsewhere as a faux honor and practical exile. The land was considered untamable as colonial efforts were always beaten back by the [[main/Lore/Glossary/O/Ogres]] and [[Indigenous Atnian Culture|'savage' tribes]] that inhabited those jungles. 
+Atnia refers to the great valley around the ruins of [[Aton]] which held the seat of the great [[The Aulva|Aulvan]] empire many thousands of years ago. For many years it was a mere hypothetical kingdom, often granted to troublesome but well regarded nobles in [[Jespark]] and elsewhere as a faux honor and practical exile. The land was considered untamable as colonial efforts were always beaten back by the [[main/Lore/Glossary/O/Ogres|ogres]] and [[Indigenous Atnian Culture|'savage' tribes]] that inhabited those jungles. 
 
 When the [[Archmages|archmages]] successfully explored the [[Aulvan Ruins|ruins]] at [[Aton]] they also paved the way for  [[The Bevan Dynasty]], which had been teetering on the edge of ruin, to fully colonize the land. The archmage [[Pyrus]] would remain there to aid in the construction efforts, eventually ascending via popular vote to the position of [[Chancellor of Works|High Chancellor of Works]] as part of Atnia's constitutional government under the monarchy -- a position he would maintain through repeated reelection for over a century.
 
