@@ -70,37 +70,44 @@ Some cards will also have subtypes. Substyles do not have any universal rules si
 
 ---
 ## The 7 Ideals
-Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals represent wide swaths of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
+Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals each represent a wide swath of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
 
 The ideals are:
 #### Arca 
 Chaos, The Rift, Change
 - Symbol: A purple ring of magical energy.
 - Arca represents a chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
+- Warlocks, the Forsaken, dream mages, nightmares, people seeking power and change.
 #### Eminus
 Reputation, Law, Trust
 - Symbol: A yellow hand shake.
 - Your reputation among others or within a community. Laws and law magic. Trust built through a shared history or one's reputation is important to those who value Eminus.
+- Arbiters, law mages, politicians, traders, knights, the Old Watch.
 #### Materia
 Physical Resources, Alchemy, the Untamed Wilderness
 - Symbol: A green plank of wood
 - Resources people need and desire in the new world. While the other ideals are largely conceptual, Materia is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
+- Druids, the Salt Alliance, farmers, alchemists, vampires.
 #### Ancestra
 History, Ancient Secrets, Past Civilizations
 - Symbol: A blue coin.
-- Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
+- Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, as it represents a romanticization of the past and opposition to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
+- Nobles, traditional wizards, people who believe in the societies of the past.
 #### Zelor
 Passion, Emotion, Storytelling
 - Symbol: A red book.
 - One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from your own passions and emotions.
+- Storytellers, bards, people who fight for a cause.
 #### Talentus
 Martial Arts, Armies, Skill & Craftsmanship
 - Symbol: Orange shield with a fist.
 - Talentus represents mundane skills as well as combat prowess. Low on magic / magic takes a more subtle form. Magic tends to be either magical weapons, or being supernaturally skilled at something.
+- Tradesmen, soldiers, the Fifth Legion, martial artists.
 #### Ecclesia
 Gods, Religion, Relics
 - Symbol: A white sun.
 - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind after the fall, still infused with the power of the gods.
+- Clerics, priests, those who value religion or the gods.
 
 There is no hard gate on which cards you can include in your deck, you may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
 
