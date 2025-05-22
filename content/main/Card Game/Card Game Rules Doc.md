@@ -70,7 +70,7 @@ Some cards will also have subtypes. Substyles do not have any universal rules si
 
 ---
 ## The 7 Ideals
-Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals represent wide swaths of related concepts the people who live in Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
+Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals represent wide swaths of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
 
 The ideals are:
 #### Arca 
