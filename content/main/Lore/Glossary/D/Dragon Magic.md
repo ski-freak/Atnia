@@ -1,9 +1,9 @@
 ---
-title: Old Magic
+title: Dragon Magic
 tags: 
 aliases:
 ---
-The [[Archmages|archmage]] [[Oana]] attempted to keep her [[Magic|magic]] as close as possible to the methods recorded in the writings of the ancient elves. While it is difficult to reconstruct exactly the methods of [[The Aulva]] from the carvings they left behind, incorporate the Aulvan knowledge of the dragon as the source of magic, proving a school that is uniquely adept at manipulating the nature of magic itself. Sometimes this school is called [[Dragons|dragon]] magic, for the methods used by The Aulva were thought to be learned or taken from the ancient true dragons. 
+The [[Archmages|archmage]] [[Oana]] attempted to keep her [[Magic|magic]] as close as possible to the methods recorded in the writings of the ancient elves. While it is difficult to reconstruct exactly the methods of [[The Aulva]] from the carvings they left behind, incorporate the Aulvan knowledge of the dragon as the source of magic, proving a school that is uniquely adept at manipulating the nature of magic itself. The school is referred to as [[Dragons|dragon]] magic, for the methods used by The Aulva were thought to be learned or taken from the ancient true dragons. 
 
 ## True Magic
 
