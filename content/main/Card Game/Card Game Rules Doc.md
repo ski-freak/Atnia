@@ -31,7 +31,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Battlefield - The main playing area / board. All unit and item cards that are currently in play live here.
-- Memory - When cards are destroyed or discarded, they go here. It's the discard pile.
+- Discard Pile - When cards are destroyed or discarded, they go here.
 - Horizon - Zone for cards & effects currently being played and not resolved yet.
 - Void - Zone used for some things.
 - Channel zone - Zone cards go after being channeled.
@@ -40,7 +40,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 ## Parts of a Card
 - **Name**
 - **Energy Cost** - To play a card, you must pay energy equal to it's energy cost.
-- **Source Devotion Requirement(s)** - See "Power Sources"
+- **Ideal Devotion Requirement(s)** - See "ideals"
 - **Type** - See "Card Types"
 - **Subtype** - See "Card Types"
 - **Speed** - See "Playing Cards"
@@ -56,56 +56,85 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ---
 ## Energy System
-There is a single (numerical) energy pool for each player, the maximum energy you can have at any given time is 10. At round end, players retain up to 2 energy and any excess is discarded (banked energy limit of 2 is separate from the main 10 energy limit). Players begin the game with 2 energy counters and gain an additional one after each round (maximum is also 10). Each round, players get 1 energy for each of their energy counters.
-
-Note: Try testing maximum energy gain from round starting at 6 or something like that.
-
----
-## Power Sources
-Sources are the main categorization of cards & affect which cards you will likely have in your deck, as to play cards from a source you must also have other cards of that source to meet it's source devotion requirement (appears as a number of symbols for given sources). The power sources are diegetic concepts people in Atnia value, they represent the ways you can rally new allies to your side and do magical feats. The 7 sources are: 
-- Arca - A chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
-- Eminus - Your reputation among others or within a community. Trust built through a shared history or one's reputation is important to those who value Eminus.
-- Materia - Resources people need and desire in the new world. While the other sources are largely conceptual, Materia is grounded in the physical battlefield of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
-- Old World - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
-- Zelor - Passion, emotion, storytelling. One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from...
-- Martial - Martial arts, armies, guards, and skill in combat. Not much magic / magic takes a more subtle form. Magic tends to be either magical weapons, or being supernaturally good at fighting.
-- Ecclesia - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind, still infused with the power of the gods.
-
-*Source names subject to change, (particularly, Old World and Martial).*
-
-Different people and factions within Atnia will value the different power sources differently and in varying amounts or combinations. These will determine the vibes of different factions, units, spells, and in general cards that you can include in your deck.
-
-Cards may will often have a source devotion requirement, a number of symbols indicating how much devotion to that source you need to have to play it. Your devotion to a source is equal to the number of individual cards (not the icons on them) of that source you must have total/combined among your channeled cards and allied locations in the battlefield and horizon zones. If you do not meet the devotion requirement, you cannot play the card.
-
-Currently the source icons are as follows: Arca is a purple ring of magical energy, Eminus is a yellow hand shake, Materia is a green plank of wood, Old World is a blue coin, and zelor is a red book.
-
-You can tell what a card's source(s) are by which source icons are on it's devotion requirement.
+There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. Between rounds, players retain/bank any excess unspent energy, up to a limit of 2 (banked energy limit is separate from the main 10 energy limit).
 
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items can have different subtypes that give them unique effects
-- Spell - Spells do what is indicated by their description on resolution, then are put into memory, unlike other cards which resolve to battlefield.
-- Location - When you play a location it goes to the location zone. Locations count towards source devotion/requirements while in the location zone (as well as the channel zone). Locations have no devotion requirement, the source icons only indicate which sources a location counts as source devotion towards.
-	- The card template may be updated to move the source icons on locations to a different part of the card to make it more clear, but you never have to meet a devotion requirement to play a location.
-- Starting Location - A deck can have up to three starting locations. You may choose the same starting location more than once.
+- Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
+- Location - Used to gain devotion to an ideal. When you play a location it goes to the location zone. While there, locations add 2 devotion to each of their ideals.
+	- Starting Location - A deck can have up to three starting locations. You may use multiple copies of the same starting location. Each starting location adds 1 devotion to it's ideal (all other locations add 2 devotion to each of their ideals.)
 
-Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. Here are some that do matter:
-- Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the top one describes the abilities of the weapon itself, and the bottom one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
-- Scheme - Schemes cannot be played normally. Instead, at slow speed (with intermezzo), you may plan a scheme by paying 2 energy and putting the scheme card from your hand directly onto the battlefield face down (does not use the horizon). Schemes arrive face down with 3 health as items, and you may play schemes for their normal costs from this face down state (when played they go to the horizon as though they were played from your hand). Every scheme has a condition in the top half of it's text/description box, and you may only play the scheme while the condition is met.
-	- If you summon a scheme (via another effect), it summons as though you are summoning a regular spell.  
-	- If you plan a scheme from a zone/context where it is face up, it is planned face up instead of face down (in paper use a counter to track that it is planned)  
-	- You can plan a scheme from any zone you could play the scheme from (for example if it is cached), however after paying the 2 energy plan cost, instead of planning it directly, recall the scheme, then plan any scheme from your hand.
+Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. 
+
+---
+## The 7 Ideals
+Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals represent wide swaths of related concepts the people who live in Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
+
+The 7 ideals are:
+#### Arca 
+Chaos, The Rift, Change.
+- Symbol: A purple ring of magical energy.
+- Arca represents a chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
+#### Eminus
+Reputation, Law, Trust.
+- Symbol: A yellow hand shake.
+- Your reputation among others or within a community. Laws and law magic. Trust built through a shared history or one's reputation is important to those who value Eminus.
+#### Materia
+Physical Resources, Alchemy, the Untamed Wilderness
+- Symbol: A green plank of wood
+- Resources people need and desire in the new world. While the other ideals are largely conceptual, Materia is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
+#### Ancestra
+History, Ancient Secrets, Past Civilizations
+- Symbol: A blue coin.
+- Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, a romanticization of the past & apposed to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
+#### Zelor
+Passion, Emotion, Storytelling
+- Symbol: A red book.
+- One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from your own passions and emotions.
+#### Talentus
+Martial Arts, Armies, Skill & Craftsmanship
+- Symbol: Orange shield with a fist.
+- Talentus represents mundane skills as well as combat prowess. Low on magic / magic takes a more subtle form. Magic tends to be either magical weapons, or being supernaturally skilled at something.
+#### Ecclesia
+Gods, Religion, Relics
+- Symbol: A white sun.
+- Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind after the fall, still infused with the power of the gods.
+
+There is no hard gate on which cards you can include in your deck, you may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
+
+There are three ways to gain source devotion: Channeling cards, playing location cards, and using your cards to explore (converting a card in hand to a location).
+
+---
+## Channel System
+All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your ideal devotion to fulfill devotion requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
+- Each channeled card adds 1 to your devotion to each of it's ideals.
+- During the draw phase at the end of each round, your channeled cards will be recycled into your deck. Cards you channel are never lost permanently, only for the duration of the round. 
+- During the draw phase, you choose which of your channeled cards are put on the top of your deck and which are put onto the bottom, then draw a card for each card you had channeled +1.
+
+---
+## More Location Info, Exploration, and Chromatic cards
+### Locations
+Locations when played go to the location zone, and while there add 2 devotion to each of their ideals (except for starting locations, which only add 1). The text on location cards defaults to being active when they are in the location zone instead of the battlefield. Locations do not unflip at round start, as they are not on the battlefield.
+### Exploration
+Exploration allows you to trade any card in your hand/channel zone for a single source location. To explore, (at infinite speed) reveal a card from either your hand or channel zone and put it on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
+
+When exploring, if you put the card on the bottom of your deck, you also have the option to instead of getting a location pay 2 energy to draw 1 and +2 potential (or if the card was chromatic, pay 1 to draw 1 and +1 potential). If you do this, the exploration is burst instead of infinite speed.
+### Chromatic Cards
+Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 devotion to each of it's ideals, a chromatic card also adds 1 devotion of each ideal contained on allied locations (a channeled chromatic card still can never add more than 1 devotion to a single ideal). 
+
+When you use a card with chromatic to explore, you recieve a Home location instead of a Wilderness location (the Home locations are slightly upgraded versions of the Wilderness locations).
 
 ---
 ## Playing Cards & the horizon
 The horizon gives you a chance to see what your opponent is doing and react to it.
 
-To play a card, you must meet it's source devotion requirement and pay it's costs.
+To play a card, you must meet it's ideal devotion requirement and pay it's costs.
 
 When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once any player passes after doing nothing or only taking actions at infinite speed (such as channeling cards), all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom
 
-When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, memory if it is a spell, and the location zone if it is a location. When a card in battlefield or horizon is destroyed (such as by having no more health left), it is put into memory. Damage only occurs to cards in the battlefield and horizon.
+When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, the discard pile if it is a spell, and the location zone if it is a location. When a card in battlefield or horizon is destroyed (such as by having no more health left), it is put into the discard pile. Damage only occurs to cards in the battlefield and horizon.
 
 - To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect / enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not control the bottom card on the horizon becomes the active player.
@@ -129,24 +158,8 @@ The two primary speeds are slow and fast.
 - You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
 	- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, as slow speed cards cannot be played when there are other cards on the horizon).
 	- When committing multiple cards at once, cards committed lower on the horizon are legal targets for cards committed higher on the horizon.
+	- If you would like to guarantee putting multiple cards onto the horizon, commit them all at once, because once you commit your cards, if your opponent chooses not to react, all cards on the horizon will resolve.
 
----
-## Channel System
-All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your source devotion to fulfill devotion requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
-- During the draw phase, your channeled cards will be recycled into your deck. They are not lost permanently, only for the duration of the round.
-
----
-## More Location Info, Exploration, and Chromatic cards
-Locations when played go to your location zone, and while there add 2 devotion to each of their sources (except for starting locations, which only add 1). The text on location cards defaults to being active when they are in the location zone instead of the battlefield.
-
-There are a number of location cards that allow you to put as many of them as you want in your starting deck. These currently include one for each single source and one for each two source combination. They all have the type 'Core'.
-
-Any card can be used to explore. To explore, (at infinite speed) reveal and put a card from your hand or channel zones on the top or bottom of your deck to create a Wilderness location of any source of your choice (there is 1 Wilderness location for each source). 
-- Alternative rule if this doesn't work: You may only explore for one of the sources the card could be channeled for or one of the sources contained on your starting locations.
-
-Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 to the source devotion of each of it's sources, it also adds 1 to the source devotion of each source contained on allied locations (this cannot add 2 devotion to a single source). Also, when you use a card with chromatic to explore, you create a Home location instead of a Wilderness location (the wilderness locations are slightly upgraded versions of the home locations).
-
-When exploring, if you put the card on the bottom of your deck, you have the option to instead of getting a location pay 2 energy to draw 1 and +2 potential (or if the card was chromatic, pay 1 to draw 1 and +1 potential). If you do this, the exploration is burst instead of infinite speed.
 
 ---
 
@@ -235,15 +248,27 @@ Here is some additional info:
 	- Maybe also: If new non infinite speed cards/effects are put into horizon by an infinite speed effect and the active player passes, it does not cause them to resolve & instead the other player becomes active.
 - If effects would trigger simultaneously, they are put into horizon all at once, in order of, from top to bottom:
 	- Effects from the first player in the round above effects from other players. 
-	- Top to bottom, triggers from cards in: horizon, battlefield, Memory.
+	- Top to bottom, triggers from cards in: horizon, battlefield, the discard pile.
 		1. Horizon, top to bottom: Cards higher in horizon to cards lower in the horizon.
 		2. Battlefield, top to bottom: Cards on the left side of a players battlefield zone to cards on the right side of their battlefield zone (combatting cards are assumed to be to the left of non combatting cards).
-		3. Memory - If a player has multiple simultaneous triggers from cards in their memory zone, smaller cards go on top and and larger cards go on the bottom (determined by offense, tie broken by health, tie broken by base energy cost. After base energy cost is a tie, in paper players decide the order, and online it goes by alphabetical order of card name (earlier in the alphabet goes on top))
+		3. Discard Pile - If a player has multiple simultaneous triggers from cards in their discard pile, smaller cards go on top and and larger cards go on the bottom (determined by offense, tie broken by health, tie broken by base energy cost. After base energy cost is a tie, in paper players decide the order, and online it goes by alphabetical order of card name (earlier in the alphabet goes on top))
 			- If a single card has multiple triggers occur at once, the one(s) on top of the card's text box go above ones lower in the text box.
 - All new cards arrive on the battlefield to the right of cards already in battlefield. Attacking allows the attacking player to choose the order of their attacking units. Blocking forces the blocking units to match the location/order of the attacking units. At end of combat all attacking/blocking units return to the rest of the battlefield zone on the left of cards already there that didn't attack/block, in the same order/arrangement they were in combat.
 	- If multiple cards would enter a player's battlefield at once, they enter with the largest card on the left and smallest card on the right (determined by offense, tie broken by health, tie broken by base energy cost. After base energy cost is a tie, in paper players decide the order, and online it goes by alphabetical order of card name (earlier in the alphabet on the left))
 - If multiple effects that require targets to be chosen are put into the horizon simultaneously, targets must be chosen for the bottom most effect(s) first.
 - If multiple cards are in one board space (such as with weapons), the card on the bottom (the weapon) is assumed to be to the right of the card on top.
+
+## Info not relevant to set 1:
+
+Subtypes which may be used in the future:
+- Weapon - Weapons can be played on their own or on top of an allied unit already on the battlefield (chosen as a target as you play the weapon card). Only one weapon can be on a board space at a time. If an allied weapon without a wielder is on the battlefield and an allied unit arrives, the unit arrives equipped to the weapon. Weapons have 2 text box sections, the top one describes the abilities of the weapon itself, and the bottom one indicates what abilities and stats are given to any unit equipped with the weapon. If a unit equipped with a weapon departs, the weapon stays in battlefield. If the weapon departs with the unit still in battlefield, the unit takes damage equal to the health buff on the weapon.
+- Scheme - Schemes cannot be played normally. Instead, at slow speed (with intermezzo), you may plan a scheme by paying 2 energy and putting the scheme card from your hand directly onto the battlefield face down (does not use the horizon). Schemes arrive face down with 3 health as items, and you may play schemes for their normal costs from this face down state (when played they go to the horizon as though they were played from your hand). Every scheme has a condition in the top half of it's text/description box, and you may only play the scheme while the condition is met.
+	- If you summon a scheme (via another effect), it summons as though you are summoning a regular spell.  
+	- If you plan a scheme from a zone/context where it is face up, it is planned face up instead of face down (in paper use a counter to track that it is planned)  
+	- You can plan a scheme from any zone you could play the scheme from (for example if it is cached), however after paying the 2 energy plan cost, instead of planning it directly, recall the scheme, then plan any scheme from your hand.
+
+
+
 ---
 
 # Formats / modes and ways to play the game
@@ -266,25 +291,25 @@ Build a deck with 40 total cards, max 2x of each card, (and 15 card sideboard??)
 
 Limited format for 2 players. It shares some characteristics with being given a preconstructed deck, but in practice is closer to drafting from a cube (the card pool in fact may be used for cube draft) as you play the game due to channeling + enhanced card selection, without requiring a lengthy setup or draft before playing.
 
-Start with 7 decks on the table, one for cards of each source, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from (+ a starting location of that source), then player 2 will do the same, repeat 2 more times so each player has 45 cards* and 3 starting locations. The same deck can only be chosen 3 times total across all players*. Players are then given 10* "Explore!" cards, as well as 6* "See Beyond" cards for each different source deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the source decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
+Start with 7 decks on the table, one for cards of each ideal, and randomly determine the first player. Player 1 will choose one of the decks to take 15 cards from (+ a starting location of that ideal), then player 2 will do the same, repeat 2 more times so each player has 45 cards* and 3 starting locations. The same deck can only be chosen 3 times total across all players*. Players are then given 10* "Wilds of Atnia" cards, as well as 6* "See Beyond" cards for each different ideal deck they chose when selecting their 45 cards. Players then shuffle all of their cards (the 45 cards from the ideal decks, Explore cards, and see beyond cards), which then become that player's deck for the game.
 
 The game then begins and is played as normal.
 
 ### Notes:
-- You can play multiple games before resetting the card pool. If a deck can be chosen 3 times total across all players (and all games in the match) and there are 7 decks, up to 3 games can be played in the match. When doing this, in games two and three players will have more limited options for sources to choose for their decks, which may be desirable if you enjoy playing (and being forced to attempt to win with) a variety of different strategies, and undesirable if you would like to stick with a single strategy for many games.
-- The card pool should provide a variety of directions for players to go in archetype wise even within the same sources / combinations. This of course means that cards will be of varying use to players depending on what they are doing, and the existing channel system + see beyond cards should allow them to effectively 'draft' during the game and select for the cards they actually would like to use.
-- The explore cards simply give players access to a consistent number of exploration effects to get enough locations. They are also all sources, so they can be channeled to help play any of your cards. They may at some point be replaced by just having more cards with Exploration text.
-- The See Beyond cards when channeled are voided and allow you to look at the top 2 cards of your deck, rearrange them (and put them on the bottom of your deck if you like), then draw a card. This is to emulate the benefit of playing multiple sources in constructed, higher card quality.
+- You can play multiple games before resetting the card pool. If a deck can be chosen 3 times total across all players (and all games in the match) and there are 7 decks, up to 3 games can be played in the match. When doing this, in games two and three players will have more limited options for ideals to choose for their decks, which may be desirable if you enjoy playing (and being forced to attempt to win with) a variety of different strategies, and undesirable if you would like to stick with a single strategy for many games.
+- The card pool should provide a variety of directions for players to go in archetype wise even within the same ideals / combinations. This of course means that cards will be of varying use to players depending on what they are doing, and the existing channel system + see beyond cards should allow them to effectively 'draft' during the game and select for the cards they actually would like to use.
+- The explore cards simply give players access to a consistent number of exploration effects to get enough locations. They are also all ideals, so they can be channeled to help play any of your cards. They may at some point be replaced by just having more cards with Exploration text.
+- The See Beyond cards when channeled are voided and allow you to look at the top 2 cards of your deck, rearrange them (and put them on the bottom of your deck if you like), then draw a card. This is to emulate the benefit of playing multiple ideals in constructed, higher card quality.
 
 ### Notes for paper/online:
-In paper, after a match has been played, players should go through their cards and separate them back into their original piles. For cards that have multiple sources, they should go in the pile of the source that is on the left of the card border/box backgrounds.
+In paper, after a match has been played, players should go through their cards and separate them back into their original piles. For cards that have multiple ideals, they should go in the pile of the ideal that is on the left of the card border/box backgrounds.
 
 \* These numbers can be adjusted for the video game version as they were selected largely for paper play where there is a limited number of physical cards and the more you use the longer resetting the game takes. Online one player taking cards doesn't need to mean the other player can't have the same card, although the picking process should still be a back and forth thing so one player doesn't have a large information advantage during selection.
 
 For online, I would start with the following numbers:
-- 20 cards per pick (60 total, the total number of cards in a single source deck).
-- 16 "Explore!" cards.
-- 10 "See Beyond" cards for each source deck the player chose to add cards from to their starting deck.
+- 20 cards per pick (60 total, the total number of cards in a single ideal deck).
+- 16 "Wilds of Atnia" cards.
+- 10 "See Beyond" cards for each ideal deck the player chose to add cards from to their starting deck.
 
 
 ## Cube Draft
