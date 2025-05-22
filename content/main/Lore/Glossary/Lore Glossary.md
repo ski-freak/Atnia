@@ -335,7 +335,7 @@ ___
 
 [[main/Lore/Glossary/O/Oana|Oana]]
 
-[[Ogers]]
+[[main/Lore/Glossary/O/Ogres]]
 
 [[The Ogers of Mnem]]
 

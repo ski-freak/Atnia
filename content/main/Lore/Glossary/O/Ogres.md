@@ -1,6 +1,6 @@
 ---
-title: Ogers
+title: Ogres
 tags: 
 aliases:
-  - ogers
+  - ogre
 ---
