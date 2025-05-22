@@ -104,7 +104,7 @@ Gods, Religion, Relics
 
 There is no hard gate on which cards you can include in your deck, you may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
 
-There are three ways to gain source devotion: Channeling cards, playing location cards, and using your cards to explore (converting a card in hand to a location).
+**There are three ways to gain source devotion:** Channeling cards, playing location cards, and using your cards to explore (converting a card in hand to a location).
 
 ---
 ## Channel System
