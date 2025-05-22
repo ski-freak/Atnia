@@ -25,6 +25,8 @@ Many ancient methods of divination also made use of fire, though Augusta derided
 - Warning (notifies the caster when a specific far-off event occurs)
 ## Prophecy
 
-According to Augusta, perfect prediction of the future is impossible. Proponents of prophetic powers don't always disagree, but maintain that just like far-off events can be observed through collecting the signs, a shadow of the future can be constructed and observed as well. The methods of prophecy are functionally very similar to sensing magic, but the art is far more complex, and there is less certainty over whether any particular method actually works. 
+According to Augusta, perfect prediction of the future is impossible. Proponents of prophetic powers don't always disagree, but maintain that just like far-off events can be observed through collecting the signs, a shadow of the future can be constructed and observed as well. The methods of prophecy are functionally very similar to sensing magic, but the art is far more complex, and there is less certainty over whether any particular method actually works. Some say that Augusta entrusted the secrets of true prophecy only to her most devoted followers, and kept it from the public eye for fear of untold catastrophes that public knowledge of it might cause. 
 
-Still, many successful prophets have been recorded throughout the world's history, potentially including many among the ancient Aulva, according to some scholars of their writings. 
+Many successful prophets have been recorded throughout the world's history, potentially including many among the ancient Aulva, according to some scholars of their writings. Of course, doubt can be cast on whether their true predictions were the product of chance or deception. 
+
+Augusta's claim that prophecy is impossible could be considered somewhat sacrilegious, as [[The Veriglas|Veriglas]] orthodoxy has [[The Gods]] granting visions of the future particularly to Veriglas Pontiffs beginning with [[Thulia Aestrom]]. When asked about this contradiction, Augusta would only reply cryptically that the workings of the gods were beyond the realm of magical science. 
