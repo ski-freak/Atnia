@@ -74,11 +74,11 @@ Ideals are the main categorization of cards in the Atnia card game and affect wh
 
 The 7 ideals are:
 #### Arca 
-Chaos, The Rift, Change.
+Chaos, The Rift, Change
 - Symbol: A purple ring of magical energy.
 - Arca represents a chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
 #### Eminus
-Reputation, Law, Trust.
+Reputation, Law, Trust
 - Symbol: A yellow hand shake.
 - Your reputation among others or within a community. Laws and law magic. Trust built through a shared history or one's reputation is important to those who value Eminus.
 #### Materia
