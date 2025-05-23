@@ -88,7 +88,7 @@ Physical Resources, Alchemy, the Untamed Wilderness
 - Symbol: A green plank of wood
 - Resources people need and desire in the new world. While the other ideals are largely conceptual, Materia is grounded in the physical reality of the world. Food, lumber, salt, stuff that has value independent of concepts & social dynamics.
 - Druids, the Salt Alliance, farmers, alchemists, vampires.
-#### Ancestra
+#### Epoca
 History, Ancient Secrets, Past Civilizations
 - Symbol: A blue coin.
 - Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, as it represents a romanticization of the past and opposition to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
@@ -103,7 +103,7 @@ Martial Arts, Armies, Skill & Craftsmanship
 - Symbol: Orange shield with a fist.
 - Talentus represents mundane skills as well as combat prowess. Low on magic / magic takes a more subtle form. Magic tends to be either magical weapons, or being supernaturally skilled at something.
 - Tradesmen, soldiers, the Fifth Legion, martial artists.
-#### Ecclesia
+#### Deitus
 Gods, Religion, Relics
 - Symbol: A white sun.
 - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind after the fall, still infused with the power of the gods.
