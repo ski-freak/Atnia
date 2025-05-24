@@ -73,8 +73,8 @@ Some cards will also have subtypes. Substyles do not have any universal rules si
 Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals each represent a wide swath of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
 
 The ideals are:
-#### Arca 
-Chaos, The Rift, Change
+#### Arca
+Chaos, The Rift, Arcane Magic, Change
 - Symbol: A purple ring of magical energy.
 - Arca represents a chaotic and wild energy that has expanded throughout Atnia after the apocalypse. Highly magical, both destructive and creative, to many it is symbolic of the new world.
 - Warlocks, the Forsaken, dream mages, nightmares, people seeking power and change.
