@@ -215,7 +215,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location(s) into the location zone if applicable), and draws 6 cards. Players may put any number of cards from their hand on the bottom of their deck to draw that many cards. After both players have finished drafting their hands, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, (reveals & puts their starting location(s) into the location zone if applicable), and draws 6 cards. Then, begin the first round of the game.
 
 ---
 ## Card Semantics
