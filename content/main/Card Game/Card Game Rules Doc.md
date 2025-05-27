@@ -125,7 +125,7 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed. C
 ### Locations
 Locations when played go to the location zone, and while there add 2 devotion to each of their ideals (except for starting locations, which only add 1). The text on location cards defaults to being active when they are in the location zone instead of the battlefield. Locations do not unflip at round start, as they are not on the battlefield.
 ### Exploration
-Exploration allows you to trade any card in your hand/channel zone for a single ideal location. To explore, (at infinite speed) reveal a card from either your hand or channel zone and put it on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
+Exploration allows you to trade any card in your hand/channel zone for a single ideal location. To explore, (at infinite speed) put a card from either your hand or channel zone on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
 
 When exploring, if you put the card on the bottom of your deck, you also have the option to instead of getting a location pay 1 energy to draw 1 and +1 potential. If you do this, the exploration is burst instead of infinite speed.
 
