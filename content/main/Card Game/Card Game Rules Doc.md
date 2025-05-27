@@ -121,17 +121,13 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed. C
 - During the draw phase, you choose which of your channeled cards are put on the top of your deck and which are put onto the bottom, then draw a card for each card you had channeled +1.
 
 ---
-## More Location Info, Exploration, and Chromatic cards
+## More Location Info and Exploration
 ### Locations
 Locations when played go to the location zone, and while there add 2 devotion to each of their ideals (except for starting locations, which only add 1). The text on location cards defaults to being active when they are in the location zone instead of the battlefield. Locations do not unflip at round start, as they are not on the battlefield.
 ### Exploration
 Exploration allows you to trade any card in your hand/channel zone for a single ideal location. To explore, (at infinite speed) reveal a card from either your hand or channel zone and put it on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
 
-When exploring, if you put the card on the bottom of your deck, you also have the option to instead of getting a location pay 2 energy to draw 1 and +2 potential (or if the card was chromatic, pay 1 to draw 1 and +1 potential). If you do this, the exploration is burst instead of infinite speed.
-### Chromatic Cards
-Some cards will have a rainbow circle in the top left, this means the card is chromatic. While channeled, in addition to adding 1 devotion to each of it's ideals, a chromatic card also adds 1 devotion of each ideal contained on allied locations (a channeled chromatic card still can never add more than 1 devotion to a single ideal). 
-
-When you use a card with chromatic to explore, you recieve a Home location instead of a Wilderness location (the Home locations are slightly upgraded versions of the Wilderness locations).
+When exploring, if you put the card on the bottom of your deck, you also have the option to instead of getting a location pay 1 energy to draw 1 and +1 potential. If you do this, the exploration is burst instead of infinite speed.
 
 ---
 ## Playing Cards & the horizon
