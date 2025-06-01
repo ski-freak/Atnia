@@ -145,17 +145,14 @@ When a card is played, it goes to the horizon. When it resolves, it goes to batt
 - Since new cards are placed onto the horizon above cards already there, when the horizon cards resolve, cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time.
 ---
 ## Speed
-Cards have an icon in the top left below the energy cost indicating what speed the card has.
-
-#### Current speeds:
-The two primary speeds are slow and fast.
+The speed of a card is indicated in the top left in italicized text. Below is the full list of different speeds and what they mean.
 
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
-- Burst speed cards can be played during combat and can be played while there are other cards/effects already in the horizon. If you play a burst speed card/action, it resolves immediately and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
-	- Burst speed is reserved mainly for location cards which do little more than draw a new card and put themselves in the location zone.
-- ∞ speed cards and effects are the same as burst speed, except they are the same as having not played anything for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you play an infinite speed action such as channeling a card or have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
-	- ∞ speed is reserved mainly for channeling cards and triggered abilities on already played cards (effects that say 'whenever x happens, y happens').
+- Burst speed cards can be played whenever you could play a fast speed card. If you play a burst speed card/action, it resolves immediately and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
+	- Burst speed is reserved mainly for location cards.
+- ∞ speed cards and effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you play an infinite speed action such as channeling a card or have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
+	- ∞ speed is reserved mainly for channeling cards, exploring, and for triggered abilities on already played cards (effects that say 'whenever x happens, y happens' are assumed to be infinite speed unless otherwise stated).
 
 #### More info:
 - You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
