@@ -50,7 +50,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ![[Atnia Parts of a card.png|500]]
 
-![[atnia icons sheet 3.png|500]]
+![[atnia icons sheet.png|500]]
 
 *Icons from https://game-icons.net/
 
