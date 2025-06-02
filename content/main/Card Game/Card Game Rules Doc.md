@@ -50,7 +50,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ![[Atnia Parts of a card.png|500]]
 
-![[atnia icons sheet.png|500]]
+![[atnia helper for actions.png|500]]
 
 *Icons from https://game-icons.net/
 
@@ -63,8 +63,8 @@ There is a single (numerical) energy pool for each player. Players begin the gam
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
-- Location - Used to gain devotion to an ideal. When you play a location it goes to the location zone. While there, locations add 2 devotion to each of their ideals.
-	- Starting Location - A deck can have up to three starting locations. You may use multiple copies of the same starting location. Each starting location adds 1 devotion to it's ideal (all other locations add 2 devotion to each of their ideals.)
+- Location - Used to gain devotion to an ideal. When you play a location it goes to the location zone. While there, locations add devotion to each of their ideals.
+	- Starting Location - A deck can have up to three starting locations. You may use multiple copies of the same starting location.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. 
 
@@ -123,7 +123,9 @@ All cards in hand can be channeled face up into the channel zone at ∞ speed. C
 ---
 ## More Location Info and Exploration
 ### Locations
-Locations when played go to the location zone, and while there add 2 devotion to each of their ideals (except for starting locations, which only add 1). The text on location cards defaults to being active when they are in the location zone instead of the battlefield. Locations do not unflip at round start, as they are not on the battlefield.
+Locations when played go to the location zone, and while there add devotion to each of their ideals. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone.
+
+The text on location cards defaults to being active when they are in the location zone instead of the battlefield. Locations do not unflip at round start, as they are not on the battlefield.
 ### Exploration
 Exploration allows you to trade any card in your hand/channel zone for a single ideal location. To explore, (at infinite speed) put a card from either your hand or channel zone on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
 
@@ -321,3 +323,23 @@ You could do a cube draft with one of the full sets. Set 1 is not finished yet b
 
 ## Abandoned Formats/Modes
 See this for a list of abandoned format ideas.
+
+
+---
+
+
+Ideals short version:
+### Arca 
+Chaos, The Rift, Change
+### Eminus
+Reputation, Law, Trust
+### Materia
+Physical Resources, Alchemy, the Untamed Wilderness
+### Ancestra
+History, Ancient Secrets, Past Civilizations
+### Zelor
+Passion, Emotion, Storytelling
+### Talentus
+Martial Arts, Armies, Skill & Craftsmanship
+### Ecclesia
+Gods, Religion, Relics
