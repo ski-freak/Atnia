@@ -56,7 +56,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ---
 ## Energy System
-There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. Between rounds, players retain/bank any excess unspent energy, up to a limit of 2 (banked energy limit is separate from the main 10 energy limit).
+There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round.
 
 ---
 ## Card Types
