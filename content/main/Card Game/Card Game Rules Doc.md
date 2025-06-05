@@ -194,18 +194,20 @@ If a phase/step does not explicitly make a player the active player, no player i
 
 ---
 ## Combat
-During the main phase, while you are the active player and there are no unresolved effects, as a universal action you may start an attack by declaring your attackers (you attack players, not their cards).
+During the main phase, while you are the active player and there are no unresolved effects, you may start an attack by declaring your attackers. You attack players, not their cards. You can only attack opposing units directly if the attacking unit has 'challenger').
 
 Combat phase outline:
-1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to the horizon. After attackers are declared, any triggers/effects created are put into the horizon zone, however only ∞ speed effects are resolved.
-2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to the horizon zone. After defenders are declared, any triggers/effects created are put into the horizon zone, however only ∞ speed effects are resolved at this step.
-3. If the defending player committed any non ∞ speed effects or blocked with one or more units, the attacking player becomes active. Otherwise, or after a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. Combat ends, return to the main phase, and the player who was attacking becomes the active player. 
+1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to the horizon. 
+	- After attackers are declared, any triggers/effects created by this are put onto the horizon, however only ∞ and burst speed effects are resolved. Fast and slow cards/effects will resolve during step 3.
+2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to the horizon. 
+	- After defenders are declared, any triggers/effects created by this are put onto the horizon, however only ∞ and burst speed effects are resolved at this step. Fast and slow cards/effects will resolve during step 3.
+3. The attacking player becomes active, and players may play cards/pass as normal. After a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
+4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player. 
 Notes:
 - You may attack up to three times per round.
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
-- By attacking, the attacking player becomes the first player for the remainder of the round / until another player attacks.
+- Blocking is done in step 2, and cannot be done later. You can only block with a unit put into play after blockers are declared if that unit has 'guardian'
 - If you pass after attacking, the pass does not count towards ending the round.
 
 ---
