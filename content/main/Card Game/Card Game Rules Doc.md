@@ -167,7 +167,7 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player who ended the previous round becomes the starting player (the second person in the double pass, who says yes to ending the round. This will be whoever took the last non infinite speed action before the round ended (channeling, exploration, and abilities marked on cards as infinite speed are the only infinite speed actions)).
+	1. If it is not the first round of the game, the player who did not ebd the previous round becomes the first/starting player (the player who passed first in double pass. This will be whoever didn't take the last non infinite speed action before the round ended (channeling, exploration, and abilities marked on cards as infinite speed are the only infinite speed actions)).
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
