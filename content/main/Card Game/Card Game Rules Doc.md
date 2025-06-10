@@ -236,8 +236,8 @@ Here is some additional info:
 - Damage dealt to cards in horizon/battlefield is permanent (until they leave). 
 	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage.
 - Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
-- The battlefield zone has a limit of 8 cards. Locations are in the location zone and do not count towards this limit.
-	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. 
+- The battlefield zone has a limit of 16 cards. Locations are in the location zone and do not count towards this limit.
+	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. (Current plan is to have the cards shrink on the board once you go above 8 or something like that)
 	- Online, locations can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
 	- If a card would enter a full board, the player should be prompted to choose a board slot / card on the board to replace (in which case the old card and any weapons on the board space are discarded as the new card arrives), or allow the new card to be discarded instead.
 		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
