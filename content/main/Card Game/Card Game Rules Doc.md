@@ -151,8 +151,8 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
-- Burst speed cards can be played whenever you could play a fast speed card. If you play a burst speed card/action, it resolves immediately and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
-	- Burst speed is reserved mainly for location cards.
+- If you play a burst speed card/action, it resolves immediately as you play it and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
+	- You cannot commit burst speed cards along with other cards on the horizon as they will resolve instantly. Imagine it as dragging a card from your hand onto the board in a video game and as soon as you let go of the mouse it resolves.
 - ∞ speed cards and effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you play an infinite speed action such as channeling a card or have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
 	- ∞ speed is reserved mainly for channeling cards, exploring, and for triggered abilities on already played cards (effects that say 'whenever x happens, y happens' are assumed to be infinite speed unless otherwise stated).
 
