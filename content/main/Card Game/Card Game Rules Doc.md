@@ -129,8 +129,6 @@ The text on location cards defaults to being active when they are in the locatio
 ### Exploration
 Exploration allows you to trade any card in your hand/channel zone for a single ideal location. To explore, (at infinite speed) put a card from either your hand or channel zone on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
 
-When exploring, if you put the card on the bottom of your deck you may explore at slow burst instead of infinite speed to have the additional option of instead of getting a location, pay 1 energy to draw 1 and +1 potential.
-
 ---
 ## Playing Cards & the horizon
 The horizon gives you a chance to see what your opponent is doing and react to it.
