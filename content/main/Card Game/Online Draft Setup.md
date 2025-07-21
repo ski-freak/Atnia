@@ -20,3 +20,5 @@ Open your text file in a text editor, and use the same formatting as is used wit
 ![[Pasted image 20250720211937.png]]
 
 Finally, if you are using it on cockatrice, append the contents of this [text file](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Deck_Files/SourceDraftGenerated%20-%20Set%201/SourceDraft_sideboardbase.txt) to the end of your deck's text file.
+
+For information on how to use your deck in cockatrice, see [[Card Game Testing Info]].
