@@ -17,6 +17,6 @@ By the end you will have taken 45 cards (from three packs of 15 cards), which wi
 
 Open your text file in a text editor, and use the same formatting as is used within it already to add your (recommended: 7-9 ish) locations. In the image below are the locations available for you to add:
 
-![[Pasted image 20250720211937.png|800]]
+![[Pasted image 20250720211937.png]]
 
 Finally, if you are using it on cockatrice, append the contents of this [text file](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Deck_Files/SourceDraftGenerated%20-%20Set%201/SourceDraft_sideboardbase.txt) to the end of your deck's text file.
