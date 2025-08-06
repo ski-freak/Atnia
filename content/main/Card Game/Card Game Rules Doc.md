@@ -289,7 +289,10 @@ We will provide decks / sets of decks to be played in this mode, and you can als
 ## Constructed
 Build a deck with 40 total cards, max 2x of each card, (and 15 card sideboard??), then play it against other people's decks.
 
-## Limited format that lacks a name but is the main one rn
+## Draft (cube)
+See [[Online Draft Setup]].
+
+## Limited format that lacks a name
 
 Limited format for 2 players. It shares some characteristics with being given a preconstructed deck, but in practice is closer to drafting from a cube (the card pool in fact may be used for cube draft) as you play the game due to channeling + enhanced card selection, without requiring a lengthy setup or draft before playing.
 
