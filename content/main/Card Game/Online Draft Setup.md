@@ -7,7 +7,7 @@ aliases:
 1. Download this [text file](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Deck_Files/SourceDraftGenerated%20-%20Set%201/draftmancer_cube.txt)
 2. Go to https://draftmancer.com/
 3. In the dropdown to the right of 'session' and left of 'Draft', select "Upload a custom card list" and upload the text file you just downloaded from here.
-4. In the settings, set number of packs to 4, cards per pack to 15, and "discard the remaining \_\_\_ cards" to 4.
+4. In the settings, set "boosters per player" to 4, "cards per booster" to 15, and "discard the remaining \_\_\_ cards" to 4.
 5. Invite your friends to the draft, or set the number of bots (the number next to "Draft: \[robot emoji\]") to 7. You can set the timer to higher than 75 seconds if you would like more time to read cards.
 6. Click start, and begin drafting.
 
