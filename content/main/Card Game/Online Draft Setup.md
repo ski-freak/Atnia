@@ -14,7 +14,7 @@ aliases:
 ### Additional Info:
 The way the draft works is you pick a card and then pass your pack of cards to the person (or bot) to your left, and get a new pack to pick a card from. You should probably try to have no more than three different ideals (colors) of cards in your final decklist.
 
-By the end you will have taken 45 cards (from three packs of 15 cards), which will be available for you to include in your deck. To remove cards from your deck, drag them to the right side of the screen. Your deck must have at least 35 cards in it (playing exactly 35 is usually strategically optimal), 6-8 of which should be locations. Locations are not handled within draftmancer, so leave room for them when you export your deck. When you're done, export your deck as a text file.
+By the end you will have taken 44 cards, which will be available for you to include in your deck. To remove cards from your deck, drag them to the right side of the screen. Your deck must have at least 40 cards in it (playing exactly 40 is usually strategically optimal), 7-9 of which should be locations. Locations are not handled within draftmancer, so leave room for them when you export your deck. When you're done, export your deck as a text file.
 
 Open your text file in a text editor, and use the same formatting as is used within it already to add your (recommended: 7-9 ish) locations. In the image below are the locations available for you to add:
 
