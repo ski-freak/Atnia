@@ -16,7 +16,7 @@ We will be uploading many more videos to give more information on the world/sett
 - Full card list for Atnia set 1: [The New World](https://cubecobra.com/cube/list/Atnia?view=spoiler).
 - [[Lore Glossary]] - Find all* lore here!
 - [[Card Game Rules Doc]] - Rules on how to play the Atnia card game.
-- Print the card game here: [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy). More details [[Card Game Print Files|Here]] if it's not self explanatory. (Note: Currently outdated.)
+- Print the card game here: [Google Drive Folder](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy). More details [[Card Game Print Files|Here]] if it's not self explanatory.
 
 \*This is a work in progress of getting the new lore additions onto the site, and some information is deliberately left out due to containing spoilers ;)
 
