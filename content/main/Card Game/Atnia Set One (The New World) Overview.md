@@ -1,5 +1,5 @@
 ---
-title: Atnia Set 1 (The New World) Overview
+title: Atnia Set One (The New World) Overview
 tags: 
 aliases:
 ---
