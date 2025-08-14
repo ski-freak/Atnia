@@ -93,6 +93,7 @@ Ancient relics hold untold power.
 
 
 ### Aggressive Burn
+The second major aggro deck. Often uses Arca cards!
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flame%20Oracle.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Alliance%20Pyromancer.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight%20of%20the%20Torch.png) |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
