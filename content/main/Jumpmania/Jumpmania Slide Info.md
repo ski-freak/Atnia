@@ -3,12 +3,14 @@ title: Jumpmania Slide Info
 tags: 
 aliases:
 ---
-Details on sliding in jumpmania.
+### Details on sliding in jumpmania.
 
 The slide has two main functions:
 - Stick to walls/ceilings
 - Maintain your momentum
-The slide also has less friction than drifting to the side in the air.
+	- The slide has less friction than moving in the air and much less than moving on the ground.
+
+There is no need to release the slide button between slides unless you deliberately want to be running on the ground instead of sliding, as the slide has zero effect on air movement.
 
 When you start a slide, all of your velocity *parallel* to the slide direction (based on the surface you are sliding on) is maintained. Any velocity not parallel to the slide direction is ignored and discarded. If you are *already sliding* and reach a slope in your path, as long as the change in angle is 45 degrees or less, you will maintain 100% of your speed. 
 
