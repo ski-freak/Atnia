@@ -14,7 +14,8 @@ There is no need to release the slide button between slides unless you deliberat
 
 When you start a slide, all of your velocity *parallel* to the slide direction (based on the surface you are sliding on) is maintained. Any velocity not parallel to the slide direction is ignored and discarded. If you are *already sliding* and reach a slope in your path, as long as the change in angle is 45 degrees or less, you will maintain 100% of your speed. 
 
-*Example from tutorial level.*
+*Example from tutorial level:*
+
 ![[Pasted image 20251117214901.png|500]]
 
 In addition to this, the slide applies a small speed boost, calculated by:
@@ -23,5 +24,6 @@ In addition to this, the slide applies a small speed boost, calculated by:
 
 So to go fast with sliding, you need to optimize the number of slides you start, and reducing time spent in the air. The main way to start additional slides without dashing is jumping, for example you are sliding across flat ground, are about to reach a 45 degree slope, you can jump onto that slope instead of sliding into it, and you will receive the multiplier. If you are going fast enough, this multiplier will overcome any speed lost from being in the air and not receiving 100% speed preservation due to slamming into the slope.
 
-*Example from tutorial level.*
+*Example from tutorial level:*
+
 ![[Pasted image 20251117215022.png|500]]
