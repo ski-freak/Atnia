@@ -26,6 +26,7 @@ So to go fast with sliding, you need to optimize:
 - The speed you carry into the slides.
 - The number of slides you start.
 - Reducing time spent in the air.
+
 The main way to start additional slides without dashing is jumping, for example you are sliding across flat ground, are about to reach a 45 degree slope, you can jump onto that slope instead of sliding into it, and you will receive the multiplier. If you are going fast enough, this multiplier will overcome any speed lost from being in the air and not receiving 100% speed preservation due to slamming into the slope.
 
 *Example of jumping to start an additional slide, from tutorial level:*
