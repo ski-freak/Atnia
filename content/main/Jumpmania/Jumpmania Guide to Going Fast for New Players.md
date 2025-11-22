@@ -63,3 +63,5 @@ Dashing into slides is mostly useful when moving upwards or along the ceiling, a
 
 # Example!
 This [run](https://youtu.be/Lg8edetepqw) by Rellort on the tutorial level demonstrates almost all of the techniques described here and in the slide info page. With the knowledge you gained here, you should be able to understand what is going on in the video! Still, it is rather quick in real time, so you may want to try slowing down the speed of the video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lg8edetepqw?si=T2Z2P0aRl4Jcqn0x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
