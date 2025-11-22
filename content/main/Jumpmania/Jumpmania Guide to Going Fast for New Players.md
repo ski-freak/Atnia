@@ -1,5 +1,5 @@
 ---
-title: Jumpmania Intermediate Guide
+title: Jumpmania Guide to Going Fast for New Players
 tags: 
 aliases:
 ---
@@ -11,6 +11,8 @@ In general you want to be taking the shortest path, and having the highest avera
 This in large part comes down to the exact route you take through a level. It will usually require a combination of experimentation, trial and error, and viewing other people's runs, to come to a conclusion on what path you would like to take.
 
 Once you have decided on your routing, taking the shortest path usually involves doing inputs at the earliest possible moment rather than delaying them. For example, if you would like to dash from point A to point B, as soon as you reach a position where you will reach point B from dashing, you want to push the dash button. Delaying the button press beyond that is often simply wasting time.
+
+Often it will be possible to pass an obstacle with multiple different dash directions. Choosing the direction which allows you to push the dash button earliest will usually result in the fastest line.
 
 ## How to start moving fast
 Running around on the ground is slow, and unless you carry speed into the air, floating around in the air is also slow. The easiest solution to this and quickest way to begin moving quickly is to spam the dash. There are ways to maintain or build upon the base dash speed, but many of them begin with dashing.
@@ -24,6 +26,9 @@ Please note that if you jump at the same time as you push the dash button, you w
 
 #### Dash -> Walljump
 This functions very similarly to the Dash -> Jump technique, except instead of jumping on the ground, you dash upwards (or up diagonal) and jump off of a wall. This can be useful for quickly moving vertically. When doing this, do not do a climbjump, because if you do your upward velocity will be reset/slowed.
+
+#### Fastfall
+If you need to reach the ground to continue moving through the level, you're going to want to be fastfalling. Simply hold down (or down diagonal) while falling, and you will fall quicker. Be sure to still reach the platform you are intending to land on though!
 
 ## Jump timing
 Often you will have to wait to land before you can continue through a level. When this is the case, you need to optimize landing as early as possible. The easiest way to do this is to do shorthops instead of full jumps, timing your release of the jump button to barely make it over the ledge you are jumping onto.
