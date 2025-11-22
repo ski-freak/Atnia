@@ -7,14 +7,14 @@ This guide will give a basic overview on techniques for getting fast times in th
 
 In general you want to be taking the shortest path, and having the highest average speed over the course of that path. 
 
-## Taking the shortest path
+# Taking the shortest path
 This in large part comes down to the exact route you take through a level. It will usually require a combination of experimentation, trial and error, and viewing other people's runs, to come to a conclusion on what path you would like to take.
 
 Once you have decided on your routing, taking the shortest path usually involves doing inputs at the earliest possible moment rather than delaying them. For example, if you would like to dash from point A to point B, as soon as you reach a position where you will reach point B from dashing, you want to push the dash button. Delaying the button press beyond that is often simply wasting time.
 
 Often it will be possible to pass an obstacle with multiple different dash directions. Choosing the direction which allows you to push the dash button earliest will usually result in the fastest line.
 
-## How to start moving fast
+# How to start moving fast
 Running around on the ground is slow, and unless you carry speed into the air, floating around in the air is also slow. The easiest solution to this and quickest way to begin moving quickly is to spam the dash. There are ways to maintain or build upon the base dash speed, but many of them begin with dashing.
 
 As a rule of thumb, if you are moving at a speed slower than the base dash speed, and you have a dash to spare, you should push the dash button! This won't always be the fastest strategy, especially when moving vertically (often due to needing to optimize landings, as discussed later), but you want to get out of the habit of just running from point A to point B on flat ground, and even if you are sliding, if you are going at below the dash speed, you can just weave in a dash to quickly add to your velocity.
@@ -32,14 +32,14 @@ This functions very similarly to the Dash -> Jump technique, except instead of j
 #### Fastfall
 If you need to reach the ground to continue moving through the level, you're going to want to be fastfalling. Simply hold down (or down diagonal) while falling, and you will fall quicker. Be sure to still reach the platform you are intending to land on though!
 
-## Jump timing
+# Jump timing
 Often you will have to wait to land before you can continue through a level. When this is the case, you need to optimize landing as early as possible. The easiest way to do this is to do shorthops instead of full jumps, timing your release of the jump button to barely make it over the ledge you are jumping onto.
 
 When considering how to reach a platform higher than you, you want to choose the moves which allow you to land as early as possible. For example if dashing directly upwards puts you too high, you can try dashing diagonally or jumping instead.
 
 Climbjumps (as taught in the tutorial) can also be helpful here, as they allow you to get a small boost in height to get over a ledge that you are very close to. You can do shorthops with climbjumps the same as you can with other jumps, by releasing the jump button before reaching the top of your jump arc.
 
-## Sliding
+# Sliding
 To learn more about sliding, it is recommended to visit the [[Jumpmania Slide Speed Retention Info]] page. That page will help you with understanding how best to maintain speed while sliding. The remainder of this page will go over various techniques for using the slide in gameplay.
 
 > [!QUOTE]
