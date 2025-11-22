@@ -60,3 +60,6 @@ Canceling your dash into a slide is often slightly faster than cancelling it int
 The reason this can be faster than jumping immediately is that the slide has reduced friction compared to the air, and in fact as mentioned in [[Jumpmania Slide Speed Retention Info]], you actually accelerate for a short time when starting a slide on perfectly flat ground. In general this is not something you need to concern yourself with too much unless you care about saving a small amount of time, or are on a relatively long stretch of flat platforms (more than a few tiles).
 
 Dashing into slides is mostly useful when moving upwards or along the ceiling, as it allows you to quickly carry a large amount of speed into the slide.
+
+# Example!
+This [run](https://youtu.be/Lg8edetepqw) by Rellort on the tutorial level demonstrates almost all of the techniques described here and in the slide info page. With the knowledge you gained here, you should be able to understand what is going on in the video! Still, it is rather quick in real time, so you may want to try slowing down the speed of the video.
