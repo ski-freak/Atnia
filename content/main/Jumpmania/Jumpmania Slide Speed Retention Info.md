@@ -3,7 +3,7 @@ title: Jumpmania Slide Info
 tags: 
 aliases:
 ---
-### Details on sliding in jumpmania.
+### Details on how sliding in jumpmania preserves and doesn't preserve your velocity.
 
 The slide has two main functions:
 - Stick to walls/ceilings
@@ -21,6 +21,7 @@ When you start a slide, all of your velocity *parallel* to the slide direction (
 In addition to this, the slide applies a small speed boost, calculated by:
 - If you begin a slide while dashing, there is a minimum slide speed which is applied. If your speed parallel to the surface is greater than this, this boost is effectively ignored.
 - If you start a slide while *not* dashing, you instead receive a multiplier to your speed (or an addition of 80 speed if you are going slow enough that that is greater than the multiplier.) This multiplier ranges from 1.25 to 1.1, getting smaller as you go faster. It is at 1.25x at 600 speed or less (a bit faster than dashing), and linearly reduces until it reaches 1.1x at 2000 speed.
+- When you begin sliding on perfectly flat ground, you will receive a small boost of 30 speed delivered over the course of the first 0.3 seconds of the slide. Most of this speed is delivered near the end of this duration, so spamming the dash button to start a slide every few frames is not optimal relative to spacing out your button presses. 
 
 So to go fast with sliding, you need to optimize:
 - The speed you carry into the slides.
@@ -32,3 +33,4 @@ The main way to start additional slides without dashing is jumping, for example 
 *Example of jumping to start an additional slide, from tutorial level:*
 
 ![[Pasted image 20251117215022.png|500]]
+
