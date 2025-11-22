@@ -17,6 +17,8 @@ Often it will be possible to pass an obstacle with multiple different dash direc
 ## How to start moving fast
 Running around on the ground is slow, and unless you carry speed into the air, floating around in the air is also slow. The easiest solution to this and quickest way to begin moving quickly is to spam the dash. There are ways to maintain or build upon the base dash speed, but many of them begin with dashing.
 
+As a rule of thumb, if you are moving at a speed slower than the base dash speed, and you have a dash to spare, you should push the dash button!
+
 #### Dash -> Jump
 Spamming dash only works on flat ground, but there is a simple way to traverse gaps with similar pace. Pressing the dash and jump buttons at the same time, or dash followed by a jump before the end of the dash duration, will cancel the dash into a jump. This will cause you to do a jump while retaining the speed from the dash. Spamming this technique is the easiest way to improve upon slow runs.
 
