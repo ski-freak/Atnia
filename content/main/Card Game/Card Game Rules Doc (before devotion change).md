@@ -36,6 +36,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Horizon - Zone for cards & effects currently being played and not resolved yet.
 - Void - Zone used for some things.
 - Channel zone - Zone cards go after being channeled.
+- Location zone - Zone locations go to after being played.
 ---
 ## Parts of a Card
 - **Name**
@@ -56,17 +57,17 @@ During each round players will take turns taking actions (mainly playing cards!)
 
 ---
 ## Energy System
-This is the primary resource used to play cards. There is a single (numerical) energy pool for each player. The most common way to gain energy is through receiving energy at the start of each round from your locations (including the starting location, so you will generally have two energy on round one.) After a round, if a player had any unspent energy, they receive +1 energy in the following round. 
+There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round.
 
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
-- Location - Play up to one location per round. When you play a location it goes to the battlefield. While there, locations add devotion to each of their ideals based on their devotion stats.
-	- Starting Location - You begin the game with a single Atnia location in play.
+- Location - Used to gain devotion to an ideal. When you play a location it goes to the location zone. While there, locations add devotion to each of their ideals.
+	- Starting Location - A deck can have up to three starting locations. You may use multiple copies of the same starting location.
 
-Some cards will also have subtypes. Subtypes do not have any universal rules significance unless otherwise noted. 
+Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. 
 
 ---
 ## The 7 Ideals
@@ -111,23 +112,23 @@ Gods, Religion, Relics
 
 There is no hard gate on which cards you can include in your deck, you may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
 
-You can gain devotion to ideals primarily by playing locations.
+**There are three ways to gain devotion to ideals:** Channeling cards, playing location cards, and using your cards to explore (converting a card in hand to a location).
 
 ---
-## Channel Button
-Once per round, at slow infinite speed, you may push the channel button. This moves all cards from your hand to the channel zone face down. During the draw phase, before you draw your card for the round, put all your channeled cards on the bottom of your deck and draw that many cards.
+## Channel System
+All cards in hand can be channeled face up into the channel zone at ∞ speed. Channeling cards is primarily for increasing your ideal devotion to fulfill devotion requirements, and getting rid of cards you don't want, so you can replace them with new ones at the end of the round.
+- Each channeled card adds 1 to your devotion to each of it's ideals.
+- During the draw phase at the end of each round, your channeled cards will be recycled into your deck. Cards you channel are never lost permanently, only for the duration of the round. 
+- During the draw phase, you choose which of your channeled cards are put on the top of your deck and which are put onto the bottom, then draw a card for each card you had channeled +1.
 
 ---
 ## More Location Info and Exploration
 ### Locations
+Locations when played go to the location zone, and while there add devotion to each of their ideals. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone.
 
-Play up to one location per round. When you play a location it goes to the battlefield. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while on the battlefield.
-
-Locations do not count towards the board slot limit.
+The text on location cards defaults to being active when they are in the location zone instead of the battlefield. Locations do not unflip at round start, as they are not on the battlefield.
 ### Exploration
-Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which add 1 devotion to their ideal. When you have a wilderness location and play a location card (not other explorations), instead of playing it normally you may have it replace the wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
-
-Exploration is at burst speed.
+Exploration allows you to trade any card in your hand/channel zone for a single ideal location. To explore, (at infinite speed) put a card from either your hand or channel zone on the top or bottom of your deck to create in your location zone a Wilderness location of the ideal of your choice.
 
 ---
 ## Playing Cards & the horizon
@@ -165,7 +166,7 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player who did not ebd the previous round becomes the first/starting player (the player who passed first in double pass. This will be whoever didn't take the last non infinite speed action before the round ended (channeling and abilities marked on cards as infinite speed are the only infinite speed actions)).
+	1. If it is not the first round of the game, the player who did not ebd the previous round becomes the first/starting player (the player who passed first in double pass. This will be whoever didn't take the last non infinite speed action before the round ended (channeling, exploration, and abilities marked on cards as infinite speed are the only infinite speed actions)).
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
@@ -181,9 +182,10 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 	1. If an effect refers to round end, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 5. Draw Phase
-	1. Each player puts all their channeled cards on bottom of their deck in a random order.
-	2. Each player draws cards equal to 1+ the number of channeled cards they had.
-	3. Begin next round
+	1. The number of cards total in a player's hand, face up in their channel zone, + 1, (up to 10) becomes that player's maximum hand size for the round.
+	2. Each player puts all cards from their channel zone on the top and/or bottom of their deck in any order/combination (which cards go where is not revealed to other players, the quantity of cards put on top & bottom is.).
+	3. Players draw up to their maximum hand size.
+	4. Begin next round
 - Combat phase
 	- See "Combat"
 
@@ -209,7 +211,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, begins with their starting location(s) in play, and draws 5 cards. Then, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, begins with their starting locations flipped in the location zone, and draws 5 cards. Then, begin the first round of the game.
 
 ---
 ## Card Semantics
