@@ -24,7 +24,7 @@ The game takes place in Atnia, the setting of Ciaḃan's Tabletop RPG. A short b
 ## Shared Round
 During each round players will take turns taking actions (mainly playing cards!). Only one player is the active player at a time, and only the active player can take actions. These actions include:
 - Play a card or ability of a card - See "Playing Cards"
-- Take universal actions such as passing or attacking.
+- Take universal actions such as passing, channeling cards, or attacking.
 	- Pass - By passing, the other player becomes the active player.
 
 ---
@@ -35,6 +35,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Discard Pile - When cards are destroyed or discarded, they go here.
 - Horizon - Zone for cards & effects currently being played and not resolved yet.
 - Void - Zone used for some things.
+- Channel zone - Zone cards go after being channeled.
 ---
 ## Parts of a Card
 - **Name**
@@ -112,6 +113,9 @@ There is no hard gate on which cards you can include in your deck, you may inclu
 
 You can gain devotion to ideals primarily by playing locations.
 
+---
+## Channel Button
+Once per round, at slow infinite speed, you may push the channel button. This moves all cards from your hand to the channel zone face down. During the draw phase, before you draw your card for the round, put all your channeled cards on the bottom of your deck and draw that many cards.
 
 ---
 ## More Location Info and Exploration
@@ -131,7 +135,7 @@ The horizon gives you a chance to see what your opponent is doing and react to i
 
 To play a card, you must meet it's ideal devotion requirement and pay it's costs.
 
-When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once any player passes after doing nothing or only taking actions at infinite speed, all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom
+When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/abilities already there. Once any player passes after doing nothing or only taking actions at infinite speed (such as channeling cards), all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom
 
 When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, the discard pile if it is a spell, and the location zone if it is a location. When a card in battlefield or horizon is destroyed (such as by having no more health left), it is put into the discard pile. Damage only occurs to cards in the battlefield and horizon.
 
@@ -147,8 +151,8 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
 - If you play a burst speed card/action, it resolves immediately as you play it and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
 	- You cannot commit burst speed cards along with other cards on the horizon as they will resolve instantly. Imagine it as dragging a card from your hand onto the board in a video game and as soon as you let go of the mouse it resolves.
-- ∞ speed cards and effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
-	- ∞ speed is reserved mainly for triggered abilities on already played cards (effects that say 'whenever x happens, y happens' are assumed to be infinite speed unless otherwise stated).
+- ∞ speed cards and effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you play an infinite speed action such as channeling a card or have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
+	- ∞ speed is reserved mainly for channeling cards, exploring, and for triggered abilities on already played cards (effects that say 'whenever x happens, y happens' are assumed to be infinite speed unless otherwise stated).
 
 #### More info:
 - You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
@@ -161,23 +165,24 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player who was not the starting player in the previous round is the new starting player.
-	2. Each player gets 1 energy for each of their energy counters.
-	3. Each player unflips all cards on their battlefield that are flipped (except for cards with 'static').
-	4. Move to next phase
+	1. If it is not the first round of the game, the player who did not ebd the previous round becomes the first/starting player (the player who passed first in double pass. This will be whoever didn't take the last non infinite speed action before the round ended (channeling and abilities marked on cards as infinite speed are the only infinite speed actions)).
+	2. Each player gets 1 additional energy counter
+	3. Each player gets 1 energy for each of their energy counters.
+	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
+	5. Move to next phase
 2. Round Start
 	1. If an effect refers to round start, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 3. Main phase
 	1. The first player becomes the active player (unless otherwise specified).
-	2. When both players pass in a row after doing nothing or only taking actions at infinite speed, move to the next phase.
+	2. When both players pass in a row after doing nothing or only taking actions at infinite speed (such as channeling cards), move to the next phase.
 	- This is the primary phase where players actually play the game, along with combat which players can enter from the main phase.
 4. Round End
 	1. If an effect refers to round end, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 5. Draw Phase
-	1. Each player simultaneously chooses whether they would like to put the cards in their hand on the bottom of their deck (in a random order). 
-	2. Each player draws cards equal to 1+ the number of cards they just put on the bottom of their deck.
+	1. Each player puts all their channeled cards on bottom of their deck in a random order.
+	2. Each player draws cards equal to 1+ the number of channeled cards they had.
 	3. Begin next round
 - Combat phase
 	- See "Combat"
@@ -215,6 +220,15 @@ Here is some additional info:
 - The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it. 
 
 ---
+## Kinds of game objects
+- Card - Cards!
+- Ability - Effects created by cards
+	- Triggered ability - Occurs automatically when indicated by the card they are on. Is infinite speed unless otherwise noted.
+	- Skill - Ability of a card that is activated by the player similar to playing a card.
+- Universal Action - Actions such as passing, channeling cards, or entering combat, which are granted to players by the game rules rather than cards.
+- Player health / life total
+- 
+---
 ## Extra Notes
 - Damage dealt to cards in horizon/battlefield is permanent (until they leave). 
 	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage.
@@ -244,17 +258,6 @@ Here is some additional info:
 	- If multiple cards would enter a player's battlefield at once, they enter with the largest card on the left and smallest card on the right (determined by offense, tie broken by health, tie broken by base energy cost. After base energy cost is a tie, in paper players decide the order, and online it goes by alphabetical order of card name (earlier in the alphabet on the left))
 - If multiple effects that require targets to be chosen are put into the horizon simultaneously, targets must be chosen for the bottom most effect(s) first.
 - If multiple cards are in one board space (such as with weapons), the card on the bottom (the weapon) is assumed to be to the right of the card on top.
-
-
----
-## Kinds of things
-- Card - Cards!
-- Ability - Effects created by cards
-	- Triggered ability - Occurs automatically when indicated by the card they are on. Is infinite speed unless otherwise noted.
-	- Skill - Ability of a card that is activated by the player similar to playing a card.
-- Universal Action - Actions such as passing or entering combat, which are granted to players by the game rules rather than cards.
-- Player health / life total
-- 
 
 ## Info not relevant to set 1:
 
