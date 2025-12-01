@@ -121,7 +121,7 @@ Play up to one location per round. When you play a location it goes to the battl
 
 Locations do not count towards the board slot limit.
 ### Exploration
-Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which add 1 devotion to their ideal. When you have a wilderness location and play a location card (not other explorations), instead of playing it normally you may have it replace the wilderness location, returning the face down card to your hand (this costs an additional 1 energy and does not count as your 1 location for the round).
+Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which arrive flipped, have energize 1, and add 1 devotion to their ideal. When you have an unflipped wilderness location and play a location card (not other explorations), instead of playing it normally you may have it replace the wilderness location, returning the face down card to your hand (this costs an additional 1 energy and does not count as your 1 location for the round).
 
 Exploration is at burst speed.
 
