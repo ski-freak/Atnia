@@ -247,6 +247,13 @@ Here is some additional info:
 
 
 ---
+# Drafting (for cube drafters)
+You can do this similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. We currently recommend 4 packs of 15 cards, burning the last 5 cards of each pack.
+
+Currently it is recommended to use the core duals as basics, disregarding the single ideal core locations as this reduces the number of cards required to be printed. If you print the files from the google drive, this what is provided will align with this advice unless we found a way to make it work with fewer prints.
+
+
+---
 
 
 Ideals short version:
