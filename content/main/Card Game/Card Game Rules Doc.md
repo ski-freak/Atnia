@@ -5,13 +5,12 @@ tags:
 ---
 # Atnia Card Game Rules Document
 
-- If you have not seen it, watch the [Atnia announcement video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
+- If you have not seen it, consider checking out the [Atnia announcement video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
 - This information / rules document is a work in progress
-- This [Google Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=289416360#gid=289416360) displays all of the cards.
+- This [Cubecobra page](https://cubecobra.com/cube/list/Atnia?view=spoiler) displays all of the cards (if they do not load, refresh).
 - Join the [Discord](https://discord.gg/xTdT2DpEwB) :)
 - [Dictionary for words on cards](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253)
-- This [[Links you may need while playing the card game]] page exists.
-- Guide to set 1: [[Atnia Set One (The New World) Overview]]
+- Small overview of set 1: [[Atnia Set One (The New World) Overview]]
 
 This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft . For draft we intend on making a draft format for 2 players as well as provide a set of cards for traditional 8 player drafting. The game rules and cards are being designed to work both in paper and as a video game.
 
@@ -114,16 +113,17 @@ You can gain devotion to ideals primarily by playing locations.
 
 
 ---
-## More Location Info and Exploration
+## Location Info
 ### Locations
 
 Play up to one location per round. When you play a location it goes to the battlefield. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while on the battlefield.
-
-Locations do not count towards the board slot limit.
 ### Exploration
-Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which arrive flipped, have energize 1, and add 1 devotion to their ideal. When you have an unflipped wilderness location and play a location card (not other explorations), instead of playing it normally you may have it replace the wilderness location, returning the face down card to your hand (this costs an additional 1 energy and does not count as your 1 location for the round).
+Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which have energize 1, and add 1 devotion to their ideal. On a future round, when you play a location card, instead of playing it normally you may pay an additional 1 energy and have it replace the wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
 
 Exploration is at burst speed.
+
+### Extra Draw
+At the start of the game put the top 3 cards of your deck face down (store them under your Atnia starting location for ease of tracking). When you play or explore for a location (not replacing an existing wilderness), draw the topmost stored card.
 
 ---
 ## Playing Cards & the horizon
@@ -204,12 +204,11 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, begins with their starting location(s) in play, and draws 5 cards. Then, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, begins with their starting location(s) in play, stores the top 3 cards of their deck (see Locations > Extra Draw), and draws 6 cards. Then, begin the first round of the game.
 
 ---
 ## Card Semantics
 See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
-
 
 Here is some additional info:
 - The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it. 
@@ -219,11 +218,6 @@ Here is some additional info:
 - Damage dealt to cards in horizon/battlefield is permanent (until they leave). 
 	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage.
 - Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
-- The battlefield zone has a limit of 16 cards. Locations are in the location zone and do not count towards this limit.
-	- This is mainly to not have to handle an indefinite number of cards online, the exact number can change a bit. (Current plan is to have the cards shrink on the board once you go above 8 or something like that)
-	- Online, locations can stack up on top over each other in a corner of the board or something, and not count towards the main board limit.
-	- If a card would enter a full board, the player should be prompted to choose a board slot / card on the board to replace (in which case the old card and any weapons on the board space are discarded as the new card arrives), or allow the new card to be discarded instead.
-		- There is not a clear answer for how the exact timing of this should work, and if the board is full whether the new card should enter and then be discarded or simply never enter in the first place. 
 - If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur.
 - Unless an ability says 'you may', you must do it.
 - If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
