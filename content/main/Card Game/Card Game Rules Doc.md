@@ -118,7 +118,7 @@ You can gain devotion to ideals primarily by playing locations.
 
 Play up to one location per round. When you play a location it goes to the battlefield. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while on the battlefield.
 ### Exploration
-Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which have energize 1, and add 1 devotion to their ideal. On a future round, when you play a location card, instead of playing it normally you may pay an additional 1 energy and have it replace the wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
+Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which have energize 1, and add 1 devotion to their ideal. When you play a location card, instead of playing it normally you may pay an additional 1 energy and have it replace an allied unflipped wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
 
 Exploration is at burst speed.
 
