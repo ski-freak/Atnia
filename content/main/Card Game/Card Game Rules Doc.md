@@ -216,13 +216,14 @@ Here is some additional info:
 ---
 ## Extra Notes
 - Damage dealt to cards in horizon/battlefield is permanent (until they leave). 
-	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage.
+	- In paper, please track unit health by leaving undamaged units without any dice, and using dice to track the *total remaining health* once a unit's remaining health is no longer equal to the number on the corner of the card.
+	- Health is persistent as a card moves from the horizon to the battlefield.
+	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage. There should not be many/any temporary health buffs for ease of tracking.
 - Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
-- If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur.
-- Unless an ability says 'you may', you must do it.
+- If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur. Eg no 'fizzling'.
 - If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
 	- If y cannot or won't happen, x also won't happen?
-- If a card is given a health buff and then that buff goes away, the buffed health also leaves (it takes that much damage). If a card is given a health debuff and the debuff leaves, the card is granted that health as it leaves. These rules apply if a single buff changes over time, and also apply to weapons.
+- Unless an ability says 'you may', you must do it.
 
 ### Advanced notes on timing rules and the horizon:
 - If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
