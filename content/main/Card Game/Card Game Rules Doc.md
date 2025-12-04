@@ -62,7 +62,7 @@ This is the primary resource used to play cards. There is a single (numerical) e
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
 - Location - Play up to one location per round. When you play a location it goes to the battlefield. While there, locations add devotion to each of their ideals based on their devotion stats.
-	- Starting Location - You begin the game with a single Atnia location in play.
+	- Starting Location - You begin the game with a single Atnia location in play. 
 
 Some cards will also have subtypes. Subtypes do not have any universal rules significance unless otherwise noted. 
 
@@ -118,9 +118,9 @@ You can gain devotion to ideals primarily by playing locations.
 
 Play up to one location per round. When you play a location it goes to the battlefield. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while on the battlefield.
 ### Exploration
-Exploration allows you to play any card in your hand face down as any wilderness location. Wilderness locations are single ideal locations which have energize 1, and add 1 devotion to their ideal. When you play a location card, instead of playing it normally you may pay an additional 1 energy and have it replace an allied unflipped wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
+Exploration allows you to play any card in your hand face down (at burst speed) as any wilderness location. Wilderness locations are single ideal locations which have energize 1, and add 1 devotion to their ideal. When you play a location card, instead of playing it normally you may pay an additional 1 energy and have it replace an allied unflipped wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
 
-Exploration is at burst speed.
+When you explore, grab one of the provided wilderness location cards and place it on top of your explored card to represent which location it is.
 
 ### Extra Draw
 At the start of the game put the top 3 cards of your deck face down (store them under your Atnia starting location for ease of tracking). When you play or explore for a location (not replacing an existing wilderness), draw the topmost stored card.
@@ -222,8 +222,8 @@ Here is some additional info:
 - Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
 - If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur. Eg no 'fizzling'.
 - If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
-	- If y cannot or won't happen, x also won't happen?
 - Unless an ability says 'you may', you must do it.
+- The starting location is not treated as a 'created card' as described in the keyword dictionary. Just like any other non created card it can be returned to your hand, shuffled into your deck, stay in your discard pile, etc.
 
 ### Advanced notes on timing rules and the horizon:
 - If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
