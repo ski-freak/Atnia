@@ -224,6 +224,10 @@ Here is some additional info:
 - If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
 - Unless an ability says 'you may', you must do it.
 - The starting location is not treated as a 'created card' as described in the keyword dictionary. Just like any other non created card it can be returned to your hand, shuffled into your deck, stay in your discard pile, etc.
+- Locations do not have a health or offense stat. They cannot be dealt damage, granted/given health or offense, etc.
+	- If a card has no health stat, it can be targeted if it is otherwise a legal target, but dealing damage to it won't do anything.
+	- Cards with a null health stat do not count as having 0 health for the purposes of for example checking if they have 2 health or less (the answer would be no, it doesn't have 2 or less health).
+	- Items and spells do not have an offense stat. The same rules about null stats apply here as well.
 
 ### Advanced notes on timing rules and the horizon:
 - If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
