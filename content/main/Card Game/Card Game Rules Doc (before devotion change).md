@@ -56,10 +56,6 @@ During each round players will take turns taking actions (mainly playing cards!)
 *Icons from https://game-icons.net/
 
 ---
-## Energy System
-There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round.
-
----
 ## Card Types
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items can have different subtypes that give them unique effects
@@ -68,6 +64,10 @@ There is a single (numerical) energy pool for each player. Players begin the gam
 	- Starting Location - A deck can have up to three starting locations. You may use multiple copies of the same starting location.
 
 Some cards will also have subtypes. Substyles do not have any universal rules significance unless otherwise noted. 
+
+---
+## Energy System
+There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round.
 
 ---
 ## The 7 Ideals
@@ -166,7 +166,7 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 ## Round Phases
 1. Pre round
-	1. If it is not the first round of the game, the player who did not ebd the previous round becomes the first/starting player (the player who passed first in double pass. This will be whoever didn't take the last non infinite speed action before the round ended (channeling, exploration, and abilities marked on cards as infinite speed are the only infinite speed actions)).
+	1. If it is not the first round of the game, the player who did not end the previous round becomes the first/starting player (the player who passed first in the double pass. This will be whoever didn't take the last non infinite speed action before the round ended (channeling, exploration, and abilities marked on cards as infinite speed are the only infinite speed actions)).
 	2. Each player gets 1 additional energy counter
 	3. Each player gets 1 energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield that are flipped (locations do not unflip at round start).
@@ -203,7 +203,7 @@ Combat phase outline:
 3. The attacking player becomes active, and players may play cards/pass as normal. After a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
 4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player. 
 Notes:
-- You may attack up to three times per round.
+- You may attack up to two times per round.
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - Blocking is done in step 2, and cannot be done later. You can only block with a unit put into play after blockers are declared if that unit has 'guardian'
