@@ -30,6 +30,7 @@ After one player finishes playing a card or taking an action, the other player b
 
 ---
 ## Zones
+There are multiple zones of play in which cards can be.
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Battlefield - The main playing area / board. All unit and item cards that are currently in play live here.
@@ -39,6 +40,7 @@ After one player finishes playing a card or taking an action, the other player b
 - Void - Zone used for some things. Occasionally cards get put here.
 ---
 ## Parts of a Card
+These are all of the things which appear on cards.
 - **Name**
 - **Energy Cost** - To play a card, you must pay energy equal to it's energy cost.
 - **Devotion Requirement** - See "ideals"
@@ -59,6 +61,7 @@ After one player finishes playing a card or taking an action, the other player b
 
 ---
 ## Card Types
+There are multiple types of cards in the game, and each of them operate differently.
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items (like units) stay on the battlefield, however, they do not have an offense stat and cannot attack or block.
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
@@ -146,14 +149,14 @@ When a card is played, it goes to the horizon. When it resolves, it goes to batt
 - Since new cards are placed onto the horizon above cards already there, when the horizon cards resolve, cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time.
 ---
 ## Speed
-The speed of a card is indicated in the top left in italicized text. Below is the full list of different speeds and what they mean.
+The speed of a card is indicated in the top left in italicized text. It determines when you can play your cards, and which cards you can react to your opponent playing. Below is the full list of different speeds and what they mean.
 
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
 - Burst speed - If you play a burst speed card/action, it resolves immediately as you play it and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
 
 ### Playing Multiple Cards at Once
-You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
+If you want to play more than one card at a time, you may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
 - When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, as slow speed cards cannot be played when there are other cards on the horizon).
 - When committing multiple cards at once, cards committed lower on the horizon are legal targets for cards committed higher on the horizon (but not vice-versa).
 - If you would like to guarantee putting multiple cards onto the horizon, commit them all at once, because once you commit your cards, if your opponent chooses not to react, all cards on the horizon will resolve.
@@ -166,6 +169,7 @@ Some cards will have abilities such as 'whenever X do Y'. These operate at infin
 ---
 
 ## Round Phases
+The round is broken up into a number of sequential phases.
 1. Pre round
 	1. If it is not the first round of the game, the player who did not end the previous round becomes the first/starting player (the player who passed first in the double pass will go first in the following round). TLDR if you were the last person to attack or play a card or something, you're going second.
 		- Worded differently, if you took the last action before the round ended, you will go second in the following round.
@@ -273,34 +277,25 @@ Here is some additional info:
 
 ---
 # Drafting (for cube drafters)
-You can do this similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. We currently recommend 4 packs of 15 cards, burning the last 4 cards of each pack. After drafting, create a 40 card deck from your pool.
+You can draft this game similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. For 8 players, we currently recommend 4 packs of 15 cards, burning the last 4 cards of each pack. After drafting, create a 40 card deck from your pool.
 
 The dual ideal Core locations are provided as basics, and after drafting you may add as many of them as you wish to your deck.
 
+### Strategy
 The best strategy for what locations to play is not entirely set in stone, but for a recommended starting point:
 - For single ideal decks, you will want to play zero core locations and explore for all of your locations, and/or play locations you drafted.
 - For decks with more than one ideal, you can use 20% core locations as a starting point. However, an optimal density has not been determined and your devotion requirements impact how many you want to play. You may want to play a few more locations in decks with 3+ ideals.
 
-Most draft decks have two or three different ideals. It is very difficult to draft only cards of a single ideal, and going 4+ comes at a heavy cost to efficiency/consistency.
+Most draft decks have two or three different ideals. It is very difficult to only draft cards of a single ideal, and going 4+ comes at a heavy cost to efficiency/consistency.
 
+### Draft Logistics
+- The number of cards in set 1 is slightly greater than `15*4*8`, so you may have a few cards left over after creating packs.
+- Players should be provided with the keyword dictionary before/during drafting so they know what the cards do, and/or just have some people who know what the keywords are so people can ask and answer verbally.
+- In addition to the Core locations, also provided in the print sheet are token cards created by other cards, and cheat sheet / helper cards which should be handed out to each player.
 
-You can use an alternative drafting setup from the recommended one above if you would like to play with a number of players where it doesn't work well for some reason. However, if you do, keep in mind that players will need to see more cards to produce decks that are equal in functionality to a traditional cube draft as there are 7 ideals. 
+### Other Draft Methods
+You can use an alternative drafting setup from the recommended one above if you would like to play with a number of players, where these packs don't work well for some reason. If you do this, keep in mind that players will need to see more cards to produce decks that are equal in functionality to a traditional cube draft, as there are 7 ideals. In particular, later picks are far more likely to contain useless cards not in any of your ideals, which is why the recommended draft format has you discarding the last 4 cards of each pack.
 
 ---
 
 
-Ideals short version:
-### Arca 
-Chaos, The Rift, Change
-### Eminus
-Reputation, Law, Trust
-### Materia
-Physical Resources, Alchemy, the Untamed Wilderness
-### Epoca
-History, Ancient Secrets, Past Civilizations
-### Zelor
-Passion, Emotion, Storytelling
-### Talentus
-Martial Arts, Armies, Skill & Craftsmanship
-### Deitas
-Gods, Religion, Relics
