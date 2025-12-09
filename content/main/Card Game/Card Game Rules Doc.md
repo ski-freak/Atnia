@@ -26,6 +26,8 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Take universal actions such as passing or attacking.
 	- Pass - By passing, the other player becomes the active player.
 
+After one player finishes playing a card or taking an action, the other player becomes the active player. This repeats until both players choose to do nothing, at which point the round ends and you move onto the next one.
+
 ---
 ## Zones
 - Deck - Your deck of cards.
