@@ -291,7 +291,8 @@ Most draft decks have two or three different ideals. It is very difficult to onl
 ### Draft Logistics
 - The number of cards in set 1 is slightly greater than `15*4*8`, so you may have a few cards left over after creating packs.
 - Players should be provided with the keyword dictionary before/during drafting so they know what the cards do, and/or just have some people who know what the keywords are so people can ask and answer verbally.
-- In addition to the Core locations, also provided in the print sheet are token cards created by other cards, and cheat sheet / helper cards which should be handed out to each player.
+- In addition to the Core locations, also provided in the print sheet are the Wilderness locations, token cards created by other cards, and cheat sheet / helper cards which should be handed out to each player. Store these each separately.
+	- After drafting, players will want to take Core locations to add to their deck, the tokens they need for their deck, a single copy of the cheat sheet cards, and about 3 of each of their relevant Wilderness locations.
 
 ### Other Draft Methods
 You can use an alternative drafting setup from the recommended one above if you would like to play with a number of players, where these packs don't work well for some reason. If you do this, keep in mind that players will need to see more cards to produce decks that are equal in functionality to a traditional cube draft, as there are 7 ideals. In particular, later picks are far more likely to contain useless cards not in any of your ideals, which is why the recommended draft format has you discarding the last 4 cards of each pack.
