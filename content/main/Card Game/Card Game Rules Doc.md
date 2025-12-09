@@ -233,7 +233,9 @@ There are no mulligans.
 See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
 
 Here is some additional info:
-- The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it. 
+- The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
+	- Each the zone icons simply refer to one of the zones in the Zones section of this rulebook, and a cheat sheet for all icons including the zone icons can be found above.
+	- If multiple zone icons are listed in a row, read it as 'this zone or that zone'
 
 ---
 ## Extra Notes
