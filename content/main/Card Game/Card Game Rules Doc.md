@@ -284,7 +284,7 @@ The dual ideal Core locations are provided as basics, and after drafting you may
 ### Strategy
 The best strategy for what locations to play is not entirely set in stone, but for a recommended starting point:
 - For single ideal decks, you will want to play zero core locations and explore for all of your locations, and/or play locations you drafted.
-- For decks with more than one ideal, you can use 20% core locations as a starting point. However, an optimal density has not been determined and your devotion requirements impact how many you want to play. You may want to play a few more locations in decks with 3+ ideals.
+- For decks with two ideals, you can use 20-25% of your deck being core locations as a starting point. However, an optimal density has not been determined and your devotion requirements impact how many you want to play. You may want to play a few more locations in decks with 3+ ideals.
 
 Most draft decks have two or three different ideals. It is very difficult to only draft cards of a single ideal, and going 4+ comes at a heavy cost to efficiency/consistency.
 
