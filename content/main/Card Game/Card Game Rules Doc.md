@@ -277,7 +277,7 @@ Here is some additional info:
 
 ---
 # Drafting (for cube drafters)
-You can draft this game similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. For 8 players, we currently recommend 4 packs of 15 cards, burning the last 4 cards of each pack. After drafting, create a 40 card deck from your pool.
+You can draft this game similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. For 8 players, we currently recommend 4 packs of 15 cards, burning the final 4 cards of each pack (aka skip the last 4 picks of each pack). After drafting, create a 40 card deck from your pool.
 
 The dual ideal Core locations are provided as basics, and after drafting you may add as many of them as you wish to your deck.
 
