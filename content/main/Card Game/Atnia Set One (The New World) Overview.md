@@ -52,7 +52,6 @@ The Burning Plain contains many dangers; warring factions, undead soldiers, and 
 
 
 ## Cache
-
 The Fifth Legion manages the distribution and storage of supplies for much of eastern Atnia. This is integral for keeping the army fed and local villages safe from the horrors of the burning plain. Cached are stored for later, able to be played the round you cache them and the next, and afterwards are discarded. 
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Trade%20Insight.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lesser%20War%20Demon.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion%20Quartermaster.png) |
@@ -63,7 +62,6 @@ The Fifth Legion manages the distribution and storage of supplies for much of ea
 Drawing from ancient magics & past civilizations. While also very magical, it is in many ways the opposite of Arca, as it represents a romanticization of the past and opposition to the chaotic new world. Strongly connected to the coins/currency of the old Atnian kingdom.
 
 ## Interaction
-
 Destroy cards as they are being played, and temporarily stall your opponent's units.
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Counter.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Storm%20Rune.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Annul.png) |
@@ -89,18 +87,20 @@ Ancient relics hold untold power.
 One who values Zelor may join you if they truly believe in your cause or you give a rousing speech. Zelor magic draws from your own passions and emotions.
 
 ## Interaction
+Deal direct damage to cards on the battlefield and players, and force your opponent to discard cards from their hand.
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fireball.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sorvald's%20Ignition.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Amnesia.png) |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 
 
 ## Aggressive Burn
-The second major aggro deck. Often uses Arca cards!
+The second major aggro deck. Often uses Arca cards for even more direct damage effects!
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flame%20Oracle.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Alliance%20Pyromancer.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight%20of%20the%20Torch.png) |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Potency
+Potency increases all of the unbracketed numbers on your cards. Insert chart with upward trend emoji.
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Chanter.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Call%20to%20Arms.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Initiate.png) |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -121,7 +121,7 @@ Resources people need and desire in the new world. While the other ideals are la
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 
 ## Potential
-
+Potential is a resource which some cards will give you and other cards will use up. Even if you lack a dedicated way to leverage your potential, three potential can always be spent as though it is one energy.
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Logistics%20Expert.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fortress%20Automaton.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lifeless%20Walker.png) |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
@@ -183,7 +183,7 @@ Control can work in most ideals, just include in your deck a mix of removal for 
 
 ## Reanimation
 
-The Deitas reanimation cards can be combined with the Arca discard cards to put big cards into play!
+The Deitas reanimation cards can be combined with the Arca discard cards to put large units into play. Such as the famed Largeius the Big (he's large).
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reawaken%20in%20Dream.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Myrkur%20Phantom.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Largeius%20the%20Big.png) |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |

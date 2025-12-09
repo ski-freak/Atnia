@@ -9,10 +9,10 @@ tags:
 - This information / rules document is a work in progress
 - This [Cubecobra page](https://cubecobra.com/cube/list/Atnia?view=spoiler) displays all of the cards (if they do not load, refresh).
 - Join the [Discord](https://discord.gg/xTdT2DpEwB) :)
-- [Dictionary for words on cards](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253)
-- Small overview of set 1: [[Atnia Set One (The New World) Overview]]
+- [Dictionary for words on cards](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) 
+- Small overview of set 1 themes: [[Atnia Set One (The New World) Overview]]
 
-This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft . For draft we intend on making a draft format for 2 players as well as provide a set of cards for traditional 8 player drafting. The game rules and cards are being designed to work both in paper and as a video game.
+This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft, and an early version of the first set (The New World) will be available for drafting very soon! The game rules and cards are being designed to work both in paper and as a video game.
 
 You begin the game at 20 life and win the game by reducing your opponent's life total to 0. You will do this by attacking your opponent with your units, and using powerful spells and items.
 
@@ -58,16 +58,19 @@ During each round players will take turns taking actions (mainly playing cards!)
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items can have different subtypes that give them unique effects
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
-- Location - Play up to one location per round. When you play a location it goes to the battlefield. While there, locations add devotion to each of their ideals based on their devotion stats. Locations don't unflip at round start.
+- Location - Play up to one location per round. Locations add devotion to each of their ideals based on their devotion stats. Locations don't unflip at round start.
 
 Some cards will also have subtypes. Subtypes do not have any universal rules significance unless otherwise noted. 
 
 ---
-## Energy System
-There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round.
+## Resources
+The resources for playing cards are split into two separate systems: Energy, and Devotion. Energy functions similarly to Hearthstone mana, and devotion requirements demand that you play locations to reach a certain devotion threshold to be able to play your cards.
+
+### Energy System
+There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round (so this can put you up to a true maximum of 11).
 
 ---
-## The 7 Ideals
+### The 7 Ideals
 Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals each represent a wide swath of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
 
 The ideals are:
@@ -109,18 +112,17 @@ Gods, Religion, Relics
 
 There is no hard gate on which cards you can include in your deck, you may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
 
-You gain devotion to ideals primarily by playing locations.
-
-
 ---
-## Locations
 ### Locations
-
+You gain devotion to ideals primarily by playing locations.
+#### Locations
 Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unflip at round start.
-### Exploration
-Exploration allows you to play any card in your hand face down (at burst speed) as any wilderness location. Wilderness locations are single ideal locations which add 1 devotion to their ideal. When you play a location card, instead of playing it normally you may have it replace an allied unflipped wilderness location, returning the face down card to your hand (this does not count as your 1 location for the round).
 
-When you explore, grab one of the provided Wilderness location cards and place it on top of your explored card to represent which location it is.
+The most basic locations are the Core locations, which you can include any number of in your deck. These are dual ideal locations with a single use 'deplete' ability to draw a card for 1 energy.
+#### Exploration
+At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick any of the seven Wilderness locations. 
+
+Notably, even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
 
 ---
 ## Playing Cards & the Horizon
@@ -163,7 +165,7 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 		- Worded differently, if you took the last non-infinite speed action before the round ended (triggered abilities are the main infinite speed thing, almost everything else including attacking will prolong the round and count for this), you will go second in the following round.
 	2. Each player gets one additional energy counter
 	3. Each player gets one energy for each of their energy counters.
-	4. Each player unflips all cards on their battlefield except for locations.
+	4. Each player unflips all cards on their battlefield.
 	5. Move to next phase
 2. Round Start
 	1. If an effect refers to round start, it happens here.
@@ -179,10 +181,14 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 	1. Each player simultaneously chooses whether they would like to put the cards in their hand on the bottom of their deck (in a random order). 
 	2. Each player draws cards equal to 1+ the number of cards they just put on the bottom of their deck.
 	3. Begin next round
+
 - Combat phase
 	- See "Combat"
 
 If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards), however, If a fast or slow speed card/effect is somehow put onto the horizon anyway, the player who does not control it becomes the active player. 
+
+#### Draw phase notes:
+To do the simultaneous decision making, you can give each player two cards (one for keeping their hand one for not), each player picks a card and places it face down, then players turn over their cards at the same time.
 
 ---
 ## Combat
@@ -207,6 +213,8 @@ Notes:
 ---
 ## Starting the game
 To start the game, randomly determine the first player. Each player shuffles their deck and draws 6 cards. Then, begin the first round of the game.
+
+There are no mulligans.
 
 ---
 ## Card Semantics
@@ -251,10 +259,16 @@ Here is some additional info:
 
 ---
 # Drafting (for cube drafters)
-You can do this similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. We currently recommend 4 packs of 15 cards, burning the last 4 cards of each pack.
+You can do this similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. We currently recommend 4 packs of 15 cards, burning the last 4 cards of each pack. After drafting, create a 40 card deck from your pool.
 
-Currently it is recommended to use the core duals as basics, disregarding the single ideal core locations as this reduces the number of cards required to be printed. If you print the files from the google drive, this what is provided will align with this advice unless we found a way to make it work with fewer prints.
+The dual ideal Core locations are provided as basics, and after drafting you may add as many of them as you wish to your deck.
 
+The best strategy for what locations to play is not entirely set in stone, but for a recommended starting point:
+- For single ideal decks, you will want to play zero core locations and explore for all of your locations, and/or play locations you drafted.
+- For decks with more than one ideal, you can use 20% core locations as a starting point. However, an optimal density has not been determined and your devotion requirements impact how many you want to play. You may want to play a few more locations in decks with 3+ ideals.
+
+
+You can use an alternative drafting setup from the recommended one above if you would like to play with a number of players where it doesn't work well for some reason. However, if you do, keep in mind that players will need to see more cards to produce decks that are equal in functionality to a traditional cube draft as there are 7 ideals. 
 
 ---
 
@@ -266,11 +280,11 @@ Chaos, The Rift, Change
 Reputation, Law, Trust
 ### Materia
 Physical Resources, Alchemy, the Untamed Wilderness
-### Ancestra
+### Epoca
 History, Ancient Secrets, Past Civilizations
 ### Zelor
 Passion, Emotion, Storytelling
 ### Talentus
 Martial Arts, Armies, Skill & Craftsmanship
-### Ecclesia
+### Deitas
 Gods, Religion, Relics
