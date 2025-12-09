@@ -81,7 +81,7 @@ Most non-location cards have a devotion requirement, which requires you to have 
 #### Locations
 Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unflip at round start.
 
-The most basic locations are the Core locations, which you can include any number of in your deck. These are dual ideal locations with a single use 'deplete' ability to draw a card for 1 energy.
+The most basic locations are the Core locations, which you can include any number of in your deck.
 #### Exploration
 Exploration allows you to trade a card in your hand for a location.
 
@@ -279,7 +279,7 @@ Here is some additional info:
 # Drafting (for cube drafters)
 You can draft this game similar to a normal cube draft, however, due to there being 7 ideals, you will want to see more cards during the draft to avoid being stuck with too many unplayable picks. For 8 players, we currently recommend 4 packs of 15 cards, burning the final 4 cards of each pack (aka skip the last 4 picks of each pack). After drafting, create a 40 card deck from your pool.
 
-The dual ideal Core locations are provided as basics, and after drafting you may add as many of them as you wish to your deck.
+The Core locations are provided as basics, and after drafting you may add as many of them as you wish to your deck.
 
 ### Strategy
 The best strategy for what locations to play is not entirely set in stone, but for a recommended starting point:
