@@ -43,7 +43,9 @@ During each round players will take turns taking actions (mainly playing cards!)
 - **Type** - See "Card Types"
 - **Subtype** - See "Card Types"
 - **Speed** - See "Playing Cards"
-- **Offense/Health Stats** - See "Card Types" & "Playing Cards"
+- **Offense/Health Stats**
+	- When a card runs out of health, it is discarded. Damage only occurs to cards in the battlefield and horizon, and is permanent as long as the card remains in those zones.
+	- For details on offense, see the unit card type.
 - **Description / Rules Text** - Explains what a card does. See "Playing Cards"
 
 
@@ -56,7 +58,7 @@ During each round players will take turns taking actions (mainly playing cards!)
 ---
 ## Card Types
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
-- Item - Items can have different subtypes that give them unique effects
+- Item - Items (like units) stay on the battlefield, however, they do not have an offense stat and cannot attack or block.
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
 - Location - Play up to one location per round. Locations add devotion to each of their ideals based on their devotion stats. Locations don't unflip at round start.
 
@@ -64,14 +66,28 @@ Some cards will also have subtypes. Subtypes do not have any universal rules sig
 
 ---
 ## Resources
-The resources for playing cards are split into two separate systems: Energy, and Devotion. Energy functions similarly to Hearthstone mana, and devotion requirements demand that you play locations to reach a certain devotion threshold to be able to play your cards.
+The resources for playing cards are split into two separate systems: Energy, and Devotion. Energy recharges each round, and is spent to play cards. Devotion requirements demand that you play location cards to reach a certain devotion threshold to be able to play your cards.
 
 ### Energy System
-There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if a player had any unspent energy, they receive +1 energy in the following round (so this can put you up to a true maximum of 11).
+There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if you have any unspent energy, bank 1 energy for the following round (so this can put you up to a true maximum of 11).
+
+### Devotion
+Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
+#### Locations
+Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unflip at round start.
+
+The most basic locations are the Core locations, which you can include any number of in your deck. These are dual ideal locations with a single use 'deplete' ability to draw a card for 1 energy.
+#### Exploration
+Exploration allows you to trade a card in your hand for a location.
+
+At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick any of the seven Wilderness locations. 
+
+Note: Even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
+
 
 ---
-### The 7 Ideals
-Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. Each non-location card will have a devotion requirement, which will require you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. The ideals each represent a wide swath of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
+## The 7 Ideals
+Ideals are the main categorization of cards in the Atnia card game and affect which cards you will be able to play together in the same deck. The ideals each represent a wide swath of related concepts the people of Atnia value (and you can use to rally them to your side in battle), as well as different paradigms or ways of doing magic.
 
 The ideals are:
 #### Arca
@@ -110,31 +126,19 @@ Gods, Religion, Relics
 - Connection to and power of the gods. Since the apocalypse, Atnia's connection to the gods has been severed, but those who still worship them draw power from relics left behind after the fall, still infused with the power of the gods.
 - Clerics, priests, those who value religion or the gods.
 
-There is no hard gate on which cards you can include in your deck, you may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
-
----
-### Locations
-You gain devotion to ideals primarily by playing locations.
-#### Locations
-Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unflip at round start.
-
-The most basic locations are the Core locations, which you can include any number of in your deck. These are dual ideal locations with a single use 'deplete' ability to draw a card for 1 energy.
-#### Exploration
-At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick any of the seven Wilderness locations. 
-
-Notably, even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
+There is no hard gate on which cards you can include in your deck. You may include cards from all 7 ideals if you want to, however you may then have a very hard time meeting the devotion requirements to play them.
 
 ---
 ## Playing Cards & the Horizon
 The horizon gives you a chance to see what your opponent is doing and react to it.
 
-To play a card, you must meet it's ideal devotion requirement and pay it's costs.
+To play a card, you must meet its devotion requirement and pay it's costs.
 
-When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/effects already there. Once any player passes after doing nothing (or only taking actions at infinite speed, eg triggered abilities), all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom.
+When you play a card or ability, it goes to the horizon zone, and the player who did not play the card becomes the active player, who may then take an action or pass. Any new cards/effects put into the horizon zone are placed above other cards/effects already there. Once any player passes after doing nothing, all cards in the horizon zone (unresolved cards) are resolved in order of top to bottom.
 
-When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, the discard pile if it is a spell, and the location zone if it is a location. When a card on the battlefield or horizon is destroyed (such as by having no more health left), it is put into the discard pile. Damage only occurs to cards in the battlefield and horizon.
+When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, the discard pile if it is a spell, and the location zone if it is a location. When a card on the battlefield or horizon is destroyed (such as by having no more health left), it is put into the discard pile. Damage only occurs to cards in the battlefield and horizon, and is permanent as long as the card remains in those zones.
 
-- To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does it's effect / enters play. 
+- To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does its effect / enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not control the bottom card on the horizon becomes the active player.
 - All abilities are placed into the horizon just as cards are.
 - Since new cards are placed onto the horizon above cards already there, when the horizon cards resolve, cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time.
@@ -144,25 +148,25 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
-- If you play a burst speed card/action, it resolves immediately as you play it and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
-	- You cannot commit burst speed cards along with other cards on the horizon as they will resolve instantly. Imagine it as dragging a card from your hand onto the board in a video game and as soon as you let go of the mouse it resolves.
-- ∞ speed cards and effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
-	- ∞ speed is reserved mainly for triggered abilities on already played cards (effects that say 'whenever x happens, y happens' are assumed to be infinite speed unless otherwise stated).
+- Burst speed - If you play a burst speed card/action, it resolves immediately as you play it and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
 
-#### More info:
-- You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
-	- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, as slow speed cards cannot be played when there are other cards on the horizon).
-	- When committing multiple cards at once, cards committed lower on the horizon are legal targets for cards committed higher on the horizon (but not vice-versa).
-	- If you would like to guarantee putting multiple cards onto the horizon, commit them all at once, because once you commit your cards, if your opponent chooses not to react, all cards on the horizon will resolve.
-	- Since burst/infinite speed effects resolve immediately as you play them, you would not commit them alongside other cards.
+### Playing Multiple Cards at Once
+You may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
+- When doing this, if there are no cards already in the horizon, you are able to play a slow speed card as the bottom card, and commit fast speed cards along with it on top of it (the slow speed card must always be on the bottom though, as slow speed cards cannot be played when there are other cards on the horizon).
+- When committing multiple cards at once, cards committed lower on the horizon are legal targets for cards committed higher on the horizon (but not vice-versa).
+- If you would like to guarantee putting multiple cards onto the horizon, commit them all at once, because once you commit your cards, if your opponent chooses not to react, all cards on the horizon will resolve.
+- Since burst speed effects resolve immediately as you play them, you cannot commit them alongside other cards as they will resolve instantly. Imagine it as dragging a card from your hand onto the board in a video game and as soon as you let go of the mouse it resolves.
 
+### Timing of Triggered Abilities
+Some cards will have abilities such as 'whenever X do Y'. These operate at infinite speed, meaning they are prioritized over even burst speed effects on the horizon, and do not have any impact on which player is the active player or when the round will end.
+- ∞ speed effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon (for example if you have an ability of one of your cards trigger, then pass, if your opponent also passes the round *will* end.)
 
 ---
 
 ## Round Phases
 1. Pre round
 	1. If it is not the first round of the game, the player who did not end the previous round becomes the first/starting player (the player who passed first in the double pass will go first in the following round). TLDR if you were the last person to attack or play a card or something, you're going second.
-		- Worded differently, if you took the last non-infinite speed action before the round ended (triggered abilities are the main infinite speed thing, almost everything else including attacking will prolong the round and count for this), you will go second in the following round.
+		- Worded differently, if you took the last action before the round ended, you will go second in the following round.
 	2. Each player gets one additional energy counter
 	3. Each player gets one energy for each of their energy counters.
 	4. Each player unflips all cards on their battlefield.
@@ -172,7 +176,7 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 3. Main phase
 	1. The first player becomes the active player (unless otherwise specified).
-	2. When both players pass in a row after doing nothing or only taking actions at infinite speed, move to the next phase.
+	2. When both players pass in a row after doing nothing, move to the next phase.
 	- This is the primary phase where players actually play the game, along with combat which players can enter from the main phase.
 4. Round End
 	1. If an effect refers to round end, it happens here.
@@ -187,12 +191,21 @@ The speed of a card is indicated in the top left in italicized text. Below is th
 
 If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards), however, If a fast or slow speed card/effect is somehow put onto the horizon anyway, the player who does not control it becomes the active player. 
 
+#### Notes on ending the round:
+If you attack then pass, or play a burst/intermezzo card then pass, this pass does not count towards ending the round as during your 'turn' you did still take an action.
+
 #### Draw phase notes:
 To do the simultaneous decision making, you can give each player two cards (one for keeping their hand one for not), each player picks a card and places it face down, then players turn over their cards at the same time.
 
 ---
 ## Combat
-During the main phase, while you are the active player and there are no unresolved effects, you may start an attack by declaring your attackers. You attack players, not their cards. You can only attack opposing units directly if the attacking unit has 'challenger').
+Combat is how you can use your units to damage your opponent, or use your units to block opposing units attacking you. You can attack whenever you could play a slow card.
+
+During the main phase, while you are the active player and there are no unresolved effects, you may start an attack by declaring your attackers. You attack players, not their cards (you can only attack opposing units directly if the attacking unit has 'challenger').
+
+- You may attack up to three times per round, with any number of units each time.
+- Both attacking and blocking causes units to flip.
+- You cannot attack or block with flipped units.
 
 Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to the horizon. 
@@ -200,15 +213,12 @@ Combat phase outline:
 2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to the horizon. 
 	- After defenders are declared, any triggers/effects created by this are put onto the horizon, however only ∞ and burst speed effects are resolved at this step. Fast and slow cards/effects will resolve during step 3.
 3. The attacking player becomes active, and players may play cards/pass as normal. After a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player. 
-TLDR if you are attacking you have two windows you are guaranteed to be able to play cards, while you declare your attackers, and after blockers are declared, and the defending player has one guaranteed window, while they declare their blockers.
+4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player (attacking works the same as the 'intermezzo' card ability)
+
+TLDR for combat timing windows: if you are attacking you have two windows where you are guaranteed to be able to play cards. These are while you declare your attackers, and after blockers are declared. The defending player has one guaranteed window, which is while they declare their blockers.
 
 Notes:
-- You may attack up to three times per round.
-- Both attacking and blocking causes units to flip.
-- You cannot attack or block with flipped units.
 - Blocking is done in step 2, and cannot be done later. You can only block with a unit put into play after blockers are declared if that unit has 'guardian'
-- If you pass after attacking, the pass does not count towards ending the round.
 
 ---
 ## Starting the game
@@ -266,6 +276,8 @@ The dual ideal Core locations are provided as basics, and after drafting you may
 The best strategy for what locations to play is not entirely set in stone, but for a recommended starting point:
 - For single ideal decks, you will want to play zero core locations and explore for all of your locations, and/or play locations you drafted.
 - For decks with more than one ideal, you can use 20% core locations as a starting point. However, an optimal density has not been determined and your devotion requirements impact how many you want to play. You may want to play a few more locations in decks with 3+ ideals.
+
+Most draft decks have two or three different ideals. It is very difficult to draft only cards of a single ideal, and going 4+ comes at a heavy cost to efficiency/consistency.
 
 
 You can use an alternative drafting setup from the recommended one above if you would like to play with a number of players where it doesn't work well for some reason. However, if you do, keep in mind that players will need to see more cards to produce decks that are equal in functionality to a traditional cube draft as there are 7 ideals. 
