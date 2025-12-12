@@ -247,9 +247,9 @@ Here is some additional info:
 	- In paper, please track unit health by leaving undamaged units without any dice, and using dice to track the *total remaining health* once a unit's remaining health is no longer equal to the number on the corner of the card.
 	- Health is persistent as a card moves from the horizon to the battlefield.
 	- If a card is given a health buff, then takes damage, then the buff goes away, the full extent of the health buff is taken away still. Whenever a health buff goes away, the unit effectively takes that much damage. There should not be many/any temporary health buffs for ease of tracking.
-- Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card if possible.
+- Targets for cards are chosen as you play the card (as it enters horizon), not on resolution. Same for abilities. The arrive ability is quite common and has specific rules surrounding it, that targets are chosen as you play the card to the horizon if possible (rather than after it actually arrives on the battlefield).
 - If a card would resolve and targets originally chosen for it no longer exist (if they are made to be illegal targets they cease to exist as targets), any effects related to that target don't happen. Any other effects on the card still occur. Eg no 'fizzling'.
-- If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
+- If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break (line breaks are currently a bit hard to see sometimes, unfortunately, as the line spacing is the same as text wrapping. It should be fairly obvious in practice what the card means for this though as the next text block will be entirely unrelated to the current one).
 - Unless an ability says 'you may', you must do it.
 - Locations do not have a health or offense stat. They cannot be dealt damage, granted/given health or offense, etc.
 	- If a card has no health stat, it can be targeted if it is otherwise a legal target, but dealing damage to it won't do anything.
