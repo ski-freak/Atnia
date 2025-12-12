@@ -81,7 +81,7 @@ Most non-location cards have a devotion requirement, which requires you to have 
 #### Locations
 Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unflip at round start.
 
-The most basic locations are the Core locations, which you can include any number of in your deck.
+The most basic locations are the Core locations, which you can include any number of in your deck. Locations such as these generally have the ability called Deplete which allows you to flip them and pay energy to draw a card (which is one time use due to locations not unflipping each round). Some locations do not have this but may instead have another ability.
 #### Exploration
 Exploration allows you to trade a card in your hand for a location.
 
