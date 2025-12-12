@@ -154,7 +154,7 @@ The speed of a card is indicated in the top left in italicized text. It determin
 - Slow speed cards cannot be played during combat, and cannot be played while there are other cards/effects already in the horizon.
 - Fast speed cards can be played during combat, and can be played while there are other cards/effects already in the horizon.
 - Burst speed - If you play a burst speed card/action, it resolves immediately as you play it and you remain the active player and can continue playing cards. All burst speed cards and effects are always placed above and resolved before any fast or slow speed effects. No player can take actions while they are in the horizon, and they do not affect which player is or becomes the active player.
-	- If used alongside slow, 'slow burst' means you can play the card/ability whenever you could play a slow card, but it has the properties of burst.
+	- If used alongside slow, 'slow burst' means you can play the card/ability whenever you could play a slow card, but it has the properties of burst. Otherwise burst cards can be played whenever you could play a fast card.
 
 ### Playing Multiple Cards at Once
 If you want to play more than one card at a time, you may commit multiple fast/slow speed cards to the horizon at once, although speed rules still apply, and you must choose an order for the cards to be placed into the horizon. 
