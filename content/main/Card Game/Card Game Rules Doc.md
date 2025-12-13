@@ -53,9 +53,9 @@ These are all of the things which appear on cards.
 - **Description / Rules Text** - Explains what a card does. See "Playing Cards"
 
 
-![[Atnia Parts of a card.png|500]]
+![[Atnia Parts of a card.png|400]]
 
-![[atnia helper for actions.png|500]]
+![[atnia helper for actions.png|400]]
 
 *Icons from https://game-icons.net/
 
