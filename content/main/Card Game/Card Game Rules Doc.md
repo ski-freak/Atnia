@@ -87,8 +87,8 @@ Exploration allows you to trade a card in your hand for a location.
 
 At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick any of the seven Wilderness locations. 
 
-| ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ruins.png) |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ruins.png) |     |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --- |
 From the [Keyword Dictionary](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) :
 - Exchange - At slow burst speed, pay the exchange cost, reveal the card from your hand, and put it on the bottom of your deck to draw 1.
 - Deplete - At slow burst speed, pay the deplete cost and flip the location to draw 1.
