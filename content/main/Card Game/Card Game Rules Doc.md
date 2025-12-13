@@ -67,6 +67,8 @@ There are multiple types of cards in the game, and each of them operate differen
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
 - Location - Play up to one location per round. Locations add devotion to each of their ideals based on their devotion stats. Locations don't unflip at round start.
 
+Cards may be flipped or unflipped, in paper indicated by rotating them 90 degrees.
+
 Some cards will also have subtypes. Subtypes do not have any universal rules significance unless otherwise noted. 
 
 ---
