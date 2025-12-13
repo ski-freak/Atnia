@@ -90,7 +90,7 @@ At burst speed, you may explore by putting a card from your hand on the bottom o
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ruins.png) |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 From the [Keyword Dictionary](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) :
-- Sliding - At slow burst speed, pay the sliding cost, reveal the card from your hand, and put it on the bottom of your deck to draw 1.
+- Exchange - At slow burst speed, pay the exchange cost, reveal the card from your hand, and put it on the bottom of your deck to draw 1.
 - Deplete - At slow burst speed, pay the deplete cost and flip the location to draw 1.
 
 Note: Even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
