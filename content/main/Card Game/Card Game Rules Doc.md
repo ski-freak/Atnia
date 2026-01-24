@@ -5,7 +5,7 @@ tags:
 ---
 # Atnia Card Game Rules Document
 
-![[Pasted image 20260124022720.png|600]]
+![[Pasted image 20260124022720.png|500]]
 
 - If you have not seen it, consider checking out the [Atnia announcement video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
 - This information / rules document is a work in progress
