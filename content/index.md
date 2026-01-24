@@ -22,6 +22,8 @@ We will be uploading many more videos to give more information on the world/sett
 
 And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
 
+![[Pasted image 20260124025419.png|600]]
+
 ---
 > [!info] Navigation Tools.
 
