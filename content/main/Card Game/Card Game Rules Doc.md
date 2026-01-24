@@ -5,6 +5,8 @@ tags:
 ---
 # Atnia Card Game Rules Document
 
+![[Pasted image 20260124022720.png|600]]
+
 - If you have not seen it, consider checking out the [Atnia announcement video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
 - This information / rules document is a work in progress
 - This [Cubecobra page](https://cubecobra.com/cube/list/Atnia?view=spoiler) displays all of the cards (if they do not load, refresh).
