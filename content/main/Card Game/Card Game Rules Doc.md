@@ -78,7 +78,7 @@ Some cards will also have subtypes. Subtypes do not have any universal rules sig
 The resources for playing cards are split into two separate systems: Energy, and Devotion. Energy recharges each round, and is spent to play cards. Devotion requirements demand that you play location cards to reach a certain devotion threshold to be able to play your cards.
 
 ### Energy System
-There is a single (numerical) energy pool for each player. Players begin the game with 2 energy counters and gain an additional one after each round (maximum is 10). Each round, players get 1 energy for each of their energy counters. After a round, if you have any unspent energy, bank 1 energy for the following round (so this can put you up to a true maximum of 11).
+There is a single (numerical) energy pool for each player. Players begin the game with 2 base energy and gain an additional one after each round (maximum is 10). Each round, players get energy equal to their base energy. After a round, if you have any unspent energy, bank 1 energy for the following round (so this can put you up to a true maximum of 11).
 
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
@@ -184,8 +184,8 @@ The round is broken up into a number of sequential phases.
 1. Pre round
 	1. If it is not the first round of the game, the player who did not end the previous round becomes the first/starting player (the player who passed first in the double pass will go first in the following round). TLDR if you were the last person to attack or play a card or something, you're going second.
 		- Worded differently, if you took the last action before the round ended, you will go second in the following round.
-	2. Each player gets one additional energy counter
-	3. Each player gets one energy for each of their energy counters.
+	2. Each player's base energy increases by one.
+	3. Each player gets energy equal to their base energy.
 	4. Each player unflips all cards on their battlefield.
 	5. Move to next phase
 2. Round Start
@@ -239,7 +239,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck and draws 6 cards. Then, begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, and starts with 20 life. Then, begin the first round of the game.
 
 There are no mulligans.
 
