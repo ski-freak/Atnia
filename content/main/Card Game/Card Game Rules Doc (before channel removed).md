@@ -243,6 +243,7 @@ Here is some additional info:
 - If a card says 'do x to do y', if x does not happen, y won't happen. Y includes all remaining text on the card until the next line break.
 	- If y cannot or won't happen, x also won't happen?
 - If a card is given a health buff and then that buff goes away, the buffed health also leaves (it takes that much damage). If a card is given a health debuff and the debuff leaves, the card is granted that health as it leaves. These rules apply if a single buff changes over time, and also apply to weapons.
+- If a card is copied, it's current offense/health, statuses, and counters are all copied as well.
 
 ### Advanced notes on timing rules and the horizon:
 - If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
