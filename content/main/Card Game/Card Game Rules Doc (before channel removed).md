@@ -201,7 +201,7 @@ Combat phase outline:
 3. The attacking player becomes active, and players may play cards/pass as normal. After a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
 4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player. 
 Notes:
-- You may attack up to three times per round.
+- Each player may attack up to three times per round.
 - Both attacking and blocking causes units to flip.
 - You cannot attack or block with flipped units.
 - Blocking is done in step 2, and cannot be done later. You can only block with a unit put into play after blockers are declared if that unit has 'guardian'
