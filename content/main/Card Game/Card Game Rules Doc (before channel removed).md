@@ -199,7 +199,7 @@ Combat phase outline:
 2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to the horizon. 
 	- After defenders are declared, any triggers/effects created by this are put onto the horizon, however only ∞ and burst speed effects are resolved at this step. Fast and slow cards/effects will resolve during step 3.
 3. The attacking player becomes active, and players may play cards/pass as normal. After a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player. 
+4. Combat ends. Return to the main phase, and the player who was defending becomes the active player. 
 Notes:
 - Each player may attack up to three times per round.
 - Both attacking and blocking causes units to flip.
