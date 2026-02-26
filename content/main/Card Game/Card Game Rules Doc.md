@@ -239,9 +239,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, and starts with 20 life. Then, begin the first round of the game.
-
-There are no mulligans.
+To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, and starts with 20 life. Each player may choose to shuffle the cards from their hand into their deck and draw a new hand of 6 cards. Once each player has kept or replaced their hand, begin the first round of the game.
 
 ---
 ## Card Semantics
