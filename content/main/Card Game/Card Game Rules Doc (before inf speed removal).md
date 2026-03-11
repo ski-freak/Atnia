@@ -174,7 +174,8 @@ If you want to play more than one card at a time, you may commit multiple fast/s
 - Since burst speed effects resolve immediately as you play them, you cannot commit them alongside other cards as they will resolve instantly. Imagine it as dragging a card from your hand onto the board in a video game and as soon as you let go of the mouse it resolves.
 
 ### Timing of Triggered Abilities
-Some cards will have abilities such as 'whenever X do Y'. These operate at burst speed.
+Some cards will have abilities such as 'whenever X do Y'. These operate at infinite speed, meaning they are prioritized over even burst speed effects on the horizon, and do not have any impact on which player is the active player or when the round will end.
+- ∞ speed effects are the same as burst speed, except they do not count as having taken an action for the purposes of ending the round/main phase or resolving the cards on the horizon.
 
 ---
 
