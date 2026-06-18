@@ -67,9 +67,9 @@ There are multiple types of cards in the game, and each of them operate differen
 - Unit - Units have offense stat in addition to their health stat, and can attack and block. Other card types do not have an offense stat.
 - Item - Items (like units) stay on the battlefield, however, they do not have an offense stat and cannot attack or block.
 - Spell - Spells do what is indicated by their description on resolution, then are discarded, unlike units and items which resolve to battlefield.
-- Location - Play up to one location per round. Locations add devotion to each of their ideals based on their devotion stats. Locations don't unflip at round start.
+- Location - Play up to one location per round. Locations add devotion to each of their ideals based on their devotion stats. Locations don't unexhaust at round start.
 
-Cards may be flipped or unflipped, in paper indicated by rotating them 90 degrees.
+Cards may be exhausted or unexhausted, in paper indicated by rotating them 90 degrees.
 
 Some cards will also have subtypes. Subtypes do not have any universal rules significance unless otherwise noted. 
 
@@ -83,9 +83,9 @@ There is a single (numerical) energy pool for each player. Players begin the gam
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
 #### Locations
-Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unflip at round start.
+Play up to one location per round. When you play a location it goes to the location zone. Instead of having a devotion requirement to play, the ideal icons on location cards indicate how much devotion to that ideal the location provides while in the location zone. Locations don't unexhaust at round start.
 
-The most basic locations are the Core locations, which you can include any number of in your deck. Locations such as these generally have the ability called Deplete which allows you to flip them and pay energy to draw a card (which is one time use due to locations not unflipping each round). Some locations do not have this but may instead have another ability.
+The most basic locations are the Core locations, which you can include any number of in your deck. Locations such as these generally have the ability called Deplete which allows you to exhaust them and pay energy to draw a card (which is one time use due to locations not unexhaustping each round). Some locations do not have this but may instead have another ability.
 #### Exploration
 Exploration allows you to trade a card in your hand for a location.
 
@@ -95,7 +95,7 @@ At burst speed, you may explore by putting a card from your hand on the bottom o
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --- |
 From the [Keyword Dictionary](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) :
 - Exchange - At slow burst speed, pay the exchange cost, reveal the card from your hand, and put it on the bottom of your deck to draw 1.
-- Deplete - At slow burst speed, pay the deplete cost and flip the location to draw 1.
+- Deplete - At slow burst speed, pay the deplete cost and exhaust the location to draw 1.
 
 Note: Even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
 
@@ -185,7 +185,7 @@ The round is broken up into a number of sequential phases.
 		- Worded differently, if you took the last action before the round ended, you will go second in the following round.
 	2. Each player's base energy increases by one.
 	3. Each player gets energy equal to their base energy.
-	4. Each player unflips all cards on their battlefield.
+	4. Each player unexhausts all cards on their battlefield.
 	5. Move to next phase
 2. Round Start
 	1. If an effect refers to round start, it happens here.
@@ -220,8 +220,8 @@ Combat is how you can use your units to damage your opponent, or use your units 
 During the main phase, while you are the active player and there are no unresolved effects, you may start an attack by declaring your attackers. You attack players, not their cards (you can only attack opposing units directly if the attacking unit has 'challenger').
 
 - You may attack up to three times per round, with any number of units each time.
-- Both attacking and blocking causes units to flip.
-- You cannot attack or block with flipped units.
+- Both attacking and blocking causes units to exhaust.
+- You cannot attack or block with exhausted units.
 
 Combat phase outline:
 1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to the horizon. 
