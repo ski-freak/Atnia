@@ -78,7 +78,9 @@ Some cards will also have subtypes. Subtypes do not have any universal rules sig
 The resources for playing cards are split into two separate systems: Energy, and Devotion. Energy recharges each round, and is spent to play cards. Devotion requirements demand that you play location cards to reach a certain devotion threshold to be able to play your cards.
 
 ### Energy System
-There is a single (numerical) energy pool for each player. Players begin the game with 2 base energy and gain an additional one after each round (maximum is 10). Each round, players get energy equal to their base energy. After a round, if you have any unspent energy, bank 1 energy for the following round (so this can put you up to a true maximum of 11).
+There is a single (numerical) energy pool for each player. Players begin the game with 2 base energy and gain an additional one after each round (maximum is 10). Each round, players get energy equal to their base energy.
+
+After a round, if you have any unspent energy, bank up to 3 unspent energy for the following round (so this can put you up to a true maximum of 13). Banked energy is tracked separately, always spent before normal energy if possible, and cannot be used to pay costs larger than your base energy. This means you cannot use banked energy to 'ramp' into larger cards before you would otherwise be able to play them.
 
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
