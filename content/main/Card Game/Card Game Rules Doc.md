@@ -16,7 +16,7 @@ tags:
 
 This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft, and an early version of the first set (The New World) will be available for drafting very soon! The game rules and cards are being designed to work both in paper and as a video game.
 
-You begin the game at 20 life and win the game by reducing your opponent's life total to 0. You will do this by attacking your opponent with your units, and using powerful spells and items.
+You begin the game at 25 life and win the game by reducing your opponent's life total to 0. You will do this by attacking your opponent with your units, and using powerful spells and items.
 
 The game takes place in Atnia, the setting of Ciaḃan's Tabletop RPG. A short briefing on the world can be found here: [[Atnia Introduction]].
 
@@ -240,7 +240,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, and starts with 20 life. Each player may choose to put the cards in their hand on the bottom of their deck in a random order to draw a new hand of 6 cards. Once each player has kept or replaced their hand, begin the first round of the game. Players will have 2 energy on round 1.
+To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, and starts with 25 life. Each player may choose to put the cards in their hand on the bottom of their deck in a random order to draw a new hand of 6 cards. Once each player has kept or replaced their hand, begin the first round of the game. Players will have 2 energy on round 1.
 
 ---
 ## Card Semantics
