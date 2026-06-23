@@ -176,7 +176,7 @@ If you want to play more than one card at a time, you may commit multiple fast/s
 - Since burst speed effects resolve immediately as you play them, you cannot commit them alongside other cards as they will resolve instantly. Imagine it as dragging a card from your hand onto the board in a video game and as soon as you let go of the mouse it resolves.
 
 ### Timing of Triggered Abilities
-Some cards will have abilities such as 'whenever X do Y'. These operate at burst speed.
+Some cards will have abilities such as 'whenever X do Y', or 'Arrive:'. These operate at burst speed unless otherwise noted (if they are marked as slow speed, that means they can be reacted to).
 
 ---
 
