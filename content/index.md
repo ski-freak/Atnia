@@ -20,7 +20,7 @@ We will be uploading many more videos to give more information on the world/sett
 
 \*This is a work in progress of getting the new lore additions onto the site, and some information is deliberately left out due to containing spoilers ;)
 
-And join the [Discord server](https://discord.gg/xTdT2DpEwB)!
+And join the [Discord server](https://discord.gg/GJFTXS9cmc)!
 
 ![[Pasted image 20260124025419.png|750]]
 

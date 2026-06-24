@@ -10,7 +10,7 @@ tags:
 - If you have not seen it, consider checking out the [Atnia announcement video](https://www.youtube.com/watch?v=cFHSIH5-CRY) 
 - This information / rules document is a work in progress
 - This [Cubecobra page](https://cubecobra.com/cube/list/Atnia?view=spoiler) displays all of the cards (if they do not load, refresh).
-- Join the [Discord](https://discord.gg/xTdT2DpEwB) :)
+- Join the [Discord](https://discord.gg/GJFTXS9cmc) :)
 - [Dictionary for words on cards](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) 
 - Small overview of set 1 themes: [[Atnia Set One (The New World) Overview]]
 
