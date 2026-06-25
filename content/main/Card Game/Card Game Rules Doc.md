@@ -240,7 +240,7 @@ Notes:
 
 ---
 ## Starting the game
-To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, starts with 25 life, and 2 base energy on round 1. Begin the first round of the game.
+To start the game, randomly determine the first player. Each player shuffles their deck, draws 6 cards, starts with 25 life, and will have 2 base energy on round 1. Begin the first round of the game.
 
 ---
 ## Card Semantics
