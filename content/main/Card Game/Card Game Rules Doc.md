@@ -91,11 +91,12 @@ The most basic locations are the Core locations, which you can include any numbe
 #### Exploration
 Exploration allows you to trade a card in your hand for a location.
 
-At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick any of the seven Wilderness locations. 
+At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick from any of the seven Wilderness locations. 
 
 | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower.png) | ![CardImg\|200](https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ruins.png) |     |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --- |
 From the [Keyword Dictionary](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) :
+- Survey - As a location with survey arrives, create an exhausted Wilderness location of your choice that *doesn't* share an ideal with the card with survey. Similar to exploring.
 - Exchange - At slow burst speed, pay the exchange cost, reveal the card from your hand, and put it on the bottom of your deck to draw 1.
 - Deplete - At slow burst speed, pay the deplete cost and exhaust the location to draw 1.
 
@@ -155,7 +156,7 @@ When you play a card or ability, it goes to the horizon zone, and the player who
 
 When a card is played, it goes to the horizon. When it resolves, it goes to battlefield if it is a unit or item, the discard pile if it is a spell, and the location zone if it is a location. When a card on the battlefield or horizon is destroyed (such as by having no more health left), it is put into the discard pile. Damage only occurs to cards in the battlefield and horizon, and is permanent as long as the card remains in those zones.
 
-- To reiterate, you pay an ability or card's cost to play it, and only once it resolves it does its effect / enters play. 
+- To reiterate, you pay the cost of an ability or card to play it, and only once it resolves it does its effect / enters play. 
 - During the main phase, when all cards/abilities resolve, the player who did not control the bottom card on the horizon becomes the active player.
 - All abilities are placed into the horizon just as cards are.
 - Since new cards are placed onto the horizon above cards already there, when the horizon cards resolve, cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time.
@@ -245,7 +246,7 @@ To start the game, randomly determine the first player. Each player shuffles the
 See the Naming V2 sheet in the [Atnia Cards Sheet](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) for info on words that appear on cards.
 
 Here is some additional info:
-- The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it.
+- The brown symbols in the description box of cards are zone symbols. A zone icon may indicate which zones a card or effect can target, or which cards in what zones are relevant to it. For example, a card may deal damage to a card on the battlefield, or it may only deal damage to a card on the horizon.
 	- Each the zone icons simply refer to one of the zones in the Zones section of this rulebook, and a cheat sheet for all icons including the zone icons can be found above.
 	- If multiple zone icons are listed in a row, read it as 'this zone or that zone'
 
