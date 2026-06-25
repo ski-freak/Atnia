@@ -195,6 +195,7 @@ The round is broken up into a number of sequential phases.
 3. Main phase
 	1. The first player becomes the active player (unless otherwise specified).
 	2. When both players pass with no actions taken in between the passes, move to the next phase.
+		- This only tracks when a player chooses to manually pass instead of taking another action, not when priority is given to player B player due to player A playing a card or ending their combat phase. Notably after you play an intermezzo or burst card, you will still have priority, and if you pass at this point and your opponent immediately passes afterwards, the round will end (though if they play their own burst/intermezzo card and pass, the round will not end as an action was taken between the each player's pass).
 	- This is the primary phase where players actually play the game, along with combat which players can enter from the main phase.
 4. Round End
 	1. If an effect refers to round end, it happens here.
@@ -208,9 +209,6 @@ The round is broken up into a number of sequential phases.
 	- See "Combat"
 
 If a phase/step does not explicitly make a player the active player, no player is active and therefore players may not take actions (such as playing cards), however, If a fast or slow speed card/effect is somehow put onto the horizon anyway, the player who does not control it becomes the active player. 
-
-#### Notes on ending the round:
-
 
 #### Draw phase notes:
 To do the simultaneous decision making, you can give each player two cards (one for keeping their hand one for not), each player picks a card and places it face down, then players turn over their cards at the same time.
