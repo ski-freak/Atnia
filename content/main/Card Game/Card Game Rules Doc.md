@@ -82,6 +82,8 @@ There is a single (numerical) energy pool for each player. Players begin the gam
 
 After a round, if you have any unspent energy, bank up to 3 unspent energy for the following round (so this can put you up to a true maximum of 13). Banked energy is tracked separately, always spent before normal energy if possible, and cannot be used to pay costs larger than your base energy. This means you cannot use banked energy to 'ramp' into larger cards before you would otherwise be able to play them.
 
+In paper, use separate dice to track your base energy, current energy, and banked energy.
+
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
 #### Locations
