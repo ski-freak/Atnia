@@ -7,7 +7,8 @@ The first set of Atnia cards, The New World, contains ~550 unique cards for you 
 
 Rules for constructing your deck:
 - Your deck must contain at least 60 cards.
-- Your deck may contain no more than 3 cards with the same name, except for Core locations, which you may include any number of (there is one available for each ideal).
+- Your deck may contain no more than 3 copies of each card, except for Core locations, which you may include any number of (there is one available for each ideal).
+*Note: The official starter decks do not follow these rules, as they were optimized for creating a good new player experience and reducing the amount of sheets of paper you need to print.*
 
 Tips for navigating the Cubecobra page:
 - You can switch to a visual grid view by clicking on the square icons above the full list of cards.
