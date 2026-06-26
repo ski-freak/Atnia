@@ -13,7 +13,7 @@ Watch our announcement video:
 We will be uploading many more videos to give more information on the world/setting, and updates on the games.
 ### Check Out:
 - [[Atnia Introduction]] - One page introduction to the world.
-- [[Atnia Card Game Print & Play Materials]]
+- [[Card Game Print & Play]]
 - Full card list for Atnia set 1: [The New World](https://cubecobra.com/cube/list/Atnia?view=spoiler).
 - [[Lore Glossary]] - Find all* lore here!
 - [[Card Game Rules Doc]] - Rules on how to play the Atnia card game.
