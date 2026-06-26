@@ -3,6 +3,8 @@ title: Atnia Card Game Print & Play Materials
 tags: 
 aliases:
 ---
+![[Pasted image 20260124025419.png|750]]
+
 Print and play materials can be found in this [Google Drive](https://drive.google.com/drive/folders/1uaPVVRm0TW8_3MQ1KiiAEczAYbrZNUPy). To start out, print out the following:
 - The helper cards
 	- The cheat sheet cards are useful as references while playing, and the others can be used along with dice to track your resources while playing.
