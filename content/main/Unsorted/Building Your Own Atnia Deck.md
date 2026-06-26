@@ -16,7 +16,7 @@ Tips for navigating the Cubecobra page:
 	- Enter in a card's name to find it.
 	- Use `type:creature` to find units, `type:artifact` to find items, `type:land` to find locations, and `type:instant` to find spells.
 	- Use `tag:Arca` to find Arca cards. You can do the same for the other ideals and `multi` ideal cards.
-	- Use `mv:1` to find cards with a base cost of 1. This works with any number, and you can also use `<` or `>` to find cards with a cost greater than or less than a particular number.
+	- Use `mv:1` to find cards with a base cost of 1. This works with any number, and you can also use for example `mv<3` or `mv>2` to find cards with a cost greater than or less than a particular number.
 	- Use `notes:cardtext` to search the contents of all cards' text boxes. You can use this to find all cards with a given ability such as `imbue`, all cards that `draw` a card, and much more!
 
 Tips for starting out with deck construction:
