@@ -14,3 +14,5 @@ Also have on hand (either through printing or your phone) the 'Parts of a Card' 
 Before/while playing, you can familiarize yourself with the rules [[Card Game Rules Doc]]. We do not currently have proper quick start rules, but hopefully the rules page will work well enough for the time being.
 
 For a short introduction to the setting the card game takes place in, check out [[Atnia Introduction]].
+
+If you would like to build your own decks from the 550 available Atnia cards, see [[Building Your Own Atnia Deck]]
