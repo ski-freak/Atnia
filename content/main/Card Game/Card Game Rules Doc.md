@@ -80,11 +80,9 @@ The resources for playing cards are split into two separate systems: Energy, and
 ### Energy System
 There is a single (numerical) energy pool for each player. Players begin the game with 2 base energy and gain an additional one after each round (maximum is 10). Each round, players get energy equal to their base energy.
 
-After a round, if you have any unspent energy, bank up to 3 unspent energy for the following round (so this can put you up to a true maximum of 13). Banked energy is tracked separately, always spent before normal energy if possible, and can only be used to play cards which are marked as being able to be played with banked energy, indicated by grey triangles in the bottom left and top right corner of the card.*
+After a round, if you have any unspent energy, bank up to 3 unspent energy for the following round (so this can put you up to a true maximum of 13). Banked energy is tracked separately, always spent before normal energy if possible, and can cannot be used to pay costs larger than your base energy.
 
 In paper, use separate dice to track your base energy, current energy, and banked energy.
-
-\*If you are playing with an older version of the card pool, the rule used to be that banked energy cannot be used to pay costs larger than your base energy. Use this rule if you do not have the updated cards.
 
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
