@@ -80,9 +80,11 @@ The resources for playing cards are split into two separate systems: Energy, and
 ### Energy System
 There is a single (numerical) energy pool for each player. Players begin the game with 2 base energy and gain an additional one after each round (maximum is 10). Each round, players get energy equal to their base energy.
 
-After a round, if you have any unspent energy, bank up to 3 unspent energy for the following round (so this can put you up to a true maximum of 13). Banked energy is tracked separately, always spent before normal energy if possible, and can cannot be used to pay costs larger than your base energy.
+After a round, if you have any unspent energy, bank up to 1 unspent energy for the following round (so this can put you up to a true maximum of 11). Banked energy is tracked separately, always spent before normal energy if possible, and can cannot be used to pay costs larger than your base energy.
 
 In paper, use separate dice to track your base energy, current energy, and banked energy.
+
+- Test without banked energy.
 
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
@@ -104,6 +106,7 @@ From the [Keyword Dictionary](https://docs.google.com/spreadsheets/d/1v2kB2lh71D
 
 Note: Even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
 
+- Test starting location
 
 ---
 ## The 7 Ideals
@@ -162,6 +165,10 @@ When a card is played, it goes to the horizon. When it resolves, it goes to batt
 - During the main phase, when all cards/abilities resolve, the player who did not control the bottom card on the horizon becomes the active player.
 - All abilities are placed into the horizon just as cards are.
 - Since new cards are placed onto the horizon above cards already there, when the horizon cards resolve, cards most recently added to the horizon zone will resolve before cards added to the horizon at an earlier point in time.
+
+
+- Test minimum hand size 2 starting hand size 8
+
 ---
 ## Speed
 The speed of a card is indicated in the top left in italicized text. It determines when you can play your cards, and which cards you can react to your opponent playing. Below is the full list of different speeds and what they mean.
@@ -238,6 +245,9 @@ TLDR for combat timing windows: if you are attacking you have two windows where 
 
 Notes:
 - Blocking is done in step 2, and cannot be done later. You can only block with a unit put into play after blockers are declared if that unit has 'guardian'
+
+
+- Test each player only being able to attack once per round.
 
 ---
 ## Starting the game
