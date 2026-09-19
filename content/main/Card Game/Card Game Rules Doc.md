@@ -227,29 +227,26 @@ To do the simultaneous decision making, you can give each player two cards (one 
 
 ---
 ## Combat
-Combat is how you can use your units to damage your opponent, or use your units to block opposing units attacking you. You can attack whenever you could play a slow card.
+Combat is how you can use your units to damage your opponent, or use your units to block opposing units which may attack you. You can attack whenever you could play a slow card.
 
-During the main phase, while you are the active player and there are no unresolved effects, you may start an attack by declaring your attackers. You attack players, not their cards (you can only attack opposing units directly if the attacking unit has 'challenger').
+The battlefield is split up into three areas, the safe area, the offensive area, and the defensive area. Whenever you play a unit, as you pay its costs and put it onto the horizon, you must choose whether it is being played to the safe area or defensive area. If played to the defensive area it will arrive exhausted. Units in the safe area are safe from enemy attacks, units in the offensive area are vulnerable to enemy attacks, and units in the defensive area block enemy attacks that would otherwise be able to hurt you or your other units.
 
-- You may attack up to three times per round, with any number of units each time.
-- Both attacking and blocking causes units to exhaust.
-- You cannot attack or block with exhausted units.
+During the main phase, while you are the active player and there are no unresolved effects, you may move one of your unexhausted units between the attacking, blocking, and safe areas of your battlefield, exhausting the unit. Moving to the offensive area requires starting an attack, and can be done by units already in the offensive area. To start an attack, you must choose what your unit is attacking:
+- You may attack your opponent.
+- You may attack an enemy unit in the offensive area.
+- If there are any enemy units in the defensive area, you MUST attack one of them, and the above two options are unavailable.
+- You may ***not*** attack units in the opponent's safe area.
+
+After you move a unit, your opponent becomes the active player. After you attack for the first time in a round, for the remainder of that round, any units you play will arrive exhausted (they may still be played to the defensive area).
+
+Unless you are starting an attack, moving a unit does not give either player a chance to respond or play cards, the move is completed immediately, and your opponent becomes the active player. If you are starting an attack, there is a rigid set of windows for cards to be played, and they eventually resolved all at once.
 
 Combat phase outline:
-1. Combat begins with the attacking player being active, declaring one or more attackers and committing any desired cards/effects to the horizon. 
-	- After attackers are declared, any triggers/effects created by this are put onto the horizon, however only ∞ and burst speed effects are resolved. Fast and slow cards/effects will resolve during step 3.
-2. Defending player becomes active, declares up to one unit to block each attacking unit, and commits any desired cards/effects to the horizon. 
-	- After defenders are declared, any triggers/effects created by this are put onto the horizon, however only ∞ and burst speed effects are resolved at this step. Fast and slow cards/effects will resolve during step 3.
-3. The attacking player becomes active, and players may play cards/pass as normal. After a player passes, all cards and effects on the horizon are resolved, then all combating units simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them, and if they are attacking unblocked, strike the defending player.
-4. Combat ends. Return to the main phase, and the player who was attacking becomes the active player (attacking works the same as the 'intermezzo' card ability)
-
-TLDR for combat timing windows: if you are attacking you have two windows where you are guaranteed to be able to play cards. These are while you declare your attackers, and after blockers are declared. The defending player has one guaranteed window, which is while they declare their blockers.
-
-Notes:
-- Blocking is done in step 2, and cannot be done later. You can only block with a unit put into play after blockers are declared if that unit has 'guardian'
-
-
-- Test each player only being able to attack once per round.
+1. Combat begins with the attacking player being active, declaring their attacker, the thing they are attacking, and committing any desired cards/effects to the horizon. 
+	- After attackers are declared, any triggers/effects created by this are put onto the horizon, however only triggered abilities and burst speed effects are resolved. Fast and slow cards/effects will resolve during step 3.
+	- If the opposing player chooses not to respond to the attack, this will have been the attacking player's last chance to have played a card during the combat.
+2. The defending player becomes active, and from this point on players may play cards/pass as normal. After any player passes, all cards and effects on the horizon are resolved, then the combating units each simultaneously strike (deal damage equal to their offense stat) the unit blocking/being blocked by them. If the attacking unit is attacking a player it will strike that player.
+3. Combat ends. Return to the main phase, and the player who was defending becomes the active player.
 
 ---
 ## Starting the game
@@ -280,7 +277,7 @@ Here is some additional info:
 	- Items and spells do not have an offense stat. The same rules about null stats apply here as well.
 
 ### Advanced notes on timing rules and the horizon:
-- If during horizon effect resolution one or more new cards/abilities are put into horizon that are not at ∞ speed, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
+- If during horizon effect resolution one or more new fast or slow speed cards/abilities are put into horizon, resolution stops, and the player not in control of the new top most card/effect becomes the active player.
 - If multiple effects that require targets to be chosen are put into the horizon simultaneously, targets must be chosen for the bottom most effect(s) first.
 
 *Note: The following rules are experimental and intended to allow for automatic ordering and resolution of triggered abilities in a future video game version. You may ignore these for now if you like, or choose to become a test subject and let me know how it goes xd.*
