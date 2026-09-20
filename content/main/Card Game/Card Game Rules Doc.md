@@ -237,7 +237,7 @@ During the main phase, while you are the active player and there are no unresolv
 - If there are any enemy units in the defensive area, you MUST attack one of them, and the above two options are unavailable.
 - You may ***not*** attack units in the opponent's safe area.
 
-After you move a unit, your opponent becomes the active player. After you attack for the first time in a round, for the remainder of that round, any units you play will arrive exhausted (they may still be played to the defensive area).
+After you move a unit, your opponent becomes the active player. After you attack for the first time in a round, for the remainder of that round, any units you play will arrive exhausted (they may still be played to the defensive area). There is no limit to how many moves you can make per round, as long as you have unexhausted units to move.
 
 Unless you are starting an attack, moving a unit does not give either player a chance to respond or play cards, the move is completed immediately, and your opponent becomes the active player. If you are starting an attack, there is a rigid set of windows for cards to be played, and they eventually resolved all at once.
 
