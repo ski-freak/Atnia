@@ -18,7 +18,7 @@ This is a 1v1 card game, within the gameplay genre of trading card games (not th
 
 You begin the game at 25 life and win the game by reducing your opponent's life total to 0. You will do this by attacking your opponent with your units, and using powerful spells and items.
 
-The game takes place in Atnia, the setting of Ciaḃan's (one of the designers of this card game) Tabletop RPG. A short briefing on the world can be found here: [[Atnia Introduction]].
+The game takes place in Atnia, which is also the setting of Ciaḃan's (one of the designers of this card game) Tabletop RPG. A short briefing on the world can be found here: [[Atnia Introduction]].
 
 # Rules for playing the game:
 
