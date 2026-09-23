@@ -5,7 +5,7 @@ aliases:
 enableToc:
 ---
 Info on current testing method
-1. Download [Cockatrice](https://cockatrice.github.io/) and install it (I used the portable install)
+1. Download [Cockatrice](https://cockatrice.github.io/) and install it (I used the portable install). If you already have Cockatrice installed, it is recommended to use a separate install of the program for Atnia if you intend on continuing to use Cockatrice for other purposes.
 2. Go to the [Delta Cockatrice Repo](https://github.com/ski-freak/Delta_Cockatrice_Repo/tree/main). Here you can grab the latest set file and deck files.
 	1. Grab the Delta_Set1.xml file and drop it in `Cockatrice\data\customsets` 
 	2. Decks go in `Cockatrice\data\decks` 
