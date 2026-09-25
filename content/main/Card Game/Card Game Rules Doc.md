@@ -12,7 +12,6 @@ tags:
 - This [Cubecobra page](https://cubecobra.com/cube/list/Atnia?view=spoiler) displays all of the cards (if they do not load, refresh).
 - Join the [Discord](https://discord.gg/GJFTXS9cmc) :)
 - [Dictionary for words on cards](https://docs.google.com/spreadsheets/d/1v2kB2lh71D9G-9cLPd3Aqkp0UxqjCQWOMH--ha0lmy0/edit?gid=947960253#gid=947960253) 
-- Small overview of set 1 themes: [[Atnia Set One (The New World) Overview]]
 
 This is a 1v1 card game, within the gameplay genre of trading card games (not the distribution model). The rules will support constructed as well as draft, and an early version of the first set (The New World) will be available for drafting very soon! The game rules and cards are being designed to work both in paper and as a video game.
 
