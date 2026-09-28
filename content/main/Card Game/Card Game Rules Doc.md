@@ -35,7 +35,7 @@ There are multiple zones of play in which cards can be.
 - Deck - Your deck of cards.
 - Hand - Your hand.
 - Battlefield - The main playing area / board. All unit and item cards that are currently in play live here.
-- location zone - Similar to the battlefield, but dedicated to location cards.
+- Location Zone - Similar to the battlefield, but dedicated to location cards.
 - Horizon - Zone for cards & effects currently being played and not resolved yet.
 - Discard Pile - When cards are destroyed or discarded, they go here.
 - Void - Zone used for some things. Occasionally cards get put here.
@@ -83,8 +83,6 @@ After a round, if you have any unspent energy, bank up to 1 unspent energy for t
 
 In paper, use separate dice to track your base energy, current energy, and banked energy.
 
-- Test without banked energy.
-
 ### Devotion
 Most non-location cards have a devotion requirement, which requires you to have a certain amount of devotion to an ideal (or multiple ideals) to play it. Once you have an amount of devotion, it is not spent when playing cards with devotion requirements. You gain devotion to ideals primarily by playing locations.
 #### Locations
@@ -106,8 +104,6 @@ From the [Keyword Dictionary](https://docs.google.com/spreadsheets/d/1v2kB2lh71D
 - Deplete - At slow burst speed, pay the deplete cost and exhaust the location to draw 1.
 
 Note: Even if you don't *need* another location, you can use exploration to effectively replace a card in your hand with a draw from your deck via the Wilderness location's Deplete ability.
-
-- Test starting location
 
 ---
 ## The 7 Ideals
