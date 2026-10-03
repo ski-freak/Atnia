@@ -208,8 +208,7 @@ The round is broken up into a number of sequential phases.
 	1. If an effect refers to round end, it happens here.
 	2. Once all effects are resolved / there are no unresolved effects, move to the next phase.
 5. Draw Phase
-	1. Each player simultaneously chooses whether they would like to put the cards in their hand on the bottom of their deck (in a random order). 
-	2. Each player draws cards equal to 1+ the number of cards they just put on the bottom of their deck.
+	1. Each player draws a card
 	3. Begin next round
 
 - Combat phase
