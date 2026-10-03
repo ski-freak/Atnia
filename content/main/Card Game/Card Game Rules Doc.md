@@ -92,7 +92,7 @@ The most basic locations are the Core locations, which you can include any numbe
 #### Exploration
 Exploration allows you to trade a card in your hand for a location.
 
-At burst speed, you may explore by putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: you do not have to reveal the card you explored with and it does not matter what its ideals were, you can pick from any of the seven Wilderness locations. 
+At burst speed, you may explore by revealing and putting a card from your hand on the bottom of your deck to create and play any Wilderness location of your choice. Wilderness locations are single ideal locations which add 1 devotion to their ideal. Note: it does not matter what the ideals of the card you explored with were, you can pick from any of the seven Wilderness locations. 
 
 You cannot explore with cards with grey triangles in the bottom left and top right.
 
