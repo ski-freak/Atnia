@@ -225,7 +225,7 @@ Combat is how you can use your units to damage your opponent, or use your units 
 
 The battlefield is split up into three areas, the safe area, the offensive area, and the defensive area. Whenever you play a unit, as you pay its costs and put it onto the horizon, you must choose whether it is being played to the safe area or defensive area. If played to the defensive area it will arrive exhausted. Units in the safe area are safe from enemy attacks, units in the offensive area are vulnerable to enemy attacks, and units in the defensive area block enemy attacks that would otherwise be able to hurt you or your other units.
 
-During the main phase, while you are the active player and there are no unresolved effects, you may move one of your unexhausted units between the attacking, blocking, and safe areas of your battlefield, exhausting the unit. Moving to the offensive area requires starting an attack, and can be done by units already in the offensive area. To start an attack, you must choose what your unit is attacking:
+During the main phase, while you are the active player and there are no unresolved effects, you may move one of your unexhausted units between the attacking, blocking, and safe areas of your battlefield, exhausting the unit (you may move directly from any one area to any other area and do not have to go back to the safe area first). Moving to the offensive area requires starting an attack, and can be done by units already in the offensive area. To start an attack, you must choose what your unit is attacking:
 - You may attack your opponent.
 - You may attack an enemy unit in the offensive area.
 - If there are any enemy units in the defensive area, you MUST attack one of them, and the above two options are unavailable.
