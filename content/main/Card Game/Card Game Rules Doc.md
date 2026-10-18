@@ -79,7 +79,7 @@ The resources for playing cards are split into two separate systems: Energy, and
 ### Energy System
 There is a single (numerical) energy pool for each player. Players begin the game with 2 base energy and gain an additional one after each round (maximum is 10). Each round, players get energy equal to their base energy.
 
-After a round, if you have any unspent energy, bank up to 1 unspent energy for the following round (so this can put you up to a true maximum of 11). Banked energy is tracked separately, always spent before normal energy if possible, and can cannot be used to pay costs larger than your base energy.
+~~After a round, if you have any unspent energy, bank up to 1 unspent energy for the following round (so this can put you up to a true maximum of 11). Banked energy is tracked separately, always spent before normal energy if possible, and can cannot be used to pay costs larger than your base energy.~~ ENERGY BANKING IS REMOVED FOR CURRENT TESTING
 
 In paper, use separate dice to track your base energy, current energy, and banked energy.
 
